@@ -1,0 +1,26 @@
+[{
+		"name" : "google",
+		"address" : "8.8.8.8",
+		"enable" : true
+	}, {
+		"name" : "opendns",
+		"address" : "208.67.222.222",
+		"enable" : false
+	}, {
+		"name" : "meo",
+		"address" : "194.65.3.21",
+		"enable" : true
+	}, {
+		"name" : "vodafone",
+		"address" : "212.18.160.133",
+		"enable" : true
+	}, {
+		"name" : "cabovisao",
+		"address" : "213.228.128.5",
+		"enable" : true
+	}, {
+		"name" : "nos",
+		"address" : "212.113.191.130",
+		"enable" : true
+	}
+]
