@@ -21,7 +21,7 @@ h1 {
 }
 #mainTable thead tr th {
   font-weight: bold;
-  padding: 10px 8px 10px 20px;
+  padding: 10px 0px 10px 14px;
   border: solid 1px white;
 }
 #mainTable thead tr th span {
@@ -30,16 +30,16 @@ h1 {
   background-position: 100% 100%;
 }
 #mainTable thead tr th span:hover{
-  background-image: url('../media/hover.png');
+  background-image: url('../media/arrowHover.png');
 }
 #mainTable thead tr th.headerSortUp, #mainTable thead tr th.headerSortDown {
   background: #c1cdd6;
 }
 #mainTable thead tr th.headerSortUp span {
-  background-image: url('../media/up.png');
+  background-image: url('../media/arrowUp.png');
 }
 #mainTable thead tr th.headerSortDown span {
-  background-image: url('../media/down.png');
+  background-image: url('../media/arrowDown.png');
 }
 #mainTable tbody tr {
   color: #333333;
@@ -57,8 +57,11 @@ h1 {
 .hidden{
   display: none;
 }
+#mainTable tbody tr td img + span{
+  display: none;
+}
 /*
-#mainTable tbody tr td[data-blocked=true]::after {
+#mainTable tbody tr td[data-status=true]::after {
   content: url('../media/blocked.png');
 }
 #mainTable tbody tr td[more]:hover:after{
