@@ -1,0 +1,68 @@
+body {
+  font-family: 'Arimo', sans-serif;
+}
+h1, h1 ~ p, footer {
+  text-align: center;
+}
+h1 {
+  font-size: 24px;
+}
+::selection {
+  background: #E4E4E4;
+} 
+#mainTable {
+  margin: 0 auto 20px auto;
+  padding: 0px 2%;
+  min-width: 100%;
+}
+#mainTable thead {
+  cursor: pointer;
+  background-color: #CCCCCC;
+}
+#mainTable thead tr th {
+  font-weight: bold;
+  padding: 10px 8px 10px 20px;
+  border: solid 1px white;
+}
+#mainTable thead tr th span {
+  padding-right: 20px;
+  background-repeat: no-repeat;
+  background-position: 100% 100%;
+}
+#mainTable thead tr th span:hover{
+  background-image: url('../media/hover.png');
+}
+#mainTable thead tr th.headerSortUp, #mainTable thead tr th.headerSortDown {
+  background: #c1cdd6;
+}
+#mainTable thead tr th.headerSortUp span {
+  background-image: url('../media/up.png');
+}
+#mainTable thead tr th.headerSortDown span {
+  background-image: url('../media/down.png');
+}
+#mainTable tbody tr {
+  color: #333333;
+}
+#mainTable tbody tr:hover {
+  background-color: #E4E4E4;
+}
+#mainTable tbody tr td {
+  text-align: center;
+  padding: 10px;
+}
+#mainTable tbody tr td.lalign {
+  text-align: left;
+}
+.hidden{
+  display: none;
+}
+/*
+#mainTable tbody tr td[data-blocked=true]::after {
+  content: url('../media/blocked.png');
+}
+#mainTable tbody tr td[more]:hover:after{
+  content: attr(more);
+  content: "test";
+}
+*/

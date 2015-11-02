@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title></title>
+		<link rel="stylesheet" type="text/css" href="web/style/style.css" />
+		<link href='https://fonts.googleapis.com/css?family=Arimo' rel='stylesheet' type='text/css'>
+	</head>
+	<body>
+		<main>
+			<h1>List of blocked domains in Portugal</h1>
+			<p><span id="domainCount">...</span> domains loaded from <a href="data.json">data.json</a><br>NOTE: The only ISP scanned was MEO other will be soon.</p>
+			<table id="mainTable" cellspacing="0" cellpadding="0">
+				<thead>
+				<tr>
+					<th colspan="3">Info</td>
+					<th colspan="2" scope="colgroup">Cabovisao</th>
+					<th colspan="2" scope="colgroup">MEO</th>
+					<th colspan="2" scope="colgroup">NOS</th>
+					<th colspan="2" scope="colgroup">Vodafone</th>
+				</tr>
+				<tr>
+					<th scope="col"><span>Domain</span></th>
+					<th scope="col"><span>IP</span></th>
+					<th scope="col"><span>BlockDate</span></th>
+					<th scope="col"><span>S</span></th>
+					<th scope="col"><span>IP</span></th>
+					<th scope="col"><span>S</span></th>
+					<th scope="col"><span>IP</span></th>
+					<th scope="col"><span>S</span></th>
+					<th scope="col"><span>IP</span></th>
+					<th scope="col"><span>S</span></th>
+					<th scope="col"><span>IP</span></th>
+				</tr>
+				</thead>
+				<tbody id="tableBody">
+				<!-- TEMPLATE
+					<tr>
+						<td class="lalign">example.com</td>
+						<td>255.255.255</td>
+						<td>2015-10</td>
+						<td>True</td>
+						<td>True</td>
+						<td>True</td>
+					</tr>
+				-->
+				</tbody>
+			</table>
+		</main>
+		<footer>
+			<p>Made by <a href="http://tofran.com">ToFran</a>, source availabe on <a href="https://github.com/ToFran/PortugalPiracyBlocking">github</a> (feel free to contribute).</p>
+		</footer>
+	</body>
+	<script src='web/js/jquery.min.js'></script>
+    <script src='web/js/jquery.tablesorter.min.js'></script>
+    <script src="web/js/main.js"></script>
+</html>
