@@ -1,4 +1,4 @@
-$.getJSON('dnsBlocking.json', function(jsonData) {
+$.getJSON('blockList.json', function(jsonData) {
 	var domainCount = 0;
 	$.each( jsonData, function(domain, data) {
 		var newTr = document.createElement('tr');
@@ -12,11 +12,11 @@ $.getJSON('dnsBlocking.json', function(jsonData) {
 		newTr.innerHTML +=	"<td>" + data.blockDate + "</td>";
 		// isp collum
 		for(var eachIsp in data.isp){
-			if(data.isp[eachIsp].blocked == true){
-				newTr.innerHTML += "<td><span class='hidden'>N</span><img alt='Blocked' src='web/media/blocked.png'></td>";
+			if(typeof data.isp[eachIsp].status === 'undefined'){
+				newTr.innerHTML += "<td>n/a</td>";
 			}
 			else{
-				newTr.innerHTML += "<td><span class='hidden'>Y</span><img alt='Not blocked' src='web/media/notBlocked.png'></td>";
+				newTr.innerHTML += "<td><img alt='status' src='web/media/" + data.isp[eachIsp].status  + ".png'><span class='status'>" + data.isp[eachIsp].status + "</spam></td>";
 			}
 			newTd = document.createElement('td');
 			newTd.innerHTML = data.isp[eachIsp].dnsResponse[0];
