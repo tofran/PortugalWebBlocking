@@ -1,1552 +1,2836 @@
 {
-	"1337x.to" : {
-		"blockDate" : "2015-10",
-		"highlight" : false,
-		"ip" : [
-			"104.28.21.87",
-			"104.28.20.87"
-		],
-		"isp" : {
-			"meo" : {
-				"blocked" : true,
-				"dnsResponse" : [
-					"213.13.145.120"
-				]
-			}
-		}
-	},
-	"altas-emocoes.tv" : {
-		"blockDate" : "2014-11",
-		"highlight" : false,
-		"ip" : [
-			"79.143.190.177"
-		],
-		"isp" : {
-			"meo" : {
-				"blocked" : true,
-				"dnsResponse" : []
-			}
-		}
-	},
-	"aovivoagora.com" : {
-		"blockDate" : "2014-11",
-		"highlight" : false,
-		"ip" : [
-			"82.221.105.12"
-		],
-		"isp" : {
-			"meo" : {
-				"blocked" : true,
-				"dnsResponse" : []
-			}
-		}
-	},
-	"atdhe.eu" : {
-		"blockDate" : "2014-11",
-		"highlight" : false,
-		"ip" : [
-			"188.165.226.20"
-		],
-		"isp" : {
-			"meo" : {
-				"blocked" : true,
-				"dnsResponse" : []
-			}
-		}
-	},
-	"baixartv.com" : {
-		"blockDate" : "2015-10",
-		"highlight" : false,
-		"ip" : [
-			"82.221.105.12"
-		],
-		"isp" : {
-			"meo" : {
-				"blocked" : false,
-				"dnsResponse" : [
-					"82.221.105.12"
-				]
-			}
-		}
-	},
-	"betclic.com" : {
-		"blockDate" : "2014-01",
-		"highlight" : false,
-		"ip" : [
-			"94.125.61.194"
-		],
-		"isp" : {
-			"meo" : {
-				"blocked" : true,
-				"dnsResponse" : []
-			}
-		}
-	},
-	"btrev.net" : {
-		"blockDate" : "2015-10",
-		"highlight" : false,
-		"ip" : [
-			"62.210.209.82"
-		],
-		"isp" : {
-			"meo" : {
-				"blocked" : true,
-				"dnsResponse" : [
-					"213.13.145.120"
-				]
-			}
-		}
-	},
-	"btvsports.com" : {
-		"blockDate" : "2014-11",
-		"highlight" : false,
-		"ip" : [
-			"209.99.40.222"
-		],
-		"isp" : {
-			"meo" : {
-				"blocked" : true,
-				"dnsResponse" : []
-			}
-		}
-	},
-	"canaisemdirecto.com" : {
-		"blockDate" : "2014-04",
-		"highlight" : false,
-		"ip" : [
-			"185.53.177.9"
-		],
-		"isp" : {
-			"meo" : {
-				"blocked" : true,
-				"dnsResponse" : []
-			}
-		}
-	},
-	"casadossegredos.tv" : {
-		"blockDate" : "2013-10",
-		"highlight" : false,
-		"ip" : [
-			"72.52.4.90"
-		],
-		"isp" : {
-			"meo" : {
-				"blocked" : true,
-				"dnsResponse" : []
-			}
-		}
-	},
-	"cinefilmesonline.net" : {
-		"blockDate" : "2015-10",
-		"highlight" : false,
-		"ip" : [
-			"94.242.57.175",
-			"94.242.57.65",
-			"94.242.59.129",
-			"185.22.172.110"
-		],
-		"isp" : {
-			"meo" : {
-				"blocked" : false,
-				"dnsResponse" : [
-					"94.242.57.175",
-					"94.242.57.65",
-					"94.242.59.129",
-					"185.22.172.110"
-				]
-			}
-		}
-	},
-	"clubedodownload.info" : {
-		"blockDate" : "2015-10",
-		"highlight" : false,
-		"ip" : [
-			"82.221.105.12"
-		],
-		"isp" : {
-			"meo" : {
-				"blocked" : true,
-				"dnsResponse" : [
-					"213.13.145.120"
-				]
-			}
-		}
-	},
-	"cocas.tv" : {
-		"blockDate" : "2014-04",
-		"highlight" : false,
-		"ip" : [
-			"8.5.1.32"
-		],
-		"isp" : {
-			"meo" : {
-				"blocked" : true,
-				"dnsResponse" : []
-			}
-		}
-	},
-	"cocas1.com" : {
-		"blockDate" : "2014-11",
-		"highlight" : false,
-		"ip" : [
-			"185.2.29.4"
-		],
-		"isp" : {
-			"meo" : {
-				"blocked" : true,
-				"dnsResponse" : []
-			}
-		}
-	},
-	"dayt.se" : {
-		"blockDate" : "2015-10",
-		"highlight" : false,
-		"ip" : [
-			"104.27.185.97",
-			"104.27.184.97"
-		],
-		"isp" : {
-			"meo" : {
-				"blocked" : true,
-				"dnsResponse" : [
-					"213.13.145.120"
-				]
-			}
-		}
-	},
-	"elitedosfilmes.com" : {
-		"blockDate" : "2015-10",
-		"highlight" : false,
-		"ip" : [
-			"104.27.189.33",
-			"104.27.188.33"
-		],
-		"isp" : {
-			"meo" : {
-				"blocked" : false,
-				"dnsResponse" : [
-					"104.27.189.33",
-					"104.27.188.33"
-				]
-			}
-		}
-	},
-	"estadiofutebol.com" : {
-		"blockDate" : "2014-11",
-		"highlight" : false,
-		"ip" : [
-			"141.101.118.124",
-			"141.101.118.125"
-		],
-		"isp" : {
-			"meo" : {
-				"blocked" : true,
-				"dnsResponse" : []
-			}
-		}
-	},
-	"extratorrent.cc" : {
-		"blockDate" : "2015-10",
-		"highlight" : false,
-		"ip" : [
-			"104.20.62.178",
-			"104.20.63.178"
-		],
-		"isp" : {
-			"meo" : {
-				"blocked" : true,
-				"dnsResponse" : [
-					"213.13.145.120"
-				]
-			}
-		}
-	},
-	"facevideotv1.com" : {
-		"blockDate" : "2014-04",
-		"highlight" : false,
-		"ip" : [
-			"184.168.221.60"
-		],
-		"isp" : {
-			"meo" : {
-				"blocked" : true,
-				"dnsResponse" : []
-			}
-		}
-	},
-	"feed2all.eu" : {
-		"blockDate" : "2014-11",
-		"highlight" : false,
-		"ip" : [
-			"109.202.109.18"
-		],
-		"isp" : {
-			"meo" : {
-				"blocked" : true,
-				"dnsResponse" : []
-			}
-		}
-	},
-	"filmesonline2.com" : {
-		"blockDate" : "2015-10",
-		"highlight" : false,
-		"ip" : [
-			"104.25.200.14",
-			"104.25.201.14"
-		],
-		"isp" : {
-			"meo" : {
-				"blocked" : false,
-				"dnsResponse" : [
-					"104.25.200.14",
-					"104.25.201.14"
-				]
-			}
-		}
-	},
-	"filmesonlinegratis.net" : {
-		"blockDate" : "2015-10",
-		"highlight" : false,
-		"ip" : [
-			"104.20.23.105",
-			"104.20.22.105"
-		],
-		"isp" : {
-			"meo" : {
-				"blocked" : false,
-				"dnsResponse" : [
-					"104.20.22.105",
-					"104.20.23.105"
-				]
-			}
-		}
-	},
-	"filmesonlineportugueses.wordpress.com" : {
-		"blockDate" : "2015-10",
-		"highlight" : false,
-		"ip" : [
-			"192.0.78.12",
-			"192.0.78.13"
-		],
-		"isp" : {
-			"meo" : {
-				"blocked" : true,
-				"dnsResponse" : [
-					"213.13.145.120"
-				]
-			}
-		}
-	},
-	"firstrownow.eu" : {
-		"blockDate" : "2014-11",
-		"highlight" : false,
-		"ip" : [
-			"188.95.48.110"
-		],
-		"isp" : {
-			"meo" : {
-				"blocked" : true,
-				"dnsResponse" : []
-			}
-		}
-	},
-	"forum-maximus.net" : {
-		"blockDate" : "2015-10",
-		"highlight" : false,
-		"ip" : [
-			"104.28.21.57",
-			"104.28.20.57"
-		],
-		"isp" : {
-			"meo" : {
-				"blocked" : true,
-				"dnsResponse" : [
-					"213.13.145.120"
-				]
-			}
-		}
-	},
-	"futborlas.com" : {
-		"blockDate" : "2014-11",
-		"highlight" : false,
-		"ip" : [
-			"162.255.87.180"
-		],
-		"isp" : {
-			"meo" : {
-				"blocked" : true,
-				"dnsResponse" : []
-			}
-		}
-	},
-	"futebolpt.com" : {
-		"blockDate" : "2014-04",
-		"highlight" : false,
-		"ip" : [],
-		"isp" : {
-			"meo" : {
-				"blocked" : false,
-				"dnsResponse" : []
-			}
-		}
-	},
-	"gigatuga.com" : {
-		"blockDate" : "2015-10",
-		"highlight" : false,
-		"ip" : [
-			"5.135.39.227"
-		],
-		"isp" : {
-			"meo" : {
-				"blocked" : true,
-				"dnsResponse" : [
-					"213.13.145.120"
-				]
-			}
-		}
-	},
-	"inforzone.org" : {
-		"blockDate" : "2014-04",
-		"highlight" : false,
-		"ip" : [
-			"141.8.224.239"
-		],
-		"isp" : {
-			"meo" : {
-				"blocked" : true,
-				"dnsResponse" : []
-			}
-		}
-	},
-	"ishunter.net" : {
-		"blockDate" : "2014-11",
-		"highlight" : false,
-		"ip" : [
-			"199.59.243.120"
-		],
-		"isp" : {
-			"meo" : {
-				"blocked" : false,
-				"dnsResponse" : [
-					"199.59.243.120"
-				]
-			}
-		}
-	},
-	"isohunt.to" : {
-		"blockDate" : "2015-10",
-		"highlight" : false,
-		"ip" : [
-			"198.41.189.233",
-			"198.41.190.233"
-		],
-		"isp" : {
-			"meo" : {
-				"blocked" : true,
-				"dnsResponse" : [
-					"213.13.145.120"
-				]
-			}
-		}
-	},
-	"kat.cr" : {
-		"blockDate" : "2015-10",
-		"highlight" : false,
-		"ip" : [
-			"213.128.85.42",
-			"195.3.144.238",
-			"193.24.208.252",
-			"94.199.48.231",
-			"78.138.99.144",
-			"195.3.147.99",
-			"176.123.6.225",
-			"95.215.61.203"
-		],
-		"isp" : {
-			"meo" : {
-				"blocked" : true,
-				"dnsResponse" : [
-					"213.13.145.120"
-				]
-			}
-		}
-	},
-	"livesoccerhq.com" : {
-		"blockDate" : "2014-11",
-		"highlight" : false,
-		"ip" : [
-			"91.195.241.72"
-		],
-		"isp" : {
-			"meo" : {
-				"blocked" : true,
-				"dnsResponse" : []
-			}
-		}
-	},
-	"livesportshd.eu" : {
-		"blockDate" : "2014-11",
-		"highlight" : false,
-		"ip" : [
-			"103.224.182.232"
-		],
-		"isp" : {
-			"meo" : {
-				"blocked" : true,
-				"dnsResponse" : []
-			}
-		}
-	},
-	"lusofilmesonline.com" : {
-		"blockDate" : "2015-10",
-		"highlight" : false,
-		"ip" : [
-			"216.239.38.21",
-			"216.239.32.21",
-			"216.239.34.21",
-			"216.239.36.21"
-		],
-		"isp" : {
-			"meo" : {
-				"blocked" : false,
-				"dnsResponse" : [
-					"216.239.32.21",
-					"216.239.34.21",
-					"216.239.36.21",
-					"216.239.38.21"
-				]
-			}
-		}
-	},
-	"lusoshare.com" : {
-		"blockDate" : "2015-10",
-		"highlight" : false,
-		"ip" : [
-			"104.28.13.97",
-			"104.28.12.97"
-		],
-		"isp" : {
-			"meo" : {
-				"blocked" : true,
-				"dnsResponse" : [
-					"213.13.145.120"
-				]
-			}
-		}
-	},
-	"megafilmeshd.net" : {
-		"blockDate" : "2015-10",
-		"highlight" : false,
-		"ip" : [
-			"155.133.38.30"
-		],
-		"isp" : {
-			"meo" : {
-				"blocked" : true,
-				"dnsResponse" : [
-					"213.13.145.120"
-				]
-			}
-		}
-	},
-	"meridiem91.tv" : {
-		"blockDate" : "2014-11",
-		"highlight" : false,
-		"ip" : [
-			"87.106.223.141"
-		],
-		"isp" : {
-			"meo" : {
-				"blocked" : true,
-				"dnsResponse" : []
-			}
-		}
-	},
-	"monova.org" : {
-		"blockDate" : "2015-10",
-		"highlight" : false,
-		"ip" : [
-			"104.28.26.77",
-			"104.28.27.77"
-		],
-		"isp" : {
-			"meo" : {
-				"blocked" : false,
-				"dnsResponse" : [
-					"104.28.27.77",
-					"104.28.26.77"
-				]
-			}
-		}
-	},
-	"moov7.net" : {
-		"blockDate" : "2015-10",
-		"highlight" : false,
-		"ip" : [
-			"192.64.119.243"
-		],
-		"isp" : {
-			"meo" : {
-				"blocked" : true,
-				"dnsResponse" : [
-					"213.13.145.120"
-				]
-			}
-		}
-	},
-	"osmetralhas.pt" : {
-		"blockDate" : "2015-10",
-		"highlight" : false,
-		"ip" : [],
-		"isp" : {
-			"meo" : {
-				"blocked" : false,
-				"dnsResponse" : [
-					"213.13.145.120"
-				]
-			}
-		}
-	},
-	"osreformados.com" : {
-		"blockDate" : "2015-10",
-		"highlight" : false,
-		"ip" : [
-			"104.28.9.57",
-			"104.28.8.57"
-		],
-		"isp" : {
-			"meo" : {
-				"blocked" : true,
-				"dnsResponse" : [
-					"213.13.145.120"
-				]
-			}
-		}
-	},
-	"piratamania.com" : {
-		"blockDate" : "2013-10",
-		"highlight" : false,
-		"ip" : [
-			"69.172.201.208"
-		],
-		"isp" : {
-			"meo" : {
-				"blocked" : true,
-				"dnsResponse" : []
-			}
-		}
-	},
-	"piratatugafilmes.com" : {
-		"blockDate" : "2015-10",
-		"highlight" : false,
-		"ip" : [
-			"104.31.68.175",
-			"104.31.69.175"
-		],
-		"isp" : {
-			"meo" : {
-				"blocked" : true,
-				"dnsResponse" : [
-					"213.13.145.120"
-				]
-			}
-		}
-	},
-	"piratebay.to" : {
-		"blockDate" : "2015-10",
-		"highlight" : false,
-		"ip" : [
-			"104.27.130.119",
-			"104.27.131.119"
-		],
-		"isp" : {
-			"meo" : {
-				"blocked" : true,
-				"dnsResponse" : [
-					"213.13.145.120"
-				]
-			}
-		}
-	},
-	"poptuga.com" : {
-		"blockDate" : "2015-10",
-		"highlight" : false,
-		"ip" : [
-			"188.95.227.20"
-		],
-		"isp" : {
-			"meo" : {
-				"blocked" : true,
-				"dnsResponse" : [
-					"213.13.145.120"
-				]
-			}
-		}
-	},
-	"portugaldesportivo.com" : {
-		"blockDate" : "2014-11",
-		"highlight" : false,
-		"ip" : [
-			"104.28.10.21",
-			"104.28.11.21"
-		],
-		"isp" : {
-			"meo" : {
-				"blocked" : true,
-				"dnsResponse" : []
-			}
-		}
-	},
-	"primewire.ag" : {
-		"blockDate" : "2015-10",
-		"highlight" : false,
-		"ip" : [
-			"104.20.14.201",
-			"104.20.15.201"
-		],
-		"isp" : {
-			"meo" : {
-				"blocked" : false,
-				"dnsResponse" : [
-					"104.20.15.201",
-					"104.20.14.201"
-				]
-			}
-		}
-	},
-	"pt.betclic.com" : {
-		"blockDate" : "2014-01",
-		"highlight" : false,
-		"ip" : [
-			"94.125.61.194"
-		],
-		"isp" : {
-			"meo" : {
-				"blocked" : true,
-				"dnsResponse" : []
-			}
-		}
-	},
-	"ptxtuga.com" : {
-		"blockDate" : "2015-10",
-		"highlight" : false,
-		"ip" : [],
-		"isp" : {
-			"meo" : {
-				"blocked" : false,
-				"dnsResponse" : [
-					"213.13.145.120"
-				]
-			}
-		}
-	},
-	"rarbg.to" : {
-		"blockDate" : "2015-10",
-		"highlight" : false,
-		"ip" : [
-			"185.37.100.122"
-		],
-		"isp" : {
-			"meo" : {
-				"blocked" : true,
-				"dnsResponse" : [
-					"213.13.145.120"
-				]
-			}
-		}
-	},
-	"ratotv.net" : {
-		"blockDate" : "2015-10",
-		"highlight" : false,
-		"ip" : [
-			"104.28.23.64",
-			"104.28.22.64"
-		],
-		"isp" : {
-			"meo" : {
-				"blocked" : true,
-				"dnsResponse" : [
-					"213.13.145.120"
-				]
-			}
-		}
-	},
-	"redweb.tv" : {
-		"blockDate" : "2014-11",
-		"highlight" : false,
-		"ip" : [
-			"199.59.243.120"
-		],
-		"isp" : {
-			"meo" : {
-				"blocked" : true,
-				"dnsResponse" : []
-			}
-		}
-	},
-	"revistas-jornais.blogspot.com" : {
-		"blockDate" : "2015-10",
-		"highlight" : false,
-		"ip" : [
-			"216.58.208.1"
-		],
-		"isp" : {
-			"meo" : {
-				"blocked" : true,
-				"dnsResponse" : [
-					"213.13.145.120"
-				]
-			}
-		}
-	},
-	"revistas-jornais.blogspot.pt" : {
-		"blockDate" : "2015-10",
-		"highlight" : false,
-		"ip" : [
-			"216.58.208.1"
-		],
-		"isp" : {
-			"meo" : {
-				"blocked" : true,
-				"dnsResponse" : [
-					"213.13.145.120"
-				]
-			}
-		}
-	},
-	"rpds-download.org" : {
-		"blockDate" : "2015-10",
-		"highlight" : false,
-		"ip" : [],
-		"isp" : {
-			"meo" : {
-				"blocked" : false,
-				"dnsResponse" : []
-			}
-		}
-	},
-	"sapo.tv" : {
-		"blockDate" : "2014-11",
-		"highlight" : false,
-		"ip" : [],
-		"isp" : {
-			"meo" : {
-				"blocked" : false,
-				"dnsResponse" : []
-			}
-		}
-	},
-	"scnsrc.me" : {
-		"blockDate" : "2015-10",
-		"highlight" : false,
-		"ip" : [
-			"96.45.178.138"
-		],
-		"isp" : {
-			"meo" : {
-				"blocked" : false,
-				"dnsResponse" : [
-					"96.45.178.138"
-				]
-			}
-		}
-	},
-	"seriestvix.tv" : {
-		"blockDate" : "2015-10",
-		"highlight" : false,
-		"ip" : [
-			"185.22.172.110",
-			"94.242.57.65",
-			"94.242.59.129"
-		],
-		"isp" : {
-			"meo" : {
-				"blocked" : true,
-				"dnsResponse" : [
-					"213.13.145.120"
-				]
-			}
-		}
-	},
-	"seriesvideobb.com" : {
-		"blockDate" : "2015-10",
-		"highlight" : false,
-		"ip" : [
-			"192.99.40.42"
-		],
-		"isp" : {
-			"meo" : {
-				"blocked" : false,
-				"dnsResponse" : [
-					"192.99.40.42"
-				]
-			}
-		}
-	},
-	"sharetuga.com" : {
-		"blockDate" : "2015-10",
-		"highlight" : false,
-		"ip" : [
-			"193.37.152.25"
-		],
-		"isp" : {
-			"meo" : {
-				"blocked" : false,
-				"dnsResponse" : [
-					"193.37.152.25"
-				]
-			}
-		}
-	},
-	"soccertoall.net" : {
-		"blockDate" : "2014-11",
-		"highlight" : false,
-		"ip" : [
-			"104.28.2.46",
-			"104.28.3.46"
-		],
-		"isp" : {
-			"meo" : {
-				"blocked" : true,
-				"dnsResponse" : []
-			}
-		}
-	},
-	"soinformatica.org" : {
-		"blockDate" : "2014-11",
-		"highlight" : false,
-		"ip" : [
-			"172.99.89.194"
-		],
-		"isp" : {
-			"meo" : {
-				"blocked" : true,
-				"dnsResponse" : []
-			}
-		}
-	},
-	"sportlemon.tv" : {
-		"blockDate" : "2014-11",
-		"highlight" : false,
-		"ip" : [
-			"185.10.57.236"
-		],
-		"isp" : {
-			"meo" : {
-				"blocked" : true,
-				"dnsResponse" : []
-			}
-		}
-	},
-	"sporttvdirecto.com" : {
-		"blockDate" : "2014-04",
-		"highlight" : false,
-		"ip" : [
-			"91.195.241.72"
-		],
-		"isp" : {
-			"meo" : {
-				"blocked" : true,
-				"dnsResponse" : []
-			}
-		}
-	},
-	"sporttvdotuga.com" : {
-		"blockDate" : "2014-11",
-		"highlight" : false,
-		"ip" : [
-			"185.53.177.8"
-		],
-		"isp" : {
-			"meo" : {
-				"blocked" : true,
-				"dnsResponse" : []
-			}
-		}
-	},
-	"sporttvfree.com" : {
-		"blockDate" : "2014-11",
-		"highlight" : false,
-		"ip" : [
-			"178.124.131.229"
-		],
-		"isp" : {
-			"meo" : {
-				"blocked" : true,
-				"dnsResponse" : []
-			}
-		}
-	},
-	"sporttvhd.tv" : {
-		"blockDate" : "2014-04",
-		"highlight" : false,
-		"ip" : [
-			"199.59.243.120"
-		],
-		"isp" : {
-			"meo" : {
-				"blocked" : true,
-				"dnsResponse" : []
-			}
-		}
-	},
-	"sporttvhdmi.com" : {
-		"blockDate" : "2014-04",
-		"highlight" : false,
-		"ip" : [
-			"72.52.4.119"
-		],
-		"isp" : {
-			"meo" : {
-				"blocked" : true,
-				"dnsResponse" : []
-			}
-		}
-	},
-	"sporttvparatodos.com" : {
-		"blockDate" : "2014-11",
-		"highlight" : false,
-		"ip" : [],
-		"isp" : {
-			"meo" : {
-				"blocked" : false,
-				"dnsResponse" : []
-			}
-		}
-	},
-	"sportvgratis.com" : {
-		"blockDate" : "2014-04",
-		"highlight" : false,
-		"ip" : [
-			"8.5.1.51"
-		],
-		"isp" : {
-			"meo" : {
-				"blocked" : true,
-				"dnsResponse" : []
-			}
-		}
-	},
-	"sportvgratis.tv" : {
-		"blockDate" : "2014-11",
-		"highlight" : false,
-		"ip" : [],
-		"isp" : {
-			"meo" : {
-				"blocked" : false,
-				"dnsResponse" : []
-			}
-		}
-	},
-	"sportvgratis1.com" : {
-		"blockDate" : "2014-04",
-		"highlight" : false,
-		"ip" : [
-			"185.53.179.6"
-		],
-		"isp" : {
-			"meo" : {
-				"blocked" : true,
-				"dnsResponse" : []
-			}
-		}
-	},
-	"televisaofree.com" : {
-		"blockDate" : "2014-11",
-		"highlight" : false,
-		"ip" : [
-			"103.224.182.225"
-		],
-		"isp" : {
-			"meo" : {
-				"blocked" : true,
-				"dnsResponse" : []
-			}
-		}
-	},
-	"thepiratebay.la" : {
-		"blockDate" : "2015-10",
-		"highlight" : false,
-		"ip" : [
-			"104.28.2.115",
-			"104.28.3.115"
-		],
-		"isp" : {
-			"meo" : {
-				"blocked" : true,
-				"dnsResponse" : [
-					"213.13.145.120"
-				]
-			}
-		}
-	},
-	"thesporttv.eu" : {
-		"blockDate" : "2014-04",
-		"highlight" : false,
-		"ip" : [
-			"103.224.182.251"
-		],
-		"isp" : {
-			"meo" : {
-				"blocked" : true,
-				"dnsResponse" : []
-			}
-		}
-	},
-	"thewatchseries.to" : {
-		"blockDate" : "2015-10",
-		"highlight" : false,
-		"ip" : [
-			"81.17.17.10",
-			"141.255.164.122"
-		],
-		"isp" : {
-			"meo" : {
-				"blocked" : true,
-				"dnsResponse" : [
-					"213.13.145.120"
-				]
-			}
-		}
-	},
-	"toppt.net" : {
-		"blockDate" : "2015-10",
-		"highlight" : false,
-		"ip" : [
-			"104.28.18.30",
-			"104.28.19.30"
-		],
-		"isp" : {
-			"meo" : {
-				"blocked" : true,
-				"dnsResponse" : [
-					"213.13.145.120"
-				]
-			}
-		}
-	},
-	"toppt.tv" : {
-		"blockDate" : "2015-10",
-		"highlight" : false,
-		"ip" : [
-			"104.28.30.9",
-			"104.28.31.9"
-		],
-		"isp" : {
-			"meo" : {
-				"blocked" : true,
-				"dnsResponse" : [
-					"213.13.145.120"
-				]
-			}
-		}
-	},
-	"torrenthound.com" : {
-		"blockDate" : "2015-10",
-		"highlight" : false,
-		"ip" : [
-			"88.80.6.5"
-		],
-		"isp" : {
-			"meo" : {
-				"blocked" : false,
-				"dnsResponse" : [
-					"88.80.6.5"
-				]
-			}
-		}
-	},
-	"torrentreactor.com" : {
-		"blockDate" : "2015-10",
-		"highlight" : false,
-		"ip" : [
-			"78.142.19.11"
-		],
-		"isp" : {
-			"meo" : {
-				"blocked" : true,
-				"dnsResponse" : [
-					"213.13.145.120"
-				]
-			}
-		}
-	},
-	"tuga-filmes.info" : {
-		"blockDate" : "2015-10",
-		"highlight" : false,
-		"ip" : [
-			"104.31.69.176",
-			"104.31.68.176"
-		],
-		"isp" : {
-			"meo" : {
-				"blocked" : false,
-				"dnsResponse" : [
-					"104.31.69.176",
-					"104.31.68.176"
-				]
-			}
-		}
-	},
-	"tuga.io" : {
-		"blockDate" : "2015-10",
-		"highlight" : false,
-		"ip" : [
-			"104.28.21.142",
-			"104.28.20.142"
-		],
-		"isp" : {
-			"meo" : {
-				"blocked" : true,
-				"dnsResponse" : [
-					"213.13.145.120"
-				]
-			}
-		}
-	},
-	"tugaanimado.net" : {
-		"blockDate" : "2015-10",
-		"highlight" : false,
-		"ip" : [
-			"31.22.4.114"
-		],
-		"isp" : {
-			"meo" : {
-				"blocked" : true,
-				"dnsResponse" : [
-					"213.13.145.120"
-				]
-			}
-		}
-	},
-	"tugaflix.com" : {
-		"blockDate" : "2015-10",
-		"highlight" : false,
-		"ip" : [
-			"104.18.48.220",
-			"104.18.49.220"
-		],
-		"isp" : {
-			"meo" : {
-				"blocked" : true,
-				"dnsResponse" : [
-					"213.13.145.120"
-				]
-			}
-		}
-	},
-	"tugafoot.com" : {
-		"blockDate" : "2014-04",
-		"highlight" : false,
-		"ip" : [
-			"66.135.47.125"
-		],
-		"isp" : {
-			"meo" : {
-				"blocked" : true,
-				"dnsResponse" : []
-			}
-		}
-	},
-	"tugafoot1.com" : {
-		"blockDate" : "2014-11",
-		"highlight" : false,
-		"ip" : [
-			"8.5.1.30"
-		],
-		"isp" : {
-			"meo" : {
-				"blocked" : true,
-				"dnsResponse" : []
-			}
-		}
-	},
-	"tugafoothd.com" : {
-		"blockDate" : "2014-11",
-		"highlight" : false,
-		"ip" : [
-			"8.5.1.51"
-		],
-		"isp" : {
-			"meo" : {
-				"blocked" : true,
-				"dnsResponse" : []
-			}
-		}
-	},
-	"tugaoxe.com" : {
-		"blockDate" : "2015-10",
-		"highlight" : false,
-		"ip" : [
-			"209.99.40.223"
-		],
-		"isp" : {
-			"meo" : {
-				"blocked" : true,
-				"dnsResponse" : [
-					"213.13.145.120"
-				]
-			}
-		}
-	},
-	"tugastream.com" : {
-		"blockDate" : "2014-11",
-		"highlight" : false,
-		"ip" : [
-			"141.101.118.8",
-			"141.101.118.9"
-		],
-		"isp" : {
-			"meo" : {
-				"blocked" : true,
-				"dnsResponse" : []
-			}
-		}
-	},
-	"tugastvs.com" : {
-		"blockDate" : "2014-11",
-		"highlight" : false,
-		"ip" : [
-			"69.172.201.208"
-		],
-		"isp" : {
-			"meo" : {
-				"blocked" : true,
-				"dnsResponse" : []
-			}
-		}
-	},
-	"tvborlas.net" : {
-		"blockDate" : "2014-11",
-		"highlight" : false,
-		"ip" : [
-			"50.21.191.108"
-		],
-		"isp" : {
-			"meo" : {
-				"blocked" : true,
-				"dnsResponse" : []
-			}
-		}
-	},
-	"tvdospobres.com" : {
-		"blockDate" : "2014-11",
-		"highlight" : false,
-		"ip" : [
-			"91.195.241.72"
-		],
-		"isp" : {
-			"meo" : {
-				"blocked" : true,
-				"dnsResponse" : []
-			}
-		}
-	},
-	"tvfree2.me" : {
-		"blockDate" : "2014-11",
-		"highlight" : false,
-		"ip" : [
-			"104.28.20.105",
-			"104.28.21.105"
-		],
-		"isp" : {
-			"meo" : {
-				"blocked" : true,
-				"dnsResponse" : []
-			}
-		}
-	},
-	"tvfree4.me" : {
-		"blockDate" : "2014-04",
-		"highlight" : false,
-		"ip" : [
-			"104.28.29.62",
-			"104.28.28.62"
-		],
-		"isp" : {
-			"meo" : {
-				"blocked" : true,
-				"dnsResponse" : []
-			}
-		}
-	},
-	"tvgente.com" : {
-		"blockDate" : "2014-04",
-		"highlight" : false,
-		"ip" : [
-			"72.52.4.119"
-		],
-		"isp" : {
-			"meo" : {
-				"blocked" : true,
-				"dnsResponse" : []
-			}
-		}
-	},
-	"tvgente.eu" : {
-		"blockDate" : "2014-11",
-		"highlight" : false,
-		"ip" : [],
-		"isp" : {
-			"meo" : {
-				"blocked" : false,
-				"dnsResponse" : []
-			}
-		}
-	},
-	"tvgolo.com" : {
-		"blockDate" : "2014-11",
-		"highlight" : false,
-		"ip" : [
-			"64.131.69.154"
-		],
-		"isp" : {
-			"meo" : {
-				"blocked" : true,
-				"dnsResponse" : []
-			}
-		}
-	},
-	"tvportugalhd.com" : {
-		"blockDate" : "2014-04",
-		"highlight" : false,
-		"ip" : [
-			"69.172.201.208"
-		],
-		"isp" : {
-			"meo" : {
-				"blocked" : true,
-				"dnsResponse" : []
-			}
-		}
-	},
-	"tvtuga.tv" : {
-		"blockDate" : "2014-11",
-		"highlight" : false,
-		"ip" : [
-			"192.64.119.113"
-		],
-		"isp" : {
-			"meo" : {
-				"blocked" : true,
-				"dnsResponse" : []
-			}
-		}
-	},
-	"tvzune.com" : {
-		"blockDate" : "2014-04",
-		"highlight" : false,
-		"ip" : [
-			"72.52.4.119"
-		],
-		"isp" : {
-			"meo" : {
-				"blocked" : true,
-				"dnsResponse" : []
-			}
-		}
-	},
-	"uber.com" : {
-		"blockDate" : "2015-10",
-		"highlight" : false,
-		"ip" : [
-			"104.36.192.220",
-			"104.36.192.221",
-			"104.36.192.132",
-			"104.36.192.133",
-			"104.36.192.182",
-			"104.36.192.135"
-		],
-		"isp" : {
-			"meo" : {
-				"blocked" : false,
-				"dnsResponse" : [
-					"104.36.192.182",
-					"104.36.192.135",
-					"104.36.192.220",
-					"104.36.192.221",
-					"104.36.192.132",
-					"104.36.192.133"
-				]
-			}
-		}
-	},
-	"warez-box.net" : {
-		"blockDate" : "2015-10",
-		"highlight" : false,
-		"ip" : [
-			"104.27.176.172",
-			"104.27.177.172"
-		],
-		"isp" : {
-			"meo" : {
-				"blocked" : false,
-				"dnsResponse" : [
-					"104.27.177.172",
-					"104.27.176.172"
-				]
-			}
-		}
-	},
-	"watchseries.li" : {
-		"blockDate" : "2015-10",
-		"highlight" : false,
-		"ip" : [
-			"104.31.87.125",
-			"104.31.86.125"
-		],
-		"isp" : {
-			"meo" : {
-				"blocked" : false,
-				"dnsResponse" : [
-					"104.31.86.125",
-					"104.31.87.125"
-				]
-			}
-		}
-	},
-	"watchseries.lt" : {
-		"blockDate" : "2015-10",
-		"highlight" : false,
-		"ip" : [
-			"104.25.203.28",
-			"104.25.202.28"
-		],
-		"isp" : {
-			"meo" : {
-				"blocked" : true,
-				"dnsResponse" : [
-					"213.13.145.120"
-				]
-			}
-		}
-	},
-	"yts.to" : {
-		"blockDate" : "2015-10",
-		"highlight" : false,
-		"ip" : [
-			"185.90.62.50"
-		],
-		"isp" : {
-			"meo" : {
-				"blocked" : true,
-				"dnsResponse" : [
-					"213.13.145.120"
-				]
-			}
-		}
-	},
-	"zuuk.net" : {
-		"blockDate" : "2014-11",
-		"highlight" : false,
-		"ip" : [
-			"78.153.194.100"
-		],
-		"isp" : {
-			"meo" : {
-				"blocked" : true,
-				"dnsResponse" : []
-			}
-		}
-	}
+ "1337x.to": {
+  "blockDate": "2015-10", 
+  "highlight": false, 
+  "ip": [
+   "104.28.21.87", 
+   "104.28.20.87"
+  ], 
+  "isp": {
+   "cabovisao": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "meo": {
+    "blocked": true, 
+    "dnsResponse": [
+     "213.13.145.120"
+    ]
+   }, 
+   "nos": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "vodafone": {
+    "blocked": true, 
+    "dnsResponse": []
+   }
+  }
+ }, 
+ "altas-emocoes.tv": {
+  "blockDate": "2014-11", 
+  "highlight": false, 
+  "ip": [
+   "79.143.190.177"
+  ], 
+  "isp": {
+   "cabovisao": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "meo": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "nos": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "vodafone": {
+    "blocked": true, 
+    "dnsResponse": []
+   }
+  }
+ }, 
+ "aovivoagora.com": {
+  "blockDate": "2014-11", 
+  "highlight": false, 
+  "ip": [
+   "82.221.105.12"
+  ], 
+  "isp": {
+   "cabovisao": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "meo": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "nos": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "vodafone": {
+    "blocked": true, 
+    "dnsResponse": []
+   }
+  }
+ }, 
+ "atdhe.eu": {
+  "blockDate": "2014-11", 
+  "highlight": false, 
+  "ip": [
+   "188.165.226.20"
+  ], 
+  "isp": {
+   "cabovisao": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "meo": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "nos": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "vodafone": {
+    "blocked": true, 
+    "dnsResponse": []
+   }
+  }
+ }, 
+ "baixartv.com": {
+  "blockDate": "2015-10", 
+  "highlight": false, 
+  "ip": [
+   "82.221.105.12"
+  ], 
+  "isp": {
+   "cabovisao": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "meo": {
+    "blocked": false, 
+    "dnsResponse": [
+     "82.221.105.12"
+    ]
+   }, 
+   "nos": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "vodafone": {
+    "blocked": true, 
+    "dnsResponse": []
+   }
+  }
+ }, 
+ "betclic.com": {
+  "blockDate": "2014-01", 
+  "highlight": false, 
+  "ip": [
+   "94.125.61.194"
+  ], 
+  "isp": {
+   "cabovisao": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "meo": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "nos": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "vodafone": {
+    "blocked": true, 
+    "dnsResponse": []
+   }
+  }
+ }, 
+ "btrev.net": {
+  "blockDate": "2015-10", 
+  "highlight": false, 
+  "ip": [
+   "62.210.209.82"
+  ], 
+  "isp": {
+   "cabovisao": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "meo": {
+    "blocked": true, 
+    "dnsResponse": [
+     "213.13.145.120"
+    ]
+   }, 
+   "nos": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "vodafone": {
+    "blocked": true, 
+    "dnsResponse": []
+   }
+  }
+ }, 
+ "btvsports.com": {
+  "blockDate": "2014-11", 
+  "highlight": false, 
+  "ip": [
+   "209.99.40.222"
+  ], 
+  "isp": {
+   "cabovisao": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "meo": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "nos": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "vodafone": {
+    "blocked": true, 
+    "dnsResponse": []
+   }
+  }
+ }, 
+ "canaisemdirecto.com": {
+  "blockDate": "2014-04", 
+  "highlight": false, 
+  "ip": [
+   "185.53.177.9"
+  ], 
+  "isp": {
+   "cabovisao": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "meo": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "nos": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "vodafone": {
+    "blocked": true, 
+    "dnsResponse": []
+   }
+  }
+ }, 
+ "casadossegredos.tv": {
+  "blockDate": "2013-10", 
+  "highlight": false, 
+  "ip": [
+   "72.52.4.90"
+  ], 
+  "isp": {
+   "cabovisao": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "meo": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "nos": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "vodafone": {
+    "blocked": true, 
+    "dnsResponse": []
+   }
+  }
+ }, 
+ "cinefilmesonline.net": {
+  "blockDate": "2015-10", 
+  "highlight": false, 
+  "ip": [
+   "94.242.57.175", 
+   "94.242.57.65", 
+   "94.242.59.129", 
+   "185.22.172.110"
+  ], 
+  "isp": {
+   "cabovisao": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "meo": {
+    "blocked": false, 
+    "dnsResponse": [
+     "94.242.57.175", 
+     "94.242.57.65", 
+     "94.242.59.129", 
+     "185.22.172.110"
+    ]
+   }, 
+   "nos": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "vodafone": {
+    "blocked": true, 
+    "dnsResponse": []
+   }
+  }
+ }, 
+ "clubedodownload.info": {
+  "blockDate": "2015-10", 
+  "highlight": false, 
+  "ip": [
+   "82.221.105.12"
+  ], 
+  "isp": {
+   "cabovisao": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "meo": {
+    "blocked": true, 
+    "dnsResponse": [
+     "213.13.145.120"
+    ]
+   }, 
+   "nos": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "vodafone": {
+    "blocked": true, 
+    "dnsResponse": []
+   }
+  }
+ }, 
+ "cocas.tv": {
+  "blockDate": "2014-04", 
+  "highlight": false, 
+  "ip": [
+   "8.5.1.32"
+  ], 
+  "isp": {
+   "cabovisao": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "meo": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "nos": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "vodafone": {
+    "blocked": true, 
+    "dnsResponse": []
+   }
+  }
+ }, 
+ "cocas1.com": {
+  "blockDate": "2014-11", 
+  "highlight": false, 
+  "ip": [
+   "185.2.29.4"
+  ], 
+  "isp": {
+   "cabovisao": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "meo": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "nos": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "vodafone": {
+    "blocked": true, 
+    "dnsResponse": []
+   }
+  }
+ }, 
+ "dayt.se": {
+  "blockDate": "2015-10", 
+  "highlight": false, 
+  "ip": [
+   "104.27.185.97", 
+   "104.27.184.97"
+  ], 
+  "isp": {
+   "cabovisao": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "meo": {
+    "blocked": true, 
+    "dnsResponse": [
+     "213.13.145.120"
+    ]
+   }, 
+   "nos": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "vodafone": {
+    "blocked": true, 
+    "dnsResponse": []
+   }
+  }
+ }, 
+ "elitedosfilmes.com": {
+  "blockDate": "2015-10", 
+  "highlight": false, 
+  "ip": [
+   "104.27.189.33", 
+   "104.27.188.33"
+  ], 
+  "isp": {
+   "cabovisao": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "meo": {
+    "blocked": false, 
+    "dnsResponse": [
+     "104.27.189.33", 
+     "104.27.188.33"
+    ]
+   }, 
+   "nos": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "vodafone": {
+    "blocked": true, 
+    "dnsResponse": []
+   }
+  }
+ }, 
+ "estadiofutebol.com": {
+  "blockDate": "2014-11", 
+  "highlight": false, 
+  "ip": [
+   "141.101.118.124", 
+   "141.101.118.125"
+  ], 
+  "isp": {
+   "cabovisao": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "meo": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "nos": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "vodafone": {
+    "blocked": true, 
+    "dnsResponse": []
+   }
+  }
+ }, 
+ "extratorrent.cc": {
+  "blockDate": "2015-10", 
+  "highlight": false, 
+  "ip": [
+   "104.20.62.178", 
+   "104.20.63.178"
+  ], 
+  "isp": {
+   "cabovisao": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "meo": {
+    "blocked": true, 
+    "dnsResponse": [
+     "213.13.145.120"
+    ]
+   }, 
+   "nos": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "vodafone": {
+    "blocked": true, 
+    "dnsResponse": []
+   }
+  }
+ }, 
+ "facevideotv1.com": {
+  "blockDate": "2014-04", 
+  "highlight": false, 
+  "ip": [
+   "184.168.221.60"
+  ], 
+  "isp": {
+   "cabovisao": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "meo": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "nos": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "vodafone": {
+    "blocked": true, 
+    "dnsResponse": []
+   }
+  }
+ }, 
+ "feed2all.eu": {
+  "blockDate": "2014-11", 
+  "highlight": false, 
+  "ip": [
+   "109.202.109.18"
+  ], 
+  "isp": {
+   "cabovisao": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "meo": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "nos": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "vodafone": {
+    "blocked": true, 
+    "dnsResponse": []
+   }
+  }
+ }, 
+ "filmesonline2.com": {
+  "blockDate": "2015-10", 
+  "highlight": false, 
+  "ip": [
+   "104.25.200.14", 
+   "104.25.201.14"
+  ], 
+  "isp": {
+   "cabovisao": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "meo": {
+    "blocked": false, 
+    "dnsResponse": [
+     "104.25.200.14", 
+     "104.25.201.14"
+    ]
+   }, 
+   "nos": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "vodafone": {
+    "blocked": true, 
+    "dnsResponse": []
+   }
+  }
+ }, 
+ "filmesonlinegratis.net": {
+  "blockDate": "2015-10", 
+  "highlight": false, 
+  "ip": [
+   "104.20.23.105", 
+   "104.20.22.105"
+  ], 
+  "isp": {
+   "cabovisao": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "meo": {
+    "blocked": false, 
+    "dnsResponse": [
+     "104.20.22.105", 
+     "104.20.23.105"
+    ]
+   }, 
+   "nos": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "vodafone": {
+    "blocked": true, 
+    "dnsResponse": []
+   }
+  }
+ }, 
+ "filmesonlineportugueses.wordpress.com": {
+  "blockDate": "2015-10", 
+  "highlight": false, 
+  "ip": [
+   "192.0.78.12", 
+   "192.0.78.13"
+  ], 
+  "isp": {
+   "cabovisao": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "meo": {
+    "blocked": true, 
+    "dnsResponse": [
+     "213.13.145.120"
+    ]
+   }, 
+   "nos": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "vodafone": {
+    "blocked": true, 
+    "dnsResponse": []
+   }
+  }
+ }, 
+ "firstrownow.eu": {
+  "blockDate": "2014-11", 
+  "highlight": false, 
+  "ip": [
+   "188.95.48.110"
+  ], 
+  "isp": {
+   "cabovisao": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "meo": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "nos": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "vodafone": {
+    "blocked": true, 
+    "dnsResponse": []
+   }
+  }
+ }, 
+ "forum-maximus.net": {
+  "blockDate": "2015-10", 
+  "highlight": false, 
+  "ip": [
+   "104.28.21.57", 
+   "104.28.20.57"
+  ], 
+  "isp": {
+   "cabovisao": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "meo": {
+    "blocked": true, 
+    "dnsResponse": [
+     "213.13.145.120"
+    ]
+   }, 
+   "nos": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "vodafone": {
+    "blocked": true, 
+    "dnsResponse": []
+   }
+  }
+ }, 
+ "futborlas.com": {
+  "blockDate": "2014-11", 
+  "highlight": false, 
+  "ip": [
+   "162.255.87.180"
+  ], 
+  "isp": {
+   "cabovisao": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "meo": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "nos": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "vodafone": {
+    "blocked": true, 
+    "dnsResponse": []
+   }
+  }
+ }, 
+ "futebolpt.com": {
+  "blockDate": "2014-04", 
+  "highlight": false, 
+  "ip": [], 
+  "isp": {
+   "cabovisao": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "meo": {
+    "blocked": false, 
+    "dnsResponse": []
+   }, 
+   "nos": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "vodafone": {
+    "blocked": true, 
+    "dnsResponse": []
+   }
+  }
+ }, 
+ "gigatuga.com": {
+  "blockDate": "2015-10", 
+  "highlight": false, 
+  "ip": [
+   "5.135.39.227"
+  ], 
+  "isp": {
+   "cabovisao": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "meo": {
+    "blocked": true, 
+    "dnsResponse": [
+     "213.13.145.120"
+    ]
+   }, 
+   "nos": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "vodafone": {
+    "blocked": true, 
+    "dnsResponse": []
+   }
+  }
+ }, 
+ "inforzone.org": {
+  "blockDate": "2014-04", 
+  "highlight": false, 
+  "ip": [
+   "141.8.224.239"
+  ], 
+  "isp": {
+   "cabovisao": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "meo": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "nos": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "vodafone": {
+    "blocked": true, 
+    "dnsResponse": []
+   }
+  }
+ }, 
+ "ishunter.net": {
+  "blockDate": "2014-11", 
+  "highlight": false, 
+  "ip": [
+   "199.59.243.120"
+  ], 
+  "isp": {
+   "cabovisao": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "meo": {
+    "blocked": false, 
+    "dnsResponse": [
+     "199.59.243.120"
+    ]
+   }, 
+   "nos": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "vodafone": {
+    "blocked": true, 
+    "dnsResponse": []
+   }
+  }
+ }, 
+ "isohunt.to": {
+  "blockDate": "2015-10", 
+  "highlight": false, 
+  "ip": [
+   "198.41.189.233", 
+   "198.41.190.233"
+  ], 
+  "isp": {
+   "cabovisao": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "meo": {
+    "blocked": true, 
+    "dnsResponse": [
+     "213.13.145.120"
+    ]
+   }, 
+   "nos": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "vodafone": {
+    "blocked": true, 
+    "dnsResponse": []
+   }
+  }
+ }, 
+ "kat.cr": {
+  "blockDate": "2015-10", 
+  "highlight": false, 
+  "ip": [
+   "213.128.85.42", 
+   "195.3.144.238", 
+   "193.24.208.252", 
+   "94.199.48.231", 
+   "78.138.99.144", 
+   "195.3.147.99", 
+   "176.123.6.225", 
+   "95.215.61.203"
+  ], 
+  "isp": {
+   "cabovisao": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "meo": {
+    "blocked": true, 
+    "dnsResponse": [
+     "213.13.145.120"
+    ]
+   }, 
+   "nos": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "vodafone": {
+    "blocked": true, 
+    "dnsResponse": []
+   }
+  }
+ }, 
+ "livesoccerhq.com": {
+  "blockDate": "2014-11", 
+  "highlight": false, 
+  "ip": [
+   "91.195.241.72"
+  ], 
+  "isp": {
+   "cabovisao": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "meo": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "nos": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "vodafone": {
+    "blocked": true, 
+    "dnsResponse": []
+   }
+  }
+ }, 
+ "livesportshd.eu": {
+  "blockDate": "2014-11", 
+  "highlight": false, 
+  "ip": [
+   "103.224.182.232"
+  ], 
+  "isp": {
+   "cabovisao": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "meo": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "nos": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "vodafone": {
+    "blocked": true, 
+    "dnsResponse": []
+   }
+  }
+ }, 
+ "lusofilmesonline.com": {
+  "blockDate": "2015-10", 
+  "highlight": false, 
+  "ip": [
+   "216.239.38.21", 
+   "216.239.32.21", 
+   "216.239.34.21", 
+   "216.239.36.21"
+  ], 
+  "isp": {
+   "cabovisao": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "meo": {
+    "blocked": false, 
+    "dnsResponse": [
+     "216.239.32.21", 
+     "216.239.34.21", 
+     "216.239.36.21", 
+     "216.239.38.21"
+    ]
+   }, 
+   "nos": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "vodafone": {
+    "blocked": true, 
+    "dnsResponse": []
+   }
+  }
+ }, 
+ "lusoshare.com": {
+  "blockDate": "2015-10", 
+  "highlight": false, 
+  "ip": [
+   "104.28.13.97", 
+   "104.28.12.97"
+  ], 
+  "isp": {
+   "cabovisao": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "meo": {
+    "blocked": true, 
+    "dnsResponse": [
+     "213.13.145.120"
+    ]
+   }, 
+   "nos": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "vodafone": {
+    "blocked": true, 
+    "dnsResponse": []
+   }
+  }
+ }, 
+ "megafilmeshd.net": {
+  "blockDate": "2015-10", 
+  "highlight": false, 
+  "ip": [
+   "155.133.38.30"
+  ], 
+  "isp": {
+   "cabovisao": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "meo": {
+    "blocked": true, 
+    "dnsResponse": [
+     "213.13.145.120"
+    ]
+   }, 
+   "nos": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "vodafone": {
+    "blocked": true, 
+    "dnsResponse": []
+   }
+  }
+ }, 
+ "meridiem91.tv": {
+  "blockDate": "2014-11", 
+  "highlight": false, 
+  "ip": [
+   "87.106.223.141"
+  ], 
+  "isp": {
+   "cabovisao": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "meo": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "nos": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "vodafone": {
+    "blocked": true, 
+    "dnsResponse": []
+   }
+  }
+ }, 
+ "monova.org": {
+  "blockDate": "2015-10", 
+  "highlight": false, 
+  "ip": [
+   "104.28.26.77", 
+   "104.28.27.77"
+  ], 
+  "isp": {
+   "cabovisao": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "meo": {
+    "blocked": false, 
+    "dnsResponse": [
+     "104.28.27.77", 
+     "104.28.26.77"
+    ]
+   }, 
+   "nos": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "vodafone": {
+    "blocked": true, 
+    "dnsResponse": []
+   }
+  }
+ }, 
+ "moov7.net": {
+  "blockDate": "2015-10", 
+  "highlight": false, 
+  "ip": [
+   "192.64.119.243"
+  ], 
+  "isp": {
+   "cabovisao": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "meo": {
+    "blocked": true, 
+    "dnsResponse": [
+     "213.13.145.120"
+    ]
+   }, 
+   "nos": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "vodafone": {
+    "blocked": true, 
+    "dnsResponse": []
+   }
+  }
+ }, 
+ "osmetralhas.pt": {
+  "blockDate": "2015-10", 
+  "highlight": false, 
+  "ip": [], 
+  "isp": {
+   "cabovisao": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "meo": {
+    "blocked": false, 
+    "dnsResponse": [
+     "213.13.145.120"
+    ]
+   }, 
+   "nos": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "vodafone": {
+    "blocked": true, 
+    "dnsResponse": []
+   }
+  }
+ }, 
+ "osreformados.com": {
+  "blockDate": "2015-10", 
+  "highlight": false, 
+  "ip": [
+   "104.28.9.57", 
+   "104.28.8.57"
+  ], 
+  "isp": {
+   "cabovisao": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "meo": {
+    "blocked": true, 
+    "dnsResponse": [
+     "213.13.145.120"
+    ]
+   }, 
+   "nos": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "vodafone": {
+    "blocked": true, 
+    "dnsResponse": []
+   }
+  }
+ }, 
+ "piratamania.com": {
+  "blockDate": "2013-10", 
+  "highlight": false, 
+  "ip": [
+   "69.172.201.208"
+  ], 
+  "isp": {
+   "cabovisao": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "meo": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "nos": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "vodafone": {
+    "blocked": true, 
+    "dnsResponse": []
+   }
+  }
+ }, 
+ "piratatugafilmes.com": {
+  "blockDate": "2015-10", 
+  "highlight": false, 
+  "ip": [
+   "104.31.68.175", 
+   "104.31.69.175"
+  ], 
+  "isp": {
+   "cabovisao": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "meo": {
+    "blocked": true, 
+    "dnsResponse": [
+     "213.13.145.120"
+    ]
+   }, 
+   "nos": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "vodafone": {
+    "blocked": true, 
+    "dnsResponse": []
+   }
+  }
+ }, 
+ "piratebay.to": {
+  "blockDate": "2015-10", 
+  "highlight": false, 
+  "ip": [
+   "104.27.130.119", 
+   "104.27.131.119"
+  ], 
+  "isp": {
+   "cabovisao": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "meo": {
+    "blocked": true, 
+    "dnsResponse": [
+     "213.13.145.120"
+    ]
+   }, 
+   "nos": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "vodafone": {
+    "blocked": true, 
+    "dnsResponse": []
+   }
+  }
+ }, 
+ "poptuga.com": {
+  "blockDate": "2015-10", 
+  "highlight": false, 
+  "ip": [
+   "188.95.227.20"
+  ], 
+  "isp": {
+   "cabovisao": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "meo": {
+    "blocked": true, 
+    "dnsResponse": [
+     "213.13.145.120"
+    ]
+   }, 
+   "nos": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "vodafone": {
+    "blocked": true, 
+    "dnsResponse": []
+   }
+  }
+ }, 
+ "portugaldesportivo.com": {
+  "blockDate": "2014-11", 
+  "highlight": false, 
+  "ip": [
+   "104.28.10.21", 
+   "104.28.11.21"
+  ], 
+  "isp": {
+   "cabovisao": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "meo": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "nos": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "vodafone": {
+    "blocked": true, 
+    "dnsResponse": []
+   }
+  }
+ }, 
+ "primewire.ag": {
+  "blockDate": "2015-10", 
+  "highlight": false, 
+  "ip": [
+   "104.20.14.201", 
+   "104.20.15.201"
+  ], 
+  "isp": {
+   "cabovisao": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "meo": {
+    "blocked": false, 
+    "dnsResponse": [
+     "104.20.15.201", 
+     "104.20.14.201"
+    ]
+   }, 
+   "nos": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "vodafone": {
+    "blocked": true, 
+    "dnsResponse": []
+   }
+  }
+ }, 
+ "pt.betclic.com": {
+  "blockDate": "2014-01", 
+  "highlight": false, 
+  "ip": [
+   "94.125.61.194"
+  ], 
+  "isp": {
+   "cabovisao": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "meo": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "nos": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "vodafone": {
+    "blocked": true, 
+    "dnsResponse": []
+   }
+  }
+ }, 
+ "ptxtuga.com": {
+  "blockDate": "2015-10", 
+  "highlight": false, 
+  "ip": [], 
+  "isp": {
+   "cabovisao": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "meo": {
+    "blocked": false, 
+    "dnsResponse": [
+     "213.13.145.120"
+    ]
+   }, 
+   "nos": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "vodafone": {
+    "blocked": true, 
+    "dnsResponse": []
+   }
+  }
+ }, 
+ "rarbg.to": {
+  "blockDate": "2015-10", 
+  "highlight": false, 
+  "ip": [
+   "185.37.100.122"
+  ], 
+  "isp": {
+   "cabovisao": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "meo": {
+    "blocked": true, 
+    "dnsResponse": [
+     "213.13.145.120"
+    ]
+   }, 
+   "nos": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "vodafone": {
+    "blocked": true, 
+    "dnsResponse": []
+   }
+  }
+ }, 
+ "ratotv.net": {
+  "blockDate": "2015-10", 
+  "highlight": false, 
+  "ip": [
+   "104.28.23.64", 
+   "104.28.22.64"
+  ], 
+  "isp": {
+   "cabovisao": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "meo": {
+    "blocked": true, 
+    "dnsResponse": [
+     "213.13.145.120"
+    ]
+   }, 
+   "nos": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "vodafone": {
+    "blocked": true, 
+    "dnsResponse": []
+   }
+  }
+ }, 
+ "redweb.tv": {
+  "blockDate": "2014-11", 
+  "highlight": false, 
+  "ip": [
+   "199.59.243.120"
+  ], 
+  "isp": {
+   "cabovisao": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "meo": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "nos": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "vodafone": {
+    "blocked": true, 
+    "dnsResponse": []
+   }
+  }
+ }, 
+ "revistas-jornais.blogspot.com": {
+  "blockDate": "2015-10", 
+  "highlight": false, 
+  "ip": [
+   "216.58.208.1"
+  ], 
+  "isp": {
+   "cabovisao": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "meo": {
+    "blocked": true, 
+    "dnsResponse": [
+     "213.13.145.120"
+    ]
+   }, 
+   "nos": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "vodafone": {
+    "blocked": true, 
+    "dnsResponse": []
+   }
+  }
+ }, 
+ "revistas-jornais.blogspot.pt": {
+  "blockDate": "2015-10", 
+  "highlight": false, 
+  "ip": [
+   "216.58.208.1"
+  ], 
+  "isp": {
+   "cabovisao": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "meo": {
+    "blocked": true, 
+    "dnsResponse": [
+     "213.13.145.120"
+    ]
+   }, 
+   "nos": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "vodafone": {
+    "blocked": true, 
+    "dnsResponse": []
+   }
+  }
+ }, 
+ "rpds-download.org": {
+  "blockDate": "2015-10", 
+  "highlight": false, 
+  "ip": [], 
+  "isp": {
+   "cabovisao": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "meo": {
+    "blocked": false, 
+    "dnsResponse": []
+   }, 
+   "nos": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "vodafone": {
+    "blocked": true, 
+    "dnsResponse": []
+   }
+  }
+ }, 
+ "sapo.tv": {
+  "blockDate": "2014-11", 
+  "highlight": false, 
+  "ip": [], 
+  "isp": {
+   "cabovisao": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "meo": {
+    "blocked": false, 
+    "dnsResponse": []
+   }, 
+   "nos": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "vodafone": {
+    "blocked": true, 
+    "dnsResponse": []
+   }
+  }
+ }, 
+ "scnsrc.me": {
+  "blockDate": "2015-10", 
+  "highlight": false, 
+  "ip": [
+   "96.45.178.138"
+  ], 
+  "isp": {
+   "cabovisao": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "meo": {
+    "blocked": false, 
+    "dnsResponse": [
+     "96.45.178.138"
+    ]
+   }, 
+   "nos": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "vodafone": {
+    "blocked": true, 
+    "dnsResponse": []
+   }
+  }
+ }, 
+ "seriestvix.tv": {
+  "blockDate": "2015-10", 
+  "highlight": false, 
+  "ip": [
+   "185.22.172.110", 
+   "94.242.57.65", 
+   "94.242.59.129"
+  ], 
+  "isp": {
+   "cabovisao": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "meo": {
+    "blocked": true, 
+    "dnsResponse": [
+     "213.13.145.120"
+    ]
+   }, 
+   "nos": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "vodafone": {
+    "blocked": true, 
+    "dnsResponse": []
+   }
+  }
+ }, 
+ "seriesvideobb.com": {
+  "blockDate": "2015-10", 
+  "highlight": false, 
+  "ip": [
+   "192.99.40.42"
+  ], 
+  "isp": {
+   "cabovisao": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "meo": {
+    "blocked": false, 
+    "dnsResponse": [
+     "192.99.40.42"
+    ]
+   }, 
+   "nos": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "vodafone": {
+    "blocked": true, 
+    "dnsResponse": []
+   }
+  }
+ }, 
+ "sharetuga.com": {
+  "blockDate": "2015-10", 
+  "highlight": false, 
+  "ip": [
+   "193.37.152.25"
+  ], 
+  "isp": {
+   "cabovisao": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "meo": {
+    "blocked": false, 
+    "dnsResponse": [
+     "193.37.152.25"
+    ]
+   }, 
+   "nos": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "vodafone": {
+    "blocked": true, 
+    "dnsResponse": []
+   }
+  }
+ }, 
+ "soccertoall.net": {
+  "blockDate": "2014-11", 
+  "highlight": false, 
+  "ip": [
+   "104.28.2.46", 
+   "104.28.3.46"
+  ], 
+  "isp": {
+   "cabovisao": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "meo": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "nos": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "vodafone": {
+    "blocked": true, 
+    "dnsResponse": []
+   }
+  }
+ }, 
+ "soinformatica.org": {
+  "blockDate": "2014-11", 
+  "highlight": false, 
+  "ip": [
+   "172.99.89.194"
+  ], 
+  "isp": {
+   "cabovisao": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "meo": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "nos": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "vodafone": {
+    "blocked": true, 
+    "dnsResponse": []
+   }
+  }
+ }, 
+ "sportlemon.tv": {
+  "blockDate": "2014-11", 
+  "highlight": false, 
+  "ip": [
+   "185.10.57.236"
+  ], 
+  "isp": {
+   "cabovisao": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "meo": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "nos": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "vodafone": {
+    "blocked": true, 
+    "dnsResponse": []
+   }
+  }
+ }, 
+ "sporttvdirecto.com": {
+  "blockDate": "2014-04", 
+  "highlight": false, 
+  "ip": [
+   "91.195.241.72"
+  ], 
+  "isp": {
+   "cabovisao": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "meo": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "nos": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "vodafone": {
+    "blocked": true, 
+    "dnsResponse": []
+   }
+  }
+ }, 
+ "sporttvdotuga.com": {
+  "blockDate": "2014-11", 
+  "highlight": false, 
+  "ip": [
+   "185.53.177.8"
+  ], 
+  "isp": {
+   "cabovisao": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "meo": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "nos": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "vodafone": {
+    "blocked": true, 
+    "dnsResponse": []
+   }
+  }
+ }, 
+ "sporttvfree.com": {
+  "blockDate": "2014-11", 
+  "highlight": false, 
+  "ip": [
+   "178.124.131.229"
+  ], 
+  "isp": {
+   "cabovisao": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "meo": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "nos": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "vodafone": {
+    "blocked": true, 
+    "dnsResponse": []
+   }
+  }
+ }, 
+ "sporttvhd.tv": {
+  "blockDate": "2014-04", 
+  "highlight": false, 
+  "ip": [
+   "199.59.243.120"
+  ], 
+  "isp": {
+   "cabovisao": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "meo": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "nos": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "vodafone": {
+    "blocked": true, 
+    "dnsResponse": []
+   }
+  }
+ }, 
+ "sporttvhdmi.com": {
+  "blockDate": "2014-04", 
+  "highlight": false, 
+  "ip": [
+   "72.52.4.119"
+  ], 
+  "isp": {
+   "cabovisao": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "meo": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "nos": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "vodafone": {
+    "blocked": true, 
+    "dnsResponse": []
+   }
+  }
+ }, 
+ "sporttvparatodos.com": {
+  "blockDate": "2014-11", 
+  "highlight": false, 
+  "ip": [], 
+  "isp": {
+   "cabovisao": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "meo": {
+    "blocked": false, 
+    "dnsResponse": []
+   }, 
+   "nos": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "vodafone": {
+    "blocked": true, 
+    "dnsResponse": []
+   }
+  }
+ }, 
+ "sportvgratis.com": {
+  "blockDate": "2014-04", 
+  "highlight": false, 
+  "ip": [
+   "8.5.1.51"
+  ], 
+  "isp": {
+   "cabovisao": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "meo": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "nos": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "vodafone": {
+    "blocked": true, 
+    "dnsResponse": []
+   }
+  }
+ }, 
+ "sportvgratis.tv": {
+  "blockDate": "2014-11", 
+  "highlight": false, 
+  "ip": [], 
+  "isp": {
+   "cabovisao": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "meo": {
+    "blocked": false, 
+    "dnsResponse": []
+   }, 
+   "nos": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "vodafone": {
+    "blocked": true, 
+    "dnsResponse": []
+   }
+  }
+ }, 
+ "sportvgratis1.com": {
+  "blockDate": "2014-04", 
+  "highlight": false, 
+  "ip": [
+   "185.53.179.6"
+  ], 
+  "isp": {
+   "cabovisao": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "meo": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "nos": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "vodafone": {
+    "blocked": true, 
+    "dnsResponse": []
+   }
+  }
+ }, 
+ "televisaofree.com": {
+  "blockDate": "2014-11", 
+  "highlight": false, 
+  "ip": [
+   "103.224.182.225"
+  ], 
+  "isp": {
+   "cabovisao": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "meo": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "nos": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "vodafone": {
+    "blocked": true, 
+    "dnsResponse": []
+   }
+  }
+ }, 
+ "thepiratebay.la": {
+  "blockDate": "2015-10", 
+  "highlight": false, 
+  "ip": [
+   "104.28.2.115", 
+   "104.28.3.115"
+  ], 
+  "isp": {
+   "cabovisao": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "meo": {
+    "blocked": true, 
+    "dnsResponse": [
+     "213.13.145.120"
+    ]
+   }, 
+   "nos": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "vodafone": {
+    "blocked": true, 
+    "dnsResponse": []
+   }
+  }
+ }, 
+ "thesporttv.eu": {
+  "blockDate": "2014-04", 
+  "highlight": false, 
+  "ip": [
+   "103.224.182.251"
+  ], 
+  "isp": {
+   "cabovisao": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "meo": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "nos": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "vodafone": {
+    "blocked": true, 
+    "dnsResponse": []
+   }
+  }
+ }, 
+ "thewatchseries.to": {
+  "blockDate": "2015-10", 
+  "highlight": false, 
+  "ip": [
+   "81.17.17.10", 
+   "141.255.164.122"
+  ], 
+  "isp": {
+   "cabovisao": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "meo": {
+    "blocked": true, 
+    "dnsResponse": [
+     "213.13.145.120"
+    ]
+   }, 
+   "nos": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "vodafone": {
+    "blocked": true, 
+    "dnsResponse": []
+   }
+  }
+ }, 
+ "toppt.net": {
+  "blockDate": "2015-10", 
+  "highlight": false, 
+  "ip": [
+   "104.28.18.30", 
+   "104.28.19.30"
+  ], 
+  "isp": {
+   "cabovisao": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "meo": {
+    "blocked": true, 
+    "dnsResponse": [
+     "213.13.145.120"
+    ]
+   }, 
+   "nos": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "vodafone": {
+    "blocked": true, 
+    "dnsResponse": []
+   }
+  }
+ }, 
+ "toppt.tv": {
+  "blockDate": "2015-10", 
+  "highlight": false, 
+  "ip": [
+   "104.28.30.9", 
+   "104.28.31.9"
+  ], 
+  "isp": {
+   "cabovisao": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "meo": {
+    "blocked": true, 
+    "dnsResponse": [
+     "213.13.145.120"
+    ]
+   }, 
+   "nos": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "vodafone": {
+    "blocked": true, 
+    "dnsResponse": []
+   }
+  }
+ }, 
+ "torrenthound.com": {
+  "blockDate": "2015-10", 
+  "highlight": false, 
+  "ip": [
+   "88.80.6.5"
+  ], 
+  "isp": {
+   "cabovisao": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "meo": {
+    "blocked": false, 
+    "dnsResponse": [
+     "88.80.6.5"
+    ]
+   }, 
+   "nos": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "vodafone": {
+    "blocked": true, 
+    "dnsResponse": []
+   }
+  }
+ }, 
+ "torrentreactor.com": {
+  "blockDate": "2015-10", 
+  "highlight": false, 
+  "ip": [
+   "78.142.19.11"
+  ], 
+  "isp": {
+   "cabovisao": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "meo": {
+    "blocked": true, 
+    "dnsResponse": [
+     "213.13.145.120"
+    ]
+   }, 
+   "nos": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "vodafone": {
+    "blocked": true, 
+    "dnsResponse": []
+   }
+  }
+ }, 
+ "tuga-filmes.info": {
+  "blockDate": "2015-10", 
+  "highlight": false, 
+  "ip": [
+   "104.31.69.176", 
+   "104.31.68.176"
+  ], 
+  "isp": {
+   "cabovisao": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "meo": {
+    "blocked": false, 
+    "dnsResponse": [
+     "104.31.69.176", 
+     "104.31.68.176"
+    ]
+   }, 
+   "nos": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "vodafone": {
+    "blocked": true, 
+    "dnsResponse": []
+   }
+  }
+ }, 
+ "tuga.io": {
+  "blockDate": "2015-10", 
+  "highlight": false, 
+  "ip": [
+   "104.28.21.142", 
+   "104.28.20.142"
+  ], 
+  "isp": {
+   "cabovisao": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "meo": {
+    "blocked": true, 
+    "dnsResponse": [
+     "213.13.145.120"
+    ]
+   }, 
+   "nos": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "vodafone": {
+    "blocked": true, 
+    "dnsResponse": []
+   }
+  }
+ }, 
+ "tugaanimado.net": {
+  "blockDate": "2015-10", 
+  "highlight": false, 
+  "ip": [
+   "31.22.4.114"
+  ], 
+  "isp": {
+   "cabovisao": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "meo": {
+    "blocked": true, 
+    "dnsResponse": [
+     "213.13.145.120"
+    ]
+   }, 
+   "nos": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "vodafone": {
+    "blocked": true, 
+    "dnsResponse": []
+   }
+  }
+ }, 
+ "tugaflix.com": {
+  "blockDate": "2015-10", 
+  "highlight": false, 
+  "ip": [
+   "104.18.48.220", 
+   "104.18.49.220"
+  ], 
+  "isp": {
+   "cabovisao": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "meo": {
+    "blocked": true, 
+    "dnsResponse": [
+     "213.13.145.120"
+    ]
+   }, 
+   "nos": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "vodafone": {
+    "blocked": true, 
+    "dnsResponse": []
+   }
+  }
+ }, 
+ "tugafoot.com": {
+  "blockDate": "2014-04", 
+  "highlight": false, 
+  "ip": [
+   "66.135.47.125"
+  ], 
+  "isp": {
+   "cabovisao": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "meo": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "nos": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "vodafone": {
+    "blocked": true, 
+    "dnsResponse": []
+   }
+  }
+ }, 
+ "tugafoot1.com": {
+  "blockDate": "2014-11", 
+  "highlight": false, 
+  "ip": [
+   "8.5.1.30"
+  ], 
+  "isp": {
+   "cabovisao": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "meo": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "nos": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "vodafone": {
+    "blocked": true, 
+    "dnsResponse": []
+   }
+  }
+ }, 
+ "tugafoothd.com": {
+  "blockDate": "2014-11", 
+  "highlight": false, 
+  "ip": [
+   "8.5.1.51"
+  ], 
+  "isp": {
+   "cabovisao": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "meo": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "nos": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "vodafone": {
+    "blocked": true, 
+    "dnsResponse": []
+   }
+  }
+ }, 
+ "tugaoxe.com": {
+  "blockDate": "2015-10", 
+  "highlight": false, 
+  "ip": [
+   "209.99.40.223"
+  ], 
+  "isp": {
+   "cabovisao": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "meo": {
+    "blocked": true, 
+    "dnsResponse": [
+     "213.13.145.120"
+    ]
+   }, 
+   "nos": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "vodafone": {
+    "blocked": true, 
+    "dnsResponse": []
+   }
+  }
+ }, 
+ "tugastream.com": {
+  "blockDate": "2014-11", 
+  "highlight": false, 
+  "ip": [
+   "141.101.118.8", 
+   "141.101.118.9"
+  ], 
+  "isp": {
+   "cabovisao": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "meo": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "nos": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "vodafone": {
+    "blocked": true, 
+    "dnsResponse": []
+   }
+  }
+ }, 
+ "tugastvs.com": {
+  "blockDate": "2014-11", 
+  "highlight": false, 
+  "ip": [
+   "69.172.201.208"
+  ], 
+  "isp": {
+   "cabovisao": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "meo": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "nos": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "vodafone": {
+    "blocked": true, 
+    "dnsResponse": []
+   }
+  }
+ }, 
+ "tvborlas.net": {
+  "blockDate": "2014-11", 
+  "highlight": false, 
+  "ip": [
+   "50.21.191.108"
+  ], 
+  "isp": {
+   "cabovisao": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "meo": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "nos": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "vodafone": {
+    "blocked": true, 
+    "dnsResponse": []
+   }
+  }
+ }, 
+ "tvdospobres.com": {
+  "blockDate": "2014-11", 
+  "highlight": false, 
+  "ip": [
+   "91.195.241.72"
+  ], 
+  "isp": {
+   "cabovisao": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "meo": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "nos": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "vodafone": {
+    "blocked": true, 
+    "dnsResponse": []
+   }
+  }
+ }, 
+ "tvfree2.me": {
+  "blockDate": "2014-11", 
+  "highlight": false, 
+  "ip": [
+   "104.28.20.105", 
+   "104.28.21.105"
+  ], 
+  "isp": {
+   "cabovisao": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "meo": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "nos": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "vodafone": {
+    "blocked": true, 
+    "dnsResponse": []
+   }
+  }
+ }, 
+ "tvfree4.me": {
+  "blockDate": "2014-04", 
+  "highlight": false, 
+  "ip": [
+   "104.28.29.62", 
+   "104.28.28.62"
+  ], 
+  "isp": {
+   "cabovisao": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "meo": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "nos": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "vodafone": {
+    "blocked": true, 
+    "dnsResponse": []
+   }
+  }
+ }, 
+ "tvgente.com": {
+  "blockDate": "2014-04", 
+  "highlight": false, 
+  "ip": [
+   "72.52.4.119"
+  ], 
+  "isp": {
+   "cabovisao": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "meo": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "nos": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "vodafone": {
+    "blocked": true, 
+    "dnsResponse": []
+   }
+  }
+ }, 
+ "tvgente.eu": {
+  "blockDate": "2014-11", 
+  "highlight": false, 
+  "ip": [], 
+  "isp": {
+   "cabovisao": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "meo": {
+    "blocked": false, 
+    "dnsResponse": []
+   }, 
+   "nos": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "vodafone": {
+    "blocked": true, 
+    "dnsResponse": []
+   }
+  }
+ }, 
+ "tvgolo.com": {
+  "blockDate": "2014-11", 
+  "highlight": false, 
+  "ip": [
+   "64.131.69.154"
+  ], 
+  "isp": {
+   "cabovisao": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "meo": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "nos": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "vodafone": {
+    "blocked": true, 
+    "dnsResponse": []
+   }
+  }
+ }, 
+ "tvportugalhd.com": {
+  "blockDate": "2014-04", 
+  "highlight": false, 
+  "ip": [
+   "69.172.201.208"
+  ], 
+  "isp": {
+   "cabovisao": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "meo": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "nos": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "vodafone": {
+    "blocked": true, 
+    "dnsResponse": []
+   }
+  }
+ }, 
+ "tvtuga.tv": {
+  "blockDate": "2014-11", 
+  "highlight": false, 
+  "ip": [
+   "192.64.119.113"
+  ], 
+  "isp": {
+   "cabovisao": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "meo": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "nos": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "vodafone": {
+    "blocked": true, 
+    "dnsResponse": []
+   }
+  }
+ }, 
+ "tvzune.com": {
+  "blockDate": "2014-04", 
+  "highlight": false, 
+  "ip": [
+   "72.52.4.119"
+  ], 
+  "isp": {
+   "cabovisao": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "meo": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "nos": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "vodafone": {
+    "blocked": true, 
+    "dnsResponse": []
+   }
+  }
+ }, 
+ "uber.com": {
+  "blockDate": "2015-10", 
+  "highlight": false, 
+  "ip": [
+   "104.36.192.220", 
+   "104.36.192.221", 
+   "104.36.192.132", 
+   "104.36.192.133", 
+   "104.36.192.182", 
+   "104.36.192.135"
+  ], 
+  "isp": {
+   "cabovisao": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "meo": {
+    "blocked": false, 
+    "dnsResponse": [
+     "104.36.192.182", 
+     "104.36.192.135", 
+     "104.36.192.220", 
+     "104.36.192.221", 
+     "104.36.192.132", 
+     "104.36.192.133"
+    ]
+   }, 
+   "nos": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "vodafone": {
+    "blocked": true, 
+    "dnsResponse": []
+   }
+  }
+ }, 
+ "warez-box.net": {
+  "blockDate": "2015-10", 
+  "highlight": false, 
+  "ip": [
+   "104.27.176.172", 
+   "104.27.177.172"
+  ], 
+  "isp": {
+   "cabovisao": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "meo": {
+    "blocked": false, 
+    "dnsResponse": [
+     "104.27.177.172", 
+     "104.27.176.172"
+    ]
+   }, 
+   "nos": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "vodafone": {
+    "blocked": true, 
+    "dnsResponse": []
+   }
+  }
+ }, 
+ "watchseries.li": {
+  "blockDate": "2015-10", 
+  "highlight": false, 
+  "ip": [
+   "104.31.87.125", 
+   "104.31.86.125"
+  ], 
+  "isp": {
+   "cabovisao": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "meo": {
+    "blocked": false, 
+    "dnsResponse": [
+     "104.31.86.125", 
+     "104.31.87.125"
+    ]
+   }, 
+   "nos": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "vodafone": {
+    "blocked": true, 
+    "dnsResponse": []
+   }
+  }
+ }, 
+ "watchseries.lt": {
+  "blockDate": "2015-10", 
+  "highlight": false, 
+  "ip": [
+   "104.25.203.28", 
+   "104.25.202.28"
+  ], 
+  "isp": {
+   "cabovisao": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "meo": {
+    "blocked": true, 
+    "dnsResponse": [
+     "213.13.145.120"
+    ]
+   }, 
+   "nos": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "vodafone": {
+    "blocked": true, 
+    "dnsResponse": []
+   }
+  }
+ }, 
+ "yts.to": {
+  "blockDate": "2015-10", 
+  "highlight": false, 
+  "ip": [
+   "185.90.62.50"
+  ], 
+  "isp": {
+   "cabovisao": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "meo": {
+    "blocked": true, 
+    "dnsResponse": [
+     "213.13.145.120"
+    ]
+   }, 
+   "nos": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "vodafone": {
+    "blocked": true, 
+    "dnsResponse": []
+   }
+  }
+ }, 
+ "zuuk.net": {
+  "blockDate": "2014-11", 
+  "highlight": false, 
+  "ip": [
+   "78.153.194.100"
+  ], 
+  "isp": {
+   "cabovisao": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "meo": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "nos": {
+    "blocked": true, 
+    "dnsResponse": []
+   }, 
+   "vodafone": {
+    "blocked": true, 
+    "dnsResponse": []
+   }
+  }
+ }
 }
