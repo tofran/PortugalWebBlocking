@@ -43,6 +43,7 @@ h1 {
 }
 #mainTable tbody tr {
   color: #333333;
+  font-size: 16px;
 }
 #mainTable tbody tr:hover {
   background-color: #E4E4E4;

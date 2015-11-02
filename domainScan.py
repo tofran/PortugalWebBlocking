@@ -69,7 +69,7 @@ class DomainScan(object):
 		dnsResolver.nameservers=['192.168.1.254']
 
 		for host in DomainScan.jsonData:
-			DomainScan.jsonData[host]['isp']['meo'] = {'blocked':True,'dnsResponse':[]}
+			DomainScan.jsonData[host]['isp']['meo'] = {'status': 0,'dnsResponse':[]}
 			try:
 				response = dnsResolver.query(host, 'A') #only the first A record
 				for eachRecord in response:
@@ -79,15 +79,16 @@ class DomainScan(object):
 				for eachIpRecord in DomainScan.jsonData[host]['ip']:
 					for eachResponseRecord in response:
 						if str(eachIpRecord) == str(eachResponseRecord):
-							DomainScan.jsonData[host]['isp'][isp]['blocked'] = False
+							DomainScan.jsonData[host]['isp'][isp]['status'] = 0
 							#the ip appeared in the isp response, so it (may) not be blocked
 
 			except: #socket.gaierror, err
 				print 'Could not resolve: ' + host
 				if DomainScan.jsonData[host]['ip'] == None:
-					DomainScan.jsonData[host]['isp'][isp]['blocked'] = False
-					# neither the (open) dns neither the isp replied,
-					# site may be have shut down, so we consider that its not blocked
+					DomainScan.jsonData[host]['isp'][isp]['blocked'] = -1
+					# neither the (open) dns neither the isp replied, site may be have shut down
+				else:
+					DomainScan.jsonData[host]['isp'][isp]['blocked'] = 1
 
 	"""
 		Load the data from a file
@@ -119,6 +120,26 @@ class DomainScan(object):
 	@staticmethod
 	def fix():
 		for host in DomainScan.jsonData:
+			if len(DomainScan.jsonData[host]['isp']['meo']['dnsResponse']) == 0:
+				if len(DomainScan.jsonData[host]['ip']) == 0:
+					DomainScan.jsonData[host]['isp']['meo']['status'] = -1
+				else:
+					DomainScan.jsonData[host]['isp']['meo']['status'] = 1
+			elif DomainScan.jsonData[host]['isp']['meo']['blocked'] == True:
+				DomainScan.jsonData[host]['isp']['meo']['status'] = 2
+			elif DomainScan.jsonData[host]['isp']['meo']['blocked'] == False:
+				DomainScan.jsonData[host]['isp']['meo']['status'] = 0
+			'''
+			#add the reason
+			DomainScan.jsonData[host]['reason'] = ''
+
+			#fix status blocking for some domains
+			if len(DomainScan.jsonData[host]['isp']['meo']['dnsResponse']) > 0 and DomainScan.jsonData[host]['isp']['meo']['dnsResponse'][0] == '213.13.145.120':
+				#print str(DomainScan.jsonData[host]['isp']['meo']['dnsResponse'][0])
+				DomainScan.jsonData[host]['isp']['meo']['blocked'] = True
+
+			#Add other ISP's (empty)
 			DomainScan.jsonData[host]['isp']['nos'] = { 'blocked':True, 'dnsResponse':[] }
 			DomainScan.jsonData[host]['isp']['vodafone'] = { 'blocked':True, 'dnsResponse':[] }
 			DomainScan.jsonData[host]['isp']['cabovisao'] = { 'blocked':True, 'dnsResponse':[] }
+			'''
