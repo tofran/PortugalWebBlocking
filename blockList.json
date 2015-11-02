@@ -8,22 +8,18 @@
   ], 
   "isp": {
    "cabovisao": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "meo": {
-    "blocked": true, 
     "dnsResponse": [
      "213.13.145.120"
     ], 
     "status": 2
    }, 
    "nos": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "vodafone": {
-    "blocked": true, 
     "dnsResponse": []
    }
   }, 
@@ -37,20 +33,16 @@
   ], 
   "isp": {
    "cabovisao": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "meo": {
-    "blocked": true, 
     "dnsResponse": [], 
     "status": 1
    }, 
    "nos": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "vodafone": {
-    "blocked": true, 
     "dnsResponse": []
    }
   }, 
@@ -64,20 +56,16 @@
   ], 
   "isp": {
    "cabovisao": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "meo": {
-    "blocked": true, 
     "dnsResponse": [], 
     "status": 1
    }, 
    "nos": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "vodafone": {
-    "blocked": true, 
     "dnsResponse": []
    }
   }, 
@@ -91,20 +79,16 @@
   ], 
   "isp": {
    "cabovisao": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "meo": {
-    "blocked": true, 
     "dnsResponse": [], 
     "status": 1
    }, 
    "nos": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "vodafone": {
-    "blocked": true, 
     "dnsResponse": []
    }
   }, 
@@ -118,7 +102,6 @@
   ], 
   "isp": {
    "cabovisao": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "meo": {
@@ -129,11 +112,9 @@
     "status": 0
    }, 
    "nos": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "vodafone": {
-    "blocked": true, 
     "dnsResponse": []
    }
   }, 
@@ -147,20 +128,16 @@
   ], 
   "isp": {
    "cabovisao": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "meo": {
-    "blocked": true, 
     "dnsResponse": [], 
     "status": 1
    }, 
    "nos": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "vodafone": {
-    "blocked": true, 
     "dnsResponse": []
    }
   }, 
@@ -174,22 +151,18 @@
   ], 
   "isp": {
    "cabovisao": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "meo": {
-    "blocked": true, 
     "dnsResponse": [
      "213.13.145.120"
     ], 
     "status": 2
    }, 
    "nos": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "vodafone": {
-    "blocked": true, 
     "dnsResponse": []
    }
   }, 
@@ -203,20 +176,16 @@
   ], 
   "isp": {
    "cabovisao": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "meo": {
-    "blocked": true, 
     "dnsResponse": [], 
     "status": 1
    }, 
    "nos": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "vodafone": {
-    "blocked": true, 
     "dnsResponse": []
    }
   }, 
@@ -230,20 +199,16 @@
   ], 
   "isp": {
    "cabovisao": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "meo": {
-    "blocked": true, 
     "dnsResponse": [], 
     "status": 1
    }, 
    "nos": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "vodafone": {
-    "blocked": true, 
     "dnsResponse": []
    }
   }, 
@@ -257,20 +222,16 @@
   ], 
   "isp": {
    "cabovisao": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "meo": {
-    "blocked": true, 
     "dnsResponse": [], 
     "status": 1
    }, 
    "nos": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "vodafone": {
-    "blocked": true, 
     "dnsResponse": []
    }
   }, 
@@ -287,7 +248,6 @@
   ], 
   "isp": {
    "cabovisao": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "meo": {
@@ -301,11 +261,9 @@
     "status": 0
    }, 
    "nos": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "vodafone": {
-    "blocked": true, 
     "dnsResponse": []
    }
   }, 
@@ -319,22 +277,18 @@
   ], 
   "isp": {
    "cabovisao": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "meo": {
-    "blocked": true, 
     "dnsResponse": [
      "213.13.145.120"
     ], 
     "status": 2
    }, 
    "nos": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "vodafone": {
-    "blocked": true, 
     "dnsResponse": []
    }
   }, 
@@ -348,20 +302,16 @@
   ], 
   "isp": {
    "cabovisao": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "meo": {
-    "blocked": true, 
     "dnsResponse": [], 
     "status": 1
    }, 
    "nos": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "vodafone": {
-    "blocked": true, 
     "dnsResponse": []
    }
   }, 
@@ -375,20 +325,16 @@
   ], 
   "isp": {
    "cabovisao": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "meo": {
-    "blocked": true, 
     "dnsResponse": [], 
     "status": 1
    }, 
    "nos": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "vodafone": {
-    "blocked": true, 
     "dnsResponse": []
    }
   }, 
@@ -403,22 +349,18 @@
   ], 
   "isp": {
    "cabovisao": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "meo": {
-    "blocked": true, 
     "dnsResponse": [
      "213.13.145.120"
     ], 
     "status": 2
    }, 
    "nos": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "vodafone": {
-    "blocked": true, 
     "dnsResponse": []
    }
   }, 
@@ -433,7 +375,6 @@
   ], 
   "isp": {
    "cabovisao": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "meo": {
@@ -445,11 +386,9 @@
     "status": 0
    }, 
    "nos": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "vodafone": {
-    "blocked": true, 
     "dnsResponse": []
    }
   }, 
@@ -464,20 +403,16 @@
   ], 
   "isp": {
    "cabovisao": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "meo": {
-    "blocked": true, 
     "dnsResponse": [], 
     "status": 1
    }, 
    "nos": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "vodafone": {
-    "blocked": true, 
     "dnsResponse": []
    }
   }, 
@@ -492,22 +427,18 @@
   ], 
   "isp": {
    "cabovisao": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "meo": {
-    "blocked": true, 
     "dnsResponse": [
      "213.13.145.120"
     ], 
     "status": 2
    }, 
    "nos": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "vodafone": {
-    "blocked": true, 
     "dnsResponse": []
    }
   }, 
@@ -521,20 +452,16 @@
   ], 
   "isp": {
    "cabovisao": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "meo": {
-    "blocked": true, 
     "dnsResponse": [], 
     "status": 1
    }, 
    "nos": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "vodafone": {
-    "blocked": true, 
     "dnsResponse": []
    }
   }, 
@@ -548,20 +475,16 @@
   ], 
   "isp": {
    "cabovisao": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "meo": {
-    "blocked": true, 
     "dnsResponse": [], 
     "status": 1
    }, 
    "nos": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "vodafone": {
-    "blocked": true, 
     "dnsResponse": []
    }
   }, 
@@ -576,7 +499,6 @@
   ], 
   "isp": {
    "cabovisao": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "meo": {
@@ -588,11 +510,9 @@
     "status": 0
    }, 
    "nos": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "vodafone": {
-    "blocked": true, 
     "dnsResponse": []
    }
   }, 
@@ -607,7 +527,6 @@
   ], 
   "isp": {
    "cabovisao": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "meo": {
@@ -619,11 +538,9 @@
     "status": 0
    }, 
    "nos": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "vodafone": {
-    "blocked": true, 
     "dnsResponse": []
    }
   }, 
@@ -638,22 +555,18 @@
   ], 
   "isp": {
    "cabovisao": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "meo": {
-    "blocked": true, 
     "dnsResponse": [
      "213.13.145.120"
     ], 
     "status": 2
    }, 
    "nos": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "vodafone": {
-    "blocked": true, 
     "dnsResponse": []
    }
   }, 
@@ -667,20 +580,16 @@
   ], 
   "isp": {
    "cabovisao": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "meo": {
-    "blocked": true, 
     "dnsResponse": [], 
     "status": 1
    }, 
    "nos": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "vodafone": {
-    "blocked": true, 
     "dnsResponse": []
    }
   }, 
@@ -695,22 +604,18 @@
   ], 
   "isp": {
    "cabovisao": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "meo": {
-    "blocked": true, 
     "dnsResponse": [
      "213.13.145.120"
     ], 
     "status": 2
    }, 
    "nos": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "vodafone": {
-    "blocked": true, 
     "dnsResponse": []
    }
   }, 
@@ -724,20 +629,16 @@
   ], 
   "isp": {
    "cabovisao": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "meo": {
-    "blocked": true, 
     "dnsResponse": [], 
     "status": 1
    }, 
    "nos": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "vodafone": {
-    "blocked": true, 
     "dnsResponse": []
    }
   }, 
@@ -749,7 +650,6 @@
   "ip": [], 
   "isp": {
    "cabovisao": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "meo": {
@@ -758,11 +658,9 @@
     "status": -1
    }, 
    "nos": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "vodafone": {
-    "blocked": true, 
     "dnsResponse": []
    }
   }, 
@@ -776,22 +674,18 @@
   ], 
   "isp": {
    "cabovisao": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "meo": {
-    "blocked": true, 
     "dnsResponse": [
      "213.13.145.120"
     ], 
     "status": 2
    }, 
    "nos": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "vodafone": {
-    "blocked": true, 
     "dnsResponse": []
    }
   }, 
@@ -805,20 +699,16 @@
   ], 
   "isp": {
    "cabovisao": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "meo": {
-    "blocked": true, 
     "dnsResponse": [], 
     "status": 1
    }, 
    "nos": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "vodafone": {
-    "blocked": true, 
     "dnsResponse": []
    }
   }, 
@@ -832,7 +722,6 @@
   ], 
   "isp": {
    "cabovisao": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "meo": {
@@ -843,11 +732,9 @@
     "status": 0
    }, 
    "nos": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "vodafone": {
-    "blocked": true, 
     "dnsResponse": []
    }
   }, 
@@ -862,22 +749,18 @@
   ], 
   "isp": {
    "cabovisao": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "meo": {
-    "blocked": true, 
     "dnsResponse": [
      "213.13.145.120"
     ], 
     "status": 2
    }, 
    "nos": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "vodafone": {
-    "blocked": true, 
     "dnsResponse": []
    }
   }, 
@@ -898,22 +781,18 @@
   ], 
   "isp": {
    "cabovisao": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "meo": {
-    "blocked": true, 
     "dnsResponse": [
      "213.13.145.120"
     ], 
     "status": 2
    }, 
    "nos": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "vodafone": {
-    "blocked": true, 
     "dnsResponse": []
    }
   }, 
@@ -927,20 +806,16 @@
   ], 
   "isp": {
    "cabovisao": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "meo": {
-    "blocked": true, 
     "dnsResponse": [], 
     "status": 1
    }, 
    "nos": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "vodafone": {
-    "blocked": true, 
     "dnsResponse": []
    }
   }, 
@@ -954,20 +829,16 @@
   ], 
   "isp": {
    "cabovisao": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "meo": {
-    "blocked": true, 
     "dnsResponse": [], 
     "status": 1
    }, 
    "nos": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "vodafone": {
-    "blocked": true, 
     "dnsResponse": []
    }
   }, 
@@ -984,7 +855,6 @@
   ], 
   "isp": {
    "cabovisao": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "meo": {
@@ -998,11 +868,9 @@
     "status": 0
    }, 
    "nos": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "vodafone": {
-    "blocked": true, 
     "dnsResponse": []
    }
   }, 
@@ -1017,22 +885,18 @@
   ], 
   "isp": {
    "cabovisao": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "meo": {
-    "blocked": true, 
     "dnsResponse": [
      "213.13.145.120"
     ], 
     "status": 2
    }, 
    "nos": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "vodafone": {
-    "blocked": true, 
     "dnsResponse": []
    }
   }, 
@@ -1046,22 +910,18 @@
   ], 
   "isp": {
    "cabovisao": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "meo": {
-    "blocked": true, 
     "dnsResponse": [
      "213.13.145.120"
     ], 
     "status": 2
    }, 
    "nos": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "vodafone": {
-    "blocked": true, 
     "dnsResponse": []
    }
   }, 
@@ -1075,20 +935,16 @@
   ], 
   "isp": {
    "cabovisao": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "meo": {
-    "blocked": true, 
     "dnsResponse": [], 
     "status": 1
    }, 
    "nos": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "vodafone": {
-    "blocked": true, 
     "dnsResponse": []
    }
   }, 
@@ -1103,7 +959,6 @@
   ], 
   "isp": {
    "cabovisao": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "meo": {
@@ -1115,11 +970,9 @@
     "status": 0
    }, 
    "nos": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "vodafone": {
-    "blocked": true, 
     "dnsResponse": []
    }
   }, 
@@ -1133,22 +986,18 @@
   ], 
   "isp": {
    "cabovisao": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "meo": {
-    "blocked": true, 
     "dnsResponse": [
      "213.13.145.120"
     ], 
     "status": 2
    }, 
    "nos": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "vodafone": {
-    "blocked": true, 
     "dnsResponse": []
    }
   }, 
@@ -1160,22 +1009,18 @@
   "ip": [], 
   "isp": {
    "cabovisao": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "meo": {
-    "blocked": true, 
     "dnsResponse": [
      "213.13.145.120"
     ], 
     "status": 2
    }, 
    "nos": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "vodafone": {
-    "blocked": true, 
     "dnsResponse": []
    }
   }, 
@@ -1190,22 +1035,18 @@
   ], 
   "isp": {
    "cabovisao": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "meo": {
-    "blocked": true, 
     "dnsResponse": [
      "213.13.145.120"
     ], 
     "status": 2
    }, 
    "nos": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "vodafone": {
-    "blocked": true, 
     "dnsResponse": []
    }
   }, 
@@ -1219,20 +1060,16 @@
   ], 
   "isp": {
    "cabovisao": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "meo": {
-    "blocked": true, 
     "dnsResponse": [], 
     "status": 1
    }, 
    "nos": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "vodafone": {
-    "blocked": true, 
     "dnsResponse": []
    }
   }, 
@@ -1247,22 +1084,18 @@
   ], 
   "isp": {
    "cabovisao": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "meo": {
-    "blocked": true, 
     "dnsResponse": [
      "213.13.145.120"
     ], 
     "status": 2
    }, 
    "nos": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "vodafone": {
-    "blocked": true, 
     "dnsResponse": []
    }
   }, 
@@ -1277,22 +1110,18 @@
   ], 
   "isp": {
    "cabovisao": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "meo": {
-    "blocked": true, 
     "dnsResponse": [
      "213.13.145.120"
     ], 
     "status": 2
    }, 
    "nos": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "vodafone": {
-    "blocked": true, 
     "dnsResponse": []
    }
   }, 
@@ -1306,22 +1135,18 @@
   ], 
   "isp": {
    "cabovisao": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "meo": {
-    "blocked": true, 
     "dnsResponse": [
      "213.13.145.120"
     ], 
     "status": 2
    }, 
    "nos": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "vodafone": {
-    "blocked": true, 
     "dnsResponse": []
    }
   }, 
@@ -1336,20 +1161,16 @@
   ], 
   "isp": {
    "cabovisao": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "meo": {
-    "blocked": true, 
     "dnsResponse": [], 
     "status": 1
    }, 
    "nos": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "vodafone": {
-    "blocked": true, 
     "dnsResponse": []
    }
   }, 
@@ -1364,7 +1185,6 @@
   ], 
   "isp": {
    "cabovisao": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "meo": {
@@ -1376,11 +1196,9 @@
     "status": 0
    }, 
    "nos": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "vodafone": {
-    "blocked": true, 
     "dnsResponse": []
    }
   }, 
@@ -1394,20 +1212,16 @@
   ], 
   "isp": {
    "cabovisao": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "meo": {
-    "blocked": true, 
     "dnsResponse": [], 
     "status": 1
    }, 
    "nos": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "vodafone": {
-    "blocked": true, 
     "dnsResponse": []
    }
   }, 
@@ -1419,22 +1233,18 @@
   "ip": [], 
   "isp": {
    "cabovisao": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "meo": {
-    "blocked": true, 
     "dnsResponse": [
      "213.13.145.120"
     ], 
     "status": 2
    }, 
    "nos": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "vodafone": {
-    "blocked": true, 
     "dnsResponse": []
    }
   }, 
@@ -1448,22 +1258,18 @@
   ], 
   "isp": {
    "cabovisao": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "meo": {
-    "blocked": true, 
     "dnsResponse": [
      "213.13.145.120"
     ], 
     "status": 2
    }, 
    "nos": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "vodafone": {
-    "blocked": true, 
     "dnsResponse": []
    }
   }, 
@@ -1478,22 +1284,18 @@
   ], 
   "isp": {
    "cabovisao": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "meo": {
-    "blocked": true, 
     "dnsResponse": [
      "213.13.145.120"
     ], 
     "status": 2
    }, 
    "nos": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "vodafone": {
-    "blocked": true, 
     "dnsResponse": []
    }
   }, 
@@ -1507,20 +1309,16 @@
   ], 
   "isp": {
    "cabovisao": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "meo": {
-    "blocked": true, 
     "dnsResponse": [], 
     "status": 1
    }, 
    "nos": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "vodafone": {
-    "blocked": true, 
     "dnsResponse": []
    }
   }, 
@@ -1534,22 +1332,18 @@
   ], 
   "isp": {
    "cabovisao": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "meo": {
-    "blocked": true, 
     "dnsResponse": [
      "213.13.145.120"
     ], 
     "status": 2
    }, 
    "nos": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "vodafone": {
-    "blocked": true, 
     "dnsResponse": []
    }
   }, 
@@ -1563,22 +1357,18 @@
   ], 
   "isp": {
    "cabovisao": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "meo": {
-    "blocked": true, 
     "dnsResponse": [
      "213.13.145.120"
     ], 
     "status": 2
    }, 
    "nos": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "vodafone": {
-    "blocked": true, 
     "dnsResponse": []
    }
   }, 
@@ -1590,7 +1380,6 @@
   "ip": [], 
   "isp": {
    "cabovisao": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "meo": {
@@ -1599,11 +1388,9 @@
     "status": -1
    }, 
    "nos": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "vodafone": {
-    "blocked": true, 
     "dnsResponse": []
    }
   }, 
@@ -1615,7 +1402,6 @@
   "ip": [], 
   "isp": {
    "cabovisao": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "meo": {
@@ -1624,11 +1410,9 @@
     "status": -1
    }, 
    "nos": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "vodafone": {
-    "blocked": true, 
     "dnsResponse": []
    }
   }, 
@@ -1642,7 +1426,6 @@
   ], 
   "isp": {
    "cabovisao": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "meo": {
@@ -1653,11 +1436,9 @@
     "status": 0
    }, 
    "nos": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "vodafone": {
-    "blocked": true, 
     "dnsResponse": []
    }
   }, 
@@ -1673,22 +1454,18 @@
   ], 
   "isp": {
    "cabovisao": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "meo": {
-    "blocked": true, 
     "dnsResponse": [
      "213.13.145.120"
     ], 
     "status": 2
    }, 
    "nos": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "vodafone": {
-    "blocked": true, 
     "dnsResponse": []
    }
   }, 
@@ -1702,7 +1479,6 @@
   ], 
   "isp": {
    "cabovisao": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "meo": {
@@ -1713,11 +1489,9 @@
     "status": 0
    }, 
    "nos": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "vodafone": {
-    "blocked": true, 
     "dnsResponse": []
    }
   }, 
@@ -1731,7 +1505,6 @@
   ], 
   "isp": {
    "cabovisao": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "meo": {
@@ -1742,11 +1515,9 @@
     "status": 0
    }, 
    "nos": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "vodafone": {
-    "blocked": true, 
     "dnsResponse": []
    }
   }, 
@@ -1761,20 +1532,16 @@
   ], 
   "isp": {
    "cabovisao": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "meo": {
-    "blocked": true, 
     "dnsResponse": [], 
     "status": 1
    }, 
    "nos": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "vodafone": {
-    "blocked": true, 
     "dnsResponse": []
    }
   }, 
@@ -1788,20 +1555,16 @@
   ], 
   "isp": {
    "cabovisao": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "meo": {
-    "blocked": true, 
     "dnsResponse": [], 
     "status": 1
    }, 
    "nos": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "vodafone": {
-    "blocked": true, 
     "dnsResponse": []
    }
   }, 
@@ -1815,20 +1578,16 @@
   ], 
   "isp": {
    "cabovisao": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "meo": {
-    "blocked": true, 
     "dnsResponse": [], 
     "status": 1
    }, 
    "nos": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "vodafone": {
-    "blocked": true, 
     "dnsResponse": []
    }
   }, 
@@ -1842,20 +1601,16 @@
   ], 
   "isp": {
    "cabovisao": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "meo": {
-    "blocked": true, 
     "dnsResponse": [], 
     "status": 1
    }, 
    "nos": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "vodafone": {
-    "blocked": true, 
     "dnsResponse": []
    }
   }, 
@@ -1869,20 +1624,16 @@
   ], 
   "isp": {
    "cabovisao": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "meo": {
-    "blocked": true, 
     "dnsResponse": [], 
     "status": 1
    }, 
    "nos": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "vodafone": {
-    "blocked": true, 
     "dnsResponse": []
    }
   }, 
@@ -1896,20 +1647,16 @@
   ], 
   "isp": {
    "cabovisao": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "meo": {
-    "blocked": true, 
     "dnsResponse": [], 
     "status": 1
    }, 
    "nos": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "vodafone": {
-    "blocked": true, 
     "dnsResponse": []
    }
   }, 
@@ -1923,20 +1670,16 @@
   ], 
   "isp": {
    "cabovisao": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "meo": {
-    "blocked": true, 
     "dnsResponse": [], 
     "status": 1
    }, 
    "nos": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "vodafone": {
-    "blocked": true, 
     "dnsResponse": []
    }
   }, 
@@ -1950,20 +1693,16 @@
   ], 
   "isp": {
    "cabovisao": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "meo": {
-    "blocked": true, 
     "dnsResponse": [], 
     "status": 1
    }, 
    "nos": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "vodafone": {
-    "blocked": true, 
     "dnsResponse": []
    }
   }, 
@@ -1975,7 +1714,6 @@
   "ip": [], 
   "isp": {
    "cabovisao": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "meo": {
@@ -1984,11 +1722,9 @@
     "status": -1
    }, 
    "nos": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "vodafone": {
-    "blocked": true, 
     "dnsResponse": []
    }
   }, 
@@ -2002,20 +1738,16 @@
   ], 
   "isp": {
    "cabovisao": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "meo": {
-    "blocked": true, 
     "dnsResponse": [], 
     "status": 1
    }, 
    "nos": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "vodafone": {
-    "blocked": true, 
     "dnsResponse": []
    }
   }, 
@@ -2027,7 +1759,6 @@
   "ip": [], 
   "isp": {
    "cabovisao": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "meo": {
@@ -2036,11 +1767,9 @@
     "status": -1
    }, 
    "nos": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "vodafone": {
-    "blocked": true, 
     "dnsResponse": []
    }
   }, 
@@ -2054,20 +1783,16 @@
   ], 
   "isp": {
    "cabovisao": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "meo": {
-    "blocked": true, 
     "dnsResponse": [], 
     "status": 1
    }, 
    "nos": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "vodafone": {
-    "blocked": true, 
     "dnsResponse": []
    }
   }, 
@@ -2081,20 +1806,16 @@
   ], 
   "isp": {
    "cabovisao": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "meo": {
-    "blocked": true, 
     "dnsResponse": [], 
     "status": 1
    }, 
    "nos": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "vodafone": {
-    "blocked": true, 
     "dnsResponse": []
    }
   }, 
@@ -2109,22 +1830,18 @@
   ], 
   "isp": {
    "cabovisao": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "meo": {
-    "blocked": true, 
     "dnsResponse": [
      "213.13.145.120"
     ], 
     "status": 2
    }, 
    "nos": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "vodafone": {
-    "blocked": true, 
     "dnsResponse": []
    }
   }, 
@@ -2138,20 +1855,16 @@
   ], 
   "isp": {
    "cabovisao": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "meo": {
-    "blocked": true, 
     "dnsResponse": [], 
     "status": 1
    }, 
    "nos": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "vodafone": {
-    "blocked": true, 
     "dnsResponse": []
    }
   }, 
@@ -2166,22 +1879,18 @@
   ], 
   "isp": {
    "cabovisao": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "meo": {
-    "blocked": true, 
     "dnsResponse": [
      "213.13.145.120"
     ], 
     "status": 2
    }, 
    "nos": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "vodafone": {
-    "blocked": true, 
     "dnsResponse": []
    }
   }, 
@@ -2196,22 +1905,18 @@
   ], 
   "isp": {
    "cabovisao": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "meo": {
-    "blocked": true, 
     "dnsResponse": [
      "213.13.145.120"
     ], 
     "status": 2
    }, 
    "nos": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "vodafone": {
-    "blocked": true, 
     "dnsResponse": []
    }
   }, 
@@ -2226,22 +1931,18 @@
   ], 
   "isp": {
    "cabovisao": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "meo": {
-    "blocked": true, 
     "dnsResponse": [
      "213.13.145.120"
     ], 
     "status": 2
    }, 
    "nos": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "vodafone": {
-    "blocked": true, 
     "dnsResponse": []
    }
   }, 
@@ -2255,7 +1956,6 @@
   ], 
   "isp": {
    "cabovisao": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "meo": {
@@ -2266,11 +1966,9 @@
     "status": 0
    }, 
    "nos": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "vodafone": {
-    "blocked": true, 
     "dnsResponse": []
    }
   }, 
@@ -2284,22 +1982,18 @@
   ], 
   "isp": {
    "cabovisao": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "meo": {
-    "blocked": true, 
     "dnsResponse": [
      "213.13.145.120"
     ], 
     "status": 2
    }, 
    "nos": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "vodafone": {
-    "blocked": true, 
     "dnsResponse": []
    }
   }, 
@@ -2314,7 +2008,6 @@
   ], 
   "isp": {
    "cabovisao": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "meo": {
@@ -2326,11 +2019,9 @@
     "status": 0
    }, 
    "nos": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "vodafone": {
-    "blocked": true, 
     "dnsResponse": []
    }
   }, 
@@ -2345,22 +2036,18 @@
   ], 
   "isp": {
    "cabovisao": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "meo": {
-    "blocked": true, 
     "dnsResponse": [
      "213.13.145.120"
     ], 
     "status": 2
    }, 
    "nos": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "vodafone": {
-    "blocked": true, 
     "dnsResponse": []
    }
   }, 
@@ -2374,22 +2061,18 @@
   ], 
   "isp": {
    "cabovisao": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "meo": {
-    "blocked": true, 
     "dnsResponse": [
      "213.13.145.120"
     ], 
     "status": 2
    }, 
    "nos": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "vodafone": {
-    "blocked": true, 
     "dnsResponse": []
    }
   }, 
@@ -2404,22 +2087,18 @@
   ], 
   "isp": {
    "cabovisao": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "meo": {
-    "blocked": true, 
     "dnsResponse": [
      "213.13.145.120"
     ], 
     "status": 2
    }, 
    "nos": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "vodafone": {
-    "blocked": true, 
     "dnsResponse": []
    }
   }, 
@@ -2433,20 +2112,16 @@
   ], 
   "isp": {
    "cabovisao": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "meo": {
-    "blocked": true, 
     "dnsResponse": [], 
     "status": 1
    }, 
    "nos": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "vodafone": {
-    "blocked": true, 
     "dnsResponse": []
    }
   }, 
@@ -2460,20 +2135,16 @@
   ], 
   "isp": {
    "cabovisao": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "meo": {
-    "blocked": true, 
     "dnsResponse": [], 
     "status": 1
    }, 
    "nos": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "vodafone": {
-    "blocked": true, 
     "dnsResponse": []
    }
   }, 
@@ -2487,20 +2158,16 @@
   ], 
   "isp": {
    "cabovisao": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "meo": {
-    "blocked": true, 
     "dnsResponse": [], 
     "status": 1
    }, 
    "nos": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "vodafone": {
-    "blocked": true, 
     "dnsResponse": []
    }
   }, 
@@ -2514,22 +2181,18 @@
   ], 
   "isp": {
    "cabovisao": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "meo": {
-    "blocked": true, 
     "dnsResponse": [
      "213.13.145.120"
     ], 
     "status": 2
    }, 
    "nos": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "vodafone": {
-    "blocked": true, 
     "dnsResponse": []
    }
   }, 
@@ -2544,20 +2207,16 @@
   ], 
   "isp": {
    "cabovisao": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "meo": {
-    "blocked": true, 
     "dnsResponse": [], 
     "status": 1
    }, 
    "nos": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "vodafone": {
-    "blocked": true, 
     "dnsResponse": []
    }
   }, 
@@ -2571,20 +2230,16 @@
   ], 
   "isp": {
    "cabovisao": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "meo": {
-    "blocked": true, 
     "dnsResponse": [], 
     "status": 1
    }, 
    "nos": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "vodafone": {
-    "blocked": true, 
     "dnsResponse": []
    }
   }, 
@@ -2598,20 +2253,16 @@
   ], 
   "isp": {
    "cabovisao": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "meo": {
-    "blocked": true, 
     "dnsResponse": [], 
     "status": 1
    }, 
    "nos": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "vodafone": {
-    "blocked": true, 
     "dnsResponse": []
    }
   }, 
@@ -2625,20 +2276,16 @@
   ], 
   "isp": {
    "cabovisao": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "meo": {
-    "blocked": true, 
     "dnsResponse": [], 
     "status": 1
    }, 
    "nos": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "vodafone": {
-    "blocked": true, 
     "dnsResponse": []
    }
   }, 
@@ -2653,20 +2300,16 @@
   ], 
   "isp": {
    "cabovisao": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "meo": {
-    "blocked": true, 
     "dnsResponse": [], 
     "status": 1
    }, 
    "nos": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "vodafone": {
-    "blocked": true, 
     "dnsResponse": []
    }
   }, 
@@ -2681,20 +2324,16 @@
   ], 
   "isp": {
    "cabovisao": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "meo": {
-    "blocked": true, 
     "dnsResponse": [], 
     "status": 1
    }, 
    "nos": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "vodafone": {
-    "blocked": true, 
     "dnsResponse": []
    }
   }, 
@@ -2708,20 +2347,16 @@
   ], 
   "isp": {
    "cabovisao": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "meo": {
-    "blocked": true, 
     "dnsResponse": [], 
     "status": 1
    }, 
    "nos": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "vodafone": {
-    "blocked": true, 
     "dnsResponse": []
    }
   }, 
@@ -2733,7 +2368,6 @@
   "ip": [], 
   "isp": {
    "cabovisao": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "meo": {
@@ -2742,11 +2376,9 @@
     "status": -1
    }, 
    "nos": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "vodafone": {
-    "blocked": true, 
     "dnsResponse": []
    }
   }, 
@@ -2760,20 +2392,16 @@
   ], 
   "isp": {
    "cabovisao": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "meo": {
-    "blocked": true, 
     "dnsResponse": [], 
     "status": 1
    }, 
    "nos": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "vodafone": {
-    "blocked": true, 
     "dnsResponse": []
    }
   }, 
@@ -2787,20 +2415,16 @@
   ], 
   "isp": {
    "cabovisao": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "meo": {
-    "blocked": true, 
     "dnsResponse": [], 
     "status": 1
    }, 
    "nos": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "vodafone": {
-    "blocked": true, 
     "dnsResponse": []
    }
   }, 
@@ -2814,20 +2438,16 @@
   ], 
   "isp": {
    "cabovisao": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "meo": {
-    "blocked": true, 
     "dnsResponse": [], 
     "status": 1
    }, 
    "nos": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "vodafone": {
-    "blocked": true, 
     "dnsResponse": []
    }
   }, 
@@ -2841,20 +2461,16 @@
   ], 
   "isp": {
    "cabovisao": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "meo": {
-    "blocked": true, 
     "dnsResponse": [], 
     "status": 1
    }, 
    "nos": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "vodafone": {
-    "blocked": true, 
     "dnsResponse": []
    }
   }, 
@@ -2873,7 +2489,6 @@
   ], 
   "isp": {
    "cabovisao": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "meo": {
@@ -2889,11 +2504,9 @@
     "status": 0
    }, 
    "nos": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "vodafone": {
-    "blocked": true, 
     "dnsResponse": []
    }
   }, 
@@ -2908,7 +2521,6 @@
   ], 
   "isp": {
    "cabovisao": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "meo": {
@@ -2920,11 +2532,9 @@
     "status": 0
    }, 
    "nos": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "vodafone": {
-    "blocked": true, 
     "dnsResponse": []
    }
   }, 
@@ -2939,7 +2549,6 @@
   ], 
   "isp": {
    "cabovisao": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "meo": {
@@ -2951,11 +2560,9 @@
     "status": 0
    }, 
    "nos": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "vodafone": {
-    "blocked": true, 
     "dnsResponse": []
    }
   }, 
@@ -2970,22 +2577,18 @@
   ], 
   "isp": {
    "cabovisao": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "meo": {
-    "blocked": true, 
     "dnsResponse": [
      "213.13.145.120"
     ], 
     "status": 2
    }, 
    "nos": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "vodafone": {
-    "blocked": true, 
     "dnsResponse": []
    }
   }, 
@@ -2999,22 +2602,18 @@
   ], 
   "isp": {
    "cabovisao": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "meo": {
-    "blocked": true, 
     "dnsResponse": [
      "213.13.145.120"
     ], 
     "status": 2
    }, 
    "nos": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "vodafone": {
-    "blocked": true, 
     "dnsResponse": []
    }
   }, 
@@ -3028,20 +2627,16 @@
   ], 
   "isp": {
    "cabovisao": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "meo": {
-    "blocked": true, 
     "dnsResponse": [], 
     "status": 1
    }, 
    "nos": {
-    "blocked": true, 
     "dnsResponse": []
    }, 
    "vodafone": {
-    "blocked": true, 
     "dnsResponse": []
    }
   }, 
