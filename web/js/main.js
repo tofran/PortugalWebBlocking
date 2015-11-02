@@ -8,9 +8,10 @@ $.getJSON('blockList.json', function(jsonData) {
 		var newTd = document.createElement('td');
 		newTd.innerHTML = data.ip[0];
 		newTr.appendChild(newTd);
-		// date collum
-		newTr.innerHTML +=	"<td>" + data.blockDate + "</td>";
-		// isp collum
+		// date & reason collum
+		newTr.innerHTML +=	"<td>" + data.blockDate + "</td>" + 
+							"<td>" + data.reason + "</td>";
+		// isps collums
 		for(var eachIsp in data.isp){
 			if(typeof data.isp[eachIsp].status === 'undefined'){
 				newTr.innerHTML += "<td>n/a</td>";
