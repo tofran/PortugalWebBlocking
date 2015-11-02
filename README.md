@@ -2,8 +2,6 @@
 
 This repo contais (some of) the domains currently beeing blocked by ISP's in portugal.
 
-### Content:
-
 **blockList.txt** - A simple list of the blocked domains domains
 
 **blockList.json** - A detailed JSON file with all the domains, that follows the followinf format:
@@ -16,7 +14,7 @@ This repo contais (some of) the domains currently beeing blocked by ISP's in por
 			"ispName" : {
 				"status" : 0,
 				"dnsResponse" : [
-					255.255.255.255
+					"255.255.255.255"
 				]
 			}
 		},
