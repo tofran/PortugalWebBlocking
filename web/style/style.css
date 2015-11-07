@@ -7,8 +7,28 @@ h1, h1 ~ p, footer {
 h1 {
   font-size: 24px;
 }
+#warning {
+  width: 320px;
+  text-align: center;
+  background-color: #ce3e3e;;
+  padding: 10px;
+  color: white;
+  margin: 10px auto 20px auto; 
+}
+#caption {
+  font-size: 14px;
+  margin: 0px auto 0px auto;
+  width: 550px;
+  line-height: 140%;
+  padding-left: 50px;
+}
+ol{
+  font-size: 13px;
+  margin: 3px 0px 0px 0px;
+  padding: 0px
+}
 ::selection {
-  background: #E4E4E4;
+  background: #C9C9C9;
 } 
 #mainTable {
   margin: 0 auto 20px auto;

@@ -9,7 +9,11 @@
 	<body>
 		<main>
 			<h1>List of websites/domains blocked in Portugal</h1>
-			<p><span id="domainCount">...</span> domains loaded from <a href="blockList.json">blockList.json</a><br>NOTE: The only ISP scanned was MEO others will be soon.</p>
+			<p>
+				<span id="domainCount">0</span> domains loaded from <a href="blockList.json">blockList.json</a>
+				<br />
+			</p>
+			<div id="warning">NOTE: Currently only MEO was scanned</div>
 			<table id="mainTable" cellspacing="0" cellpadding="0">
 				<thead>
 				<tr>
@@ -48,6 +52,17 @@
 				</tbody>
 			</table>
 		</main>
+		<div id="caption">
+			Reference DNS: Google public DNS.
+			<br />
+			Status Codes:
+			<ol start="-1">
+				<li><img src="web/media/-1.png" alt="-1" /> Can't be Resolved (Neither the reference DNS neither the ISP's DNS could resolve);</li>
+				<li><img src="web/media/0.png" alt="1" /> Not Blocked (Same response, self-explanatory);</li>
+				<li><img src="web/media/1.png" alt="1" /> DNS Blocked (The DNS did not reply, but the domain was resolved by the reference DNS);</li>
+				<li><img src="web/media/2.png" alt="0" /> DNS Redirect (The DNS replied with a different IP from what it actually is).</li>
+			</ol>
+		</div>
 		<footer>
 			<p>Made by <a href="http://tofran.com">ToFran</a>, source availabe on <a href="https://github.com/ToFran/PortugalPiracyBlocking">github</a> (feel free to contribute).</p>
 		</footer>
