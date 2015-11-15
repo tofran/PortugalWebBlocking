@@ -8,7 +8,8 @@
   ], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [
@@ -17,7 +18,8 @@
     "status": 2
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -37,14 +39,16 @@
   ], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [], 
     "status": 1
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [], 
@@ -61,14 +65,16 @@
   ], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [], 
     "status": 1
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -88,14 +94,16 @@
   ], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [], 
     "status": 1
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -115,7 +123,8 @@
   ], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [
@@ -124,7 +133,8 @@
     "status": 0
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -143,7 +153,8 @@
   ], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [
@@ -152,7 +163,8 @@
     "status": 2
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -172,14 +184,16 @@
   ], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [], 
     "status": 1
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -188,7 +202,7 @@
     "status": 0
    }
   }, 
-  "reason": "Gambling"
+  "reason": "Copyright"
  }, 
  "btrev.net": {
   "blockDate": "2015-10", 
@@ -198,7 +212,8 @@
   ], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [
@@ -207,7 +222,8 @@
     "status": 2
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -227,14 +243,16 @@
   ], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [], 
     "status": 1
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -253,14 +271,16 @@
   ], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [], 
     "status": 1
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -279,14 +299,16 @@
   ], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [], 
     "status": 1
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -308,19 +330,21 @@
   ], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [
+     "185.22.172.110", 
      "94.242.57.175", 
      "94.242.57.65", 
-     "94.242.59.129", 
-     "185.22.172.110"
+     "94.242.59.129"
     ], 
     "status": 0
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -342,7 +366,8 @@
   ], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [
@@ -351,7 +376,8 @@
     "status": 2
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -371,14 +397,16 @@
   ], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [], 
     "status": 1
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -397,14 +425,16 @@
   ], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [], 
     "status": 1
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -423,7 +453,8 @@
   ], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [
@@ -432,7 +463,8 @@
     "status": 2
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -453,7 +485,8 @@
   ], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [
@@ -462,7 +495,8 @@
     "status": 2
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -482,7 +516,8 @@
   ], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [
@@ -491,7 +526,8 @@
     "status": 2
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -512,7 +548,8 @@
   ], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [
@@ -522,7 +559,8 @@
     "status": 0
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -543,14 +581,16 @@
   ], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [], 
     "status": 1
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -571,7 +611,8 @@
   ], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [
@@ -580,7 +621,8 @@
     "status": 2
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -600,14 +642,16 @@
   ], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [], 
     "status": 1
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -626,14 +670,16 @@
   ], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [], 
     "status": 1
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -653,17 +699,19 @@
   ], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [
-     "104.25.200.14", 
-     "104.25.201.14"
+     "104.25.201.14", 
+     "104.25.200.14"
     ], 
     "status": 0
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -684,7 +732,8 @@
   ], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [
@@ -694,7 +743,8 @@
     "status": 0
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -715,7 +765,8 @@
   ], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [
@@ -724,7 +775,8 @@
     "status": 2
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -744,14 +796,16 @@
   ], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [], 
     "status": 1
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -772,16 +826,19 @@
   ], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [
-     "213.13.145.120"
+     "104.28.21.57", 
+     "104.28.20.57"
     ], 
-    "status": 2
+    "status": 0
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -801,14 +858,16 @@
   ], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [], 
     "status": 1
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -825,14 +884,16 @@
   "ip": [], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [], 
     "status": -1
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [], 
@@ -849,7 +910,8 @@
   ], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [
@@ -858,7 +920,8 @@
     "status": 2
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -879,7 +942,8 @@
   ], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [
@@ -888,7 +952,8 @@
     "status": 2
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -908,14 +973,16 @@
   ], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [], 
     "status": 1
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -935,7 +1002,8 @@
   ], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [
@@ -944,7 +1012,8 @@
     "status": 0
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -964,7 +1033,8 @@
   ], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [
@@ -973,7 +1043,8 @@
     "status": 2
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -1000,7 +1071,8 @@
   ], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [
@@ -1009,7 +1081,8 @@
     "status": 2
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -1029,7 +1102,8 @@
   ], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [
@@ -1038,7 +1112,8 @@
     "status": 2
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -1059,7 +1134,8 @@
   ], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [
@@ -1068,7 +1144,8 @@
     "status": 2
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -1088,14 +1165,16 @@
   ], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [], 
     "status": 1
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -1115,14 +1194,16 @@
   ], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [], 
     "status": 1
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -1144,19 +1225,21 @@
   ], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [
+     "216.239.38.21", 
      "216.239.32.21", 
      "216.239.34.21", 
-     "216.239.36.21", 
-     "216.239.38.21"
+     "216.239.36.21"
     ], 
     "status": 0
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -1179,7 +1262,8 @@
   ], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [
@@ -1188,7 +1272,8 @@
     "status": 2
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -1206,16 +1291,18 @@
   "ip": [], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [
      "213.13.145.120"
     ], 
-    "status": 2
+    "status": 0
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [], 
@@ -1232,7 +1319,8 @@
   ], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [
@@ -1241,7 +1329,8 @@
     "status": 2
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -1261,14 +1350,16 @@
   ], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [], 
     "status": 1
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -1288,7 +1379,8 @@
   ], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [
@@ -1298,7 +1390,8 @@
     "status": 0
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -1318,7 +1411,8 @@
   ], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [
@@ -1327,7 +1421,8 @@
     "status": 2
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -1345,16 +1440,18 @@
   "ip": [], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [
      "213.13.145.120"
     ], 
-    "status": 2
+    "status": 0
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [], 
@@ -1372,7 +1469,8 @@
   ], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [
@@ -1381,7 +1479,8 @@
     "status": 2
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -1401,14 +1500,16 @@
   ], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [], 
     "status": 1
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -1428,7 +1529,8 @@
   ], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [
@@ -1437,7 +1539,8 @@
     "status": 2
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -1457,7 +1560,8 @@
   ], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [
@@ -1466,7 +1570,8 @@
     "status": 2
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -1487,7 +1592,8 @@
   ], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [
@@ -1496,7 +1602,8 @@
     "status": 2
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -1517,7 +1624,8 @@
   ], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [
@@ -1526,7 +1634,8 @@
     "status": 2
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -1547,7 +1656,8 @@
   ], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [
@@ -1556,7 +1666,8 @@
     "status": 2
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -1577,7 +1688,8 @@
   ], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [
@@ -1586,7 +1698,8 @@
     "status": 2
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -1606,7 +1719,8 @@
   ], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [
@@ -1615,7 +1729,8 @@
     "status": 2
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -1635,7 +1750,8 @@
   ], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [
@@ -1644,7 +1760,8 @@
     "status": 2
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -1665,14 +1782,16 @@
   ], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [], 
     "status": 1
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -1693,17 +1812,19 @@
   ], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [
-     "104.20.15.201", 
-     "104.20.14.201"
+     "104.20.14.201", 
+     "104.20.15.201"
     ], 
     "status": 0
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -1723,7 +1844,8 @@
   ], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [
@@ -1732,7 +1854,8 @@
     "status": 2
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -1750,16 +1873,18 @@
   "ip": [], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [
      "213.13.145.120"
     ], 
-    "status": 2
+    "status": 0
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -1779,7 +1904,8 @@
   ], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [
@@ -1788,7 +1914,8 @@
     "status": 2
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -1808,14 +1935,16 @@
   ], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [], 
     "status": 1
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -1825,7 +1954,7 @@
     "status": 2
    }
   }, 
-  "reason": "Gambling"
+  "reason": "Copyright"
  }, 
  "ptxtuga.com": {
   "blockDate": "2015-10", 
@@ -1833,16 +1962,18 @@
   "ip": [], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [
      "213.13.145.120"
     ], 
-    "status": 2
+    "status": 0
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -1862,7 +1993,8 @@
   ], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [
@@ -1871,7 +2003,8 @@
     "status": 2
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -1892,7 +2025,8 @@
   ], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [
@@ -1901,7 +2035,8 @@
     "status": 2
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -1921,14 +2056,16 @@
   ], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [], 
     "status": 1
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -1947,16 +2084,18 @@
   ], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [
-     "213.13.145.120"
+     "216.58.210.97"
     ], 
     "status": 2
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -1976,16 +2115,18 @@
   ], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [
-     "213.13.145.120"
+     "216.58.210.97"
     ], 
     "status": 2
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -2003,14 +2144,16 @@
   "ip": [], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [], 
     "status": -1
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [], 
@@ -2025,14 +2168,16 @@
   "ip": [], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [], 
     "status": -1
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [], 
@@ -2049,7 +2194,8 @@
   ], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [
@@ -2058,7 +2204,8 @@
     "status": 0
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -2079,7 +2226,8 @@
   ], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [
@@ -2088,7 +2236,8 @@
     "status": 2
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -2108,7 +2257,8 @@
   ], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [
@@ -2117,7 +2267,8 @@
     "status": 0
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -2136,7 +2287,8 @@
   ], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [
@@ -2145,7 +2297,8 @@
     "status": 0
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -2165,14 +2318,16 @@
   ], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [], 
     "status": 1
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -2192,14 +2347,16 @@
   ], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [], 
     "status": 1
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -2218,14 +2375,16 @@
   ], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [], 
     "status": 1
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -2244,14 +2403,16 @@
   ], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [], 
     "status": 1
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -2270,14 +2431,16 @@
   ], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [], 
     "status": 1
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -2296,14 +2459,16 @@
   ], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [], 
     "status": 1
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -2322,14 +2487,16 @@
   ], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [], 
     "status": 1
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -2349,14 +2516,16 @@
   ], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [], 
     "status": 1
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -2373,14 +2542,16 @@
   "ip": [], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [], 
     "status": -1
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [], 
@@ -2397,14 +2568,16 @@
   ], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [], 
     "status": 1
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -2422,14 +2595,16 @@
   "ip": [], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [], 
     "status": -1
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [], 
@@ -2446,14 +2621,16 @@
   ], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [], 
     "status": 1
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -2472,14 +2649,16 @@
   ], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [], 
     "status": 1
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -2498,7 +2677,8 @@
   ], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [
@@ -2507,7 +2687,8 @@
     "status": 2
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -2528,7 +2709,8 @@
   ], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [
@@ -2537,7 +2719,8 @@
     "status": 2
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -2557,7 +2740,8 @@
   ], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [
@@ -2566,7 +2750,8 @@
     "status": 2
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -2586,7 +2771,8 @@
   ], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [
@@ -2595,7 +2781,8 @@
     "status": 2
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -2616,7 +2803,8 @@
   ], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [
@@ -2625,7 +2813,8 @@
     "status": 2
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -2645,14 +2834,16 @@
   ], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [], 
     "status": 1
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -2673,7 +2864,8 @@
   ], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [
@@ -2682,7 +2874,8 @@
     "status": 2
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -2703,7 +2896,8 @@
   ], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [
@@ -2712,7 +2906,8 @@
     "status": 2
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -2733,7 +2928,8 @@
   ], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [
@@ -2742,7 +2938,8 @@
     "status": 2
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -2762,7 +2959,8 @@
   ], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [
@@ -2771,7 +2969,8 @@
     "status": 0
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -2790,7 +2989,8 @@
   ], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [
@@ -2799,7 +2999,8 @@
     "status": 2
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -2817,16 +3018,18 @@
   "ip": [], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [
      "213.13.145.120"
     ], 
-    "status": 2
+    "status": 0
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -2846,7 +3049,8 @@
   ], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [
@@ -2855,7 +3059,8 @@
     "status": 2
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -2878,7 +3083,8 @@
   ], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [
@@ -2887,7 +3093,8 @@
     "status": 2
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -2905,16 +3112,18 @@
   "ip": [], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [
      "213.13.145.120"
     ], 
-    "status": 2
+    "status": 0
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -2934,7 +3143,8 @@
   ], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [
@@ -2943,7 +3153,8 @@
     "status": 2
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -2964,7 +3175,8 @@
   ], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [
@@ -2974,7 +3186,8 @@
     "status": 0
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -2995,7 +3208,8 @@
   ], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [
@@ -3004,7 +3218,8 @@
     "status": 2
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -3024,7 +3239,8 @@
   ], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [
@@ -3033,7 +3249,8 @@
     "status": 2
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -3054,7 +3271,8 @@
   ], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [
@@ -3063,7 +3281,8 @@
     "status": 2
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -3083,14 +3302,16 @@
   ], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [], 
     "status": 1
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -3109,14 +3330,16 @@
   ], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [], 
     "status": 1
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -3135,14 +3358,16 @@
   ], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [], 
     "status": 1
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -3162,7 +3387,8 @@
   ], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [
@@ -3171,7 +3397,8 @@
     "status": 2
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -3192,14 +3419,16 @@
   ], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [], 
     "status": 1
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -3219,14 +3448,16 @@
   ], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [], 
     "status": 1
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -3245,14 +3476,16 @@
   ], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [], 
     "status": 1
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -3271,14 +3504,16 @@
   ], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [], 
     "status": 1
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -3298,14 +3533,16 @@
   ], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [], 
     "status": 1
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -3326,14 +3563,16 @@
   ], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [], 
     "status": 1
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -3353,14 +3592,16 @@
   ], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [], 
     "status": 1
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -3377,14 +3618,16 @@
   "ip": [], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [], 
     "status": -1
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -3403,14 +3646,16 @@
   ], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [], 
     "status": 1
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -3429,14 +3674,16 @@
   ], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [], 
     "status": 1
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -3455,14 +3702,16 @@
   ], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [], 
     "status": 1
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -3482,14 +3731,16 @@
   ], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [], 
     "status": 1
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -3513,21 +3764,23 @@
   ], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [
+     "104.36.192.132", 
+     "104.36.192.133", 
      "104.36.192.182", 
      "104.36.192.135", 
      "104.36.192.220", 
-     "104.36.192.221", 
-     "104.36.192.132", 
-     "104.36.192.133"
+     "104.36.192.221"
     ], 
     "status": 0
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -3541,7 +3794,7 @@
     "status": 0
    }
   }, 
-  "reason": "Unknown"
+  "reason": "Copyright"
  }, 
  "warez-box.net": {
   "blockDate": "2015-10", 
@@ -3552,7 +3805,8 @@
   ], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [
@@ -3562,7 +3816,8 @@
     "status": 0
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -3583,17 +3838,19 @@
   ], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [
-     "104.31.86.125", 
-     "104.31.87.125"
+     "104.31.87.125", 
+     "104.31.86.125"
     ], 
     "status": 0
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -3614,7 +3871,8 @@
   ], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [
@@ -3623,7 +3881,8 @@
     "status": 2
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -3643,7 +3902,8 @@
   ], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [
@@ -3652,7 +3912,8 @@
     "status": 2
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -3672,14 +3933,16 @@
   ], 
   "isp": {
    "cabovisao": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "meo": {
     "dnsResponse": [], 
     "status": 1
    }, 
    "nos": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -2
    }, 
    "vodafone": {
     "dnsResponse": [
