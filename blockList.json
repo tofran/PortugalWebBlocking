@@ -20,7 +20,11 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "212.18.182.164", 
+     "212.18.182.197"
+    ], 
+    "status": 2
    }
   }, 
   "reason": "Copyright"
@@ -43,7 +47,8 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": 1
    }
   }, 
   "reason": "Copyright"
@@ -66,7 +71,11 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "212.18.182.197", 
+     "212.18.182.164"
+    ], 
+    "status": 2
    }
   }, 
   "reason": "Copyright"
@@ -89,7 +98,11 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "212.18.182.164", 
+     "212.18.182.197"
+    ], 
+    "status": 2
    }
   }, 
   "reason": "Copyright"
@@ -114,7 +127,10 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "82.221.105.12"
+    ], 
+    "status": 0
    }
   }, 
   "reason": "Copyright"
@@ -139,7 +155,11 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "212.18.182.197", 
+     "212.18.182.164"
+    ], 
+    "status": 2
    }
   }, 
   "reason": "Copyright"
@@ -162,7 +182,10 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "94.125.61.194"
+    ], 
+    "status": 0
    }
   }, 
   "reason": "Gambling"
@@ -187,7 +210,11 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "212.18.182.197", 
+     "212.18.182.164"
+    ], 
+    "status": 2
    }
   }, 
   "reason": "Copyright"
@@ -210,7 +237,10 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "78.153.194.100"
+    ], 
+    "status": 2
    }
   }, 
   "reason": "Copyright"
@@ -233,7 +263,10 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "185.53.177.9"
+    ], 
+    "status": 0
    }
   }, 
   "reason": "Copyright"
@@ -256,7 +289,10 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "72.52.4.90"
+    ], 
+    "status": 0
    }
   }, 
   "reason": "Copyright"
@@ -287,7 +323,13 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "94.242.59.129", 
+     "185.22.172.110", 
+     "94.242.57.175", 
+     "94.242.57.65"
+    ], 
+    "status": 0
    }
   }, 
   "reason": "Copyright"
@@ -312,7 +354,11 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "212.18.182.197", 
+     "212.18.182.164"
+    ], 
+    "status": 2
    }
   }, 
   "reason": "Copyright"
@@ -335,7 +381,10 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "8.5.1.32"
+    ], 
+    "status": 0
    }
   }, 
   "reason": "Copyright"
@@ -358,7 +407,10 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "64.74.223.44"
+    ], 
+    "status": 2
    }
   }, 
   "reason": "Copyright"
@@ -383,7 +435,11 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "212.18.182.197", 
+     "212.18.182.164"
+    ], 
+    "status": 2
    }
   }, 
   "reason": "Copyright"
@@ -409,7 +465,11 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "212.18.182.164", 
+     "212.18.182.197"
+    ], 
+    "status": 2
    }
   }, 
   "reason": "Copyright"
@@ -434,7 +494,11 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "212.18.182.164", 
+     "212.18.182.197"
+    ], 
+    "status": 2
    }
   }, 
   "reason": "Copyright"
@@ -461,7 +525,11 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "104.27.188.33", 
+     "104.27.189.33"
+    ], 
+    "status": 0
    }
   }, 
   "reason": "Copyright"
@@ -485,7 +553,11 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "141.101.118.125", 
+     "141.101.118.124"
+    ], 
+    "status": 0
    }
   }, 
   "reason": "Copyright"
@@ -511,7 +583,11 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "212.18.182.197", 
+     "212.18.182.164"
+    ], 
+    "status": 2
    }
   }, 
   "reason": "Copyright"
@@ -534,7 +610,10 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "184.168.221.60"
+    ], 
+    "status": 0
    }
   }, 
   "reason": "Copyright"
@@ -557,7 +636,10 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "109.202.109.18"
+    ], 
+    "status": 0
    }
   }, 
   "reason": "Copyright"
@@ -584,7 +666,11 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "104.25.200.14", 
+     "104.25.201.14"
+    ], 
+    "status": 0
    }
   }, 
   "reason": "Copyright"
@@ -611,7 +697,11 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "104.20.22.105", 
+     "104.20.23.105"
+    ], 
+    "status": 0
    }
   }, 
   "reason": "Copyright"
@@ -637,7 +727,11 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "212.18.182.197", 
+     "212.18.182.164"
+    ], 
+    "status": 2
    }
   }, 
   "reason": "Copyright"
@@ -660,7 +754,11 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "212.18.182.197", 
+     "212.18.182.164"
+    ], 
+    "status": 2
    }
   }, 
   "reason": "Copyright"
@@ -686,7 +784,11 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "212.18.182.164", 
+     "212.18.182.197"
+    ], 
+    "status": 2
    }
   }, 
   "reason": "Copyright"
@@ -709,7 +811,10 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "162.255.87.180"
+    ], 
+    "status": 0
    }
   }, 
   "reason": "Copyright"
@@ -730,7 +835,8 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -1
    }
   }, 
   "reason": "Copyright"
@@ -755,7 +861,11 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "212.18.182.164", 
+     "212.18.182.197"
+    ], 
+    "status": 2
    }
   }, 
   "reason": "Copyright"
@@ -781,7 +891,11 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "212.18.182.197", 
+     "212.18.182.164"
+    ], 
+    "status": 2
    }
   }, 
   "reason": "Copyright"
@@ -804,7 +918,11 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "212.18.182.164", 
+     "212.18.182.197"
+    ], 
+    "status": 2
    }
   }, 
   "reason": "Copyright"
@@ -829,7 +947,10 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "199.59.243.120"
+    ], 
+    "status": 0
    }
   }, 
   "reason": "Copyright"
@@ -855,7 +976,11 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "212.18.182.164", 
+     "212.18.182.197"
+    ], 
+    "status": 2
    }
   }, 
   "reason": "Copyright"
@@ -887,7 +1012,11 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "212.18.182.197", 
+     "212.18.182.164"
+    ], 
+    "status": 2
    }
   }, 
   "reason": "Copyright"
@@ -912,7 +1041,11 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "212.18.182.164", 
+     "212.18.182.197"
+    ], 
+    "status": 2
    }
   }, 
   "reason": "Copyright"
@@ -938,7 +1071,11 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "212.18.182.164", 
+     "212.18.182.197"
+    ], 
+    "status": 2
    }
   }, 
   "reason": "Copyright"
@@ -961,7 +1098,11 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "212.18.182.197", 
+     "212.18.182.164"
+    ], 
+    "status": 2
    }
   }, 
   "reason": "Copyright"
@@ -984,7 +1125,10 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "103.224.182.232"
+    ], 
+    "status": 0
    }
   }, 
   "reason": "Copyright"
@@ -1015,7 +1159,13 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "216.239.34.21", 
+     "216.239.36.21", 
+     "216.239.38.21", 
+     "216.239.32.21"
+    ], 
+    "status": 0
    }
   }, 
   "reason": "Copyright"
@@ -1041,7 +1191,11 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "212.18.182.197", 
+     "212.18.182.164"
+    ], 
+    "status": 2
    }
   }, 
   "reason": "Copyright"
@@ -1064,7 +1218,8 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -1
    }
   }, 
   "reason": "Copyright"
@@ -1089,7 +1244,11 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "212.18.182.164", 
+     "212.18.182.197"
+    ], 
+    "status": 2
    }
   }, 
   "reason": "Copyright"
@@ -1112,7 +1271,10 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "87.106.223.141"
+    ], 
+    "status": 0
    }
   }, 
   "reason": "Copyright"
@@ -1139,7 +1301,11 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "104.28.26.77", 
+     "104.28.27.77"
+    ], 
+    "status": 0
    }
   }, 
   "reason": "Copyright"
@@ -1164,7 +1330,11 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "212.18.182.164", 
+     "212.18.182.197"
+    ], 
+    "status": 2
    }
   }, 
   "reason": "Copyright"
@@ -1187,7 +1357,8 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -1
    }
   }, 
   "reason": "Copyright"
@@ -1213,7 +1384,11 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "212.18.182.164", 
+     "212.18.182.197"
+    ], 
+    "status": 2
    }
   }, 
   "reason": "Copyright"
@@ -1236,7 +1411,10 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "69.172.201.208"
+    ], 
+    "status": 0
    }
   }, 
   "reason": "Copyright"
@@ -1262,7 +1440,11 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "212.18.182.197", 
+     "212.18.182.164"
+    ], 
+    "status": 2
    }
   }, 
   "reason": "Copyright"
@@ -1287,7 +1469,11 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "212.18.182.164", 
+     "212.18.182.197"
+    ], 
+    "status": 2
    }
   }, 
   "reason": "Copyright"
@@ -1313,7 +1499,11 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "212.18.182.197", 
+     "212.18.182.164"
+    ], 
+    "status": 2
    }
   }, 
   "reason": "Copyright"
@@ -1339,7 +1529,11 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "212.18.182.164", 
+     "212.18.182.197"
+    ], 
+    "status": 2
    }
   }, 
   "reason": "Copyright"
@@ -1365,7 +1559,11 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "212.18.182.164", 
+     "212.18.182.197"
+    ], 
+    "status": 2
    }
   }, 
   "reason": "Copyright"
@@ -1391,7 +1589,11 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "212.18.182.164", 
+     "212.18.182.197"
+    ], 
+    "status": 2
    }
   }, 
   "reason": "Copyright"
@@ -1416,7 +1618,11 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "212.18.182.164", 
+     "212.18.182.197"
+    ], 
+    "status": 2
    }
   }, 
   "reason": "Copyright"
@@ -1441,7 +1647,11 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "212.18.182.164", 
+     "212.18.182.197"
+    ], 
+    "status": 2
    }
   }, 
   "reason": "Copyright"
@@ -1465,7 +1675,11 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "104.28.10.21", 
+     "104.28.11.21"
+    ], 
+    "status": 0
    }
   }, 
   "reason": "Copyright"
@@ -1492,7 +1706,11 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "104.20.15.201", 
+     "104.20.14.201"
+    ], 
+    "status": 0
    }
   }, 
   "reason": "Copyright"
@@ -1517,7 +1735,11 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "212.18.182.164", 
+     "212.18.182.197"
+    ], 
+    "status": 2
    }
   }, 
   "reason": "Copyright"
@@ -1540,7 +1762,11 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "212.18.182.164", 
+     "212.18.182.197"
+    ], 
+    "status": 0
    }
   }, 
   "reason": "Copyright"
@@ -1565,7 +1791,11 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "212.18.182.164", 
+     "212.18.182.197"
+    ], 
+    "status": 2
    }
   }, 
   "reason": "Copyright"
@@ -1588,7 +1818,11 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "212.18.182.164", 
+     "212.18.182.197"
+    ], 
+    "status": 2
    }
   }, 
   "reason": "Gambling"
@@ -1611,7 +1845,11 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "212.18.182.197", 
+     "212.18.182.164"
+    ], 
+    "status": 0
    }
   }, 
   "reason": "Copyright"
@@ -1636,7 +1874,11 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "212.18.182.197", 
+     "212.18.182.164"
+    ], 
+    "status": 2
    }
   }, 
   "reason": "Copyright"
@@ -1662,7 +1904,11 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "212.18.182.164", 
+     "212.18.182.197"
+    ], 
+    "status": 2
    }
   }, 
   "reason": "Copyright"
@@ -1685,7 +1931,10 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "199.59.243.120"
+    ], 
+    "status": 0
    }
   }, 
   "reason": "Copyright"
@@ -1710,7 +1959,11 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "212.18.182.164", 
+     "212.18.182.197"
+    ], 
+    "status": 2
    }
   }, 
   "reason": "Copyright"
@@ -1735,7 +1988,11 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "212.18.182.164", 
+     "212.18.182.197"
+    ], 
+    "status": 2
    }
   }, 
   "reason": "Copyright"
@@ -1756,7 +2013,8 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -1
    }
   }, 
   "reason": "Copyright"
@@ -1777,7 +2035,8 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -1
    }
   }, 
   "reason": "Copyright"
@@ -1802,7 +2061,10 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "96.45.178.138"
+    ], 
+    "status": 0
    }
   }, 
   "reason": "Copyright"
@@ -1829,7 +2091,11 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "212.18.182.164", 
+     "212.18.182.197"
+    ], 
+    "status": 2
    }
   }, 
   "reason": "Copyright"
@@ -1854,7 +2120,10 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "192.99.40.42"
+    ], 
+    "status": 0
    }
   }, 
   "reason": "Copyright"
@@ -1879,7 +2148,10 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "193.37.152.25"
+    ], 
+    "status": 0
    }
   }, 
   "reason": "Copyright"
@@ -1903,7 +2175,11 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "212.18.182.164", 
+     "212.18.182.197"
+    ], 
+    "status": 2
    }
   }, 
   "reason": "Copyright"
@@ -1926,7 +2202,10 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "172.99.89.194"
+    ], 
+    "status": 0
    }
   }, 
   "reason": "Copyright"
@@ -1949,7 +2228,10 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "185.10.57.236"
+    ], 
+    "status": 0
    }
   }, 
   "reason": "Copyright"
@@ -1972,7 +2254,10 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "91.195.241.72"
+    ], 
+    "status": 0
    }
   }, 
   "reason": "Copyright"
@@ -1995,7 +2280,10 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "185.53.177.8"
+    ], 
+    "status": 0
    }
   }, 
   "reason": "Copyright"
@@ -2018,7 +2306,10 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "178.124.128.76"
+    ], 
+    "status": 2
    }
   }, 
   "reason": "Copyright"
@@ -2041,7 +2332,11 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "212.18.182.164", 
+     "212.18.182.197"
+    ], 
+    "status": 2
    }
   }, 
   "reason": "Copyright"
@@ -2064,7 +2359,10 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "72.52.4.119"
+    ], 
+    "status": 0
    }
   }, 
   "reason": "Copyright"
@@ -2085,7 +2383,8 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -1
    }
   }, 
   "reason": "Copyright"
@@ -2108,7 +2407,11 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "212.18.182.164", 
+     "212.18.182.197"
+    ], 
+    "status": 2
    }
   }, 
   "reason": "Copyright"
@@ -2129,7 +2432,8 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [], 
+    "status": -1
    }
   }, 
   "reason": "Copyright"
@@ -2152,7 +2456,10 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "185.53.179.6"
+    ], 
+    "status": 0
    }
   }, 
   "reason": "Copyright"
@@ -2175,7 +2482,10 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "103.224.182.225"
+    ], 
+    "status": 0
    }
   }, 
   "reason": "Copyright"
@@ -2200,7 +2510,11 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "212.18.182.197", 
+     "212.18.182.164"
+    ], 
+    "status": 2
    }
   }, 
   "reason": "Copyright"
@@ -2226,7 +2540,11 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "212.18.182.197", 
+     "212.18.182.164"
+    ], 
+    "status": 2
    }
   }, 
   "reason": "Copyright"
@@ -2251,7 +2569,11 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "212.18.182.197", 
+     "212.18.182.164"
+    ], 
+    "status": 2
    }
   }, 
   "reason": "Copyright"
@@ -2276,7 +2598,11 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "212.18.182.197", 
+     "212.18.182.164"
+    ], 
+    "status": 2
    }
   }, 
   "reason": "Copyright"
@@ -2302,7 +2628,11 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "212.18.182.164", 
+     "212.18.182.197"
+    ], 
+    "status": 2
    }
   }, 
   "reason": "Copyright"
@@ -2325,7 +2655,11 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "212.18.182.197", 
+     "212.18.182.164"
+    ], 
+    "status": 2
    }
   }, 
   "reason": "Copyright"
@@ -2351,7 +2685,11 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "212.18.182.164", 
+     "212.18.182.197"
+    ], 
+    "status": 2
    }
   }, 
   "reason": "Copyright"
@@ -2377,7 +2715,11 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "212.18.182.197", 
+     "212.18.182.164"
+    ], 
+    "status": 2
    }
   }, 
   "reason": "Copyright"
@@ -2403,7 +2745,11 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "212.18.182.197", 
+     "212.18.182.164"
+    ], 
+    "status": 2
    }
   }, 
   "reason": "Copyright"
@@ -2428,7 +2774,10 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "88.80.6.5"
+    ], 
+    "status": 0
    }
   }, 
   "reason": "Copyright"
@@ -2453,7 +2802,11 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "212.18.182.197", 
+     "212.18.182.164"
+    ], 
+    "status": 2
    }
   }, 
   "reason": "Copyright"
@@ -2476,7 +2829,11 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "212.18.182.197", 
+     "212.18.182.164"
+    ], 
+    "status": 0
    }
   }, 
   "reason": "Copyright"
@@ -2501,7 +2858,11 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "212.18.182.197", 
+     "212.18.182.164"
+    ], 
+    "status": 2
    }
   }, 
   "reason": "Copyright"
@@ -2529,7 +2890,11 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "212.18.182.197", 
+     "212.18.182.164"
+    ], 
+    "status": 2
    }
   }, 
   "reason": "Copyright"
@@ -2552,7 +2917,11 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "212.18.182.164", 
+     "212.18.182.197"
+    ], 
+    "status": 0
    }
   }, 
   "reason": "Copyright"
@@ -2577,7 +2946,11 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "212.18.182.197", 
+     "212.18.182.164"
+    ], 
+    "status": 2
    }
   }, 
   "reason": "Copyright"
@@ -2604,7 +2977,11 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "104.31.69.176", 
+     "104.31.68.176"
+    ], 
+    "status": 0
    }
   }, 
   "reason": "Copyright"
@@ -2630,7 +3007,11 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "212.18.182.197", 
+     "212.18.182.164"
+    ], 
+    "status": 2
    }
   }, 
   "reason": "Copyright"
@@ -2655,7 +3036,11 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "212.18.182.197", 
+     "212.18.182.164"
+    ], 
+    "status": 2
    }
   }, 
   "reason": "Copyright"
@@ -2681,7 +3066,11 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "212.18.182.164", 
+     "212.18.182.197"
+    ], 
+    "status": 2
    }
   }, 
   "reason": "Copyright"
@@ -2704,7 +3093,10 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "85.17.25.242"
+    ], 
+    "status": 2
    }
   }, 
   "reason": "Copyright"
@@ -2727,7 +3119,10 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "8.5.1.30"
+    ], 
+    "status": 0
    }
   }, 
   "reason": "Copyright"
@@ -2750,7 +3145,11 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "212.18.182.197", 
+     "212.18.182.164"
+    ], 
+    "status": 2
    }
   }, 
   "reason": "Copyright"
@@ -2775,7 +3174,11 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "212.18.182.164", 
+     "212.18.182.197"
+    ], 
+    "status": 2
    }
   }, 
   "reason": "Copyright"
@@ -2799,7 +3202,11 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "212.18.182.197", 
+     "212.18.182.164"
+    ], 
+    "status": 2
    }
   }, 
   "reason": "Copyright"
@@ -2822,7 +3229,10 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "69.172.201.208"
+    ], 
+    "status": 0
    }
   }, 
   "reason": "Copyright"
@@ -2845,7 +3255,10 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "50.21.191.108"
+    ], 
+    "status": 0
    }
   }, 
   "reason": "Copyright"
@@ -2868,7 +3281,10 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "91.195.241.72"
+    ], 
+    "status": 0
    }
   }, 
   "reason": "Copyright"
@@ -2892,7 +3308,11 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "212.18.182.164", 
+     "212.18.182.197"
+    ], 
+    "status": 2
    }
   }, 
   "reason": "Copyright"
@@ -2916,7 +3336,11 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "212.18.182.164", 
+     "212.18.182.197"
+    ], 
+    "status": 2
    }
   }, 
   "reason": "Copyright"
@@ -2939,7 +3363,10 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "72.52.4.119"
+    ], 
+    "status": 0
    }
   }, 
   "reason": "Copyright"
@@ -2960,7 +3387,10 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "185.53.177.12"
+    ], 
+    "status": 0
    }
   }, 
   "reason": "Copyright"
@@ -2983,7 +3413,10 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "64.131.69.154"
+    ], 
+    "status": 0
    }
   }, 
   "reason": "Copyright"
@@ -3006,7 +3439,10 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "69.172.201.208"
+    ], 
+    "status": 0
    }
   }, 
   "reason": "Copyright"
@@ -3029,7 +3465,11 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "212.18.182.164", 
+     "212.18.182.197"
+    ], 
+    "status": 2
    }
   }, 
   "reason": "Copyright"
@@ -3052,7 +3492,10 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "72.52.4.119"
+    ], 
+    "status": 0
    }
   }, 
   "reason": "Copyright"
@@ -3087,7 +3530,15 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "104.36.192.221", 
+     "104.36.192.132", 
+     "104.36.192.133", 
+     "104.36.192.182", 
+     "104.36.192.135", 
+     "104.36.192.220"
+    ], 
+    "status": 0
    }
   }, 
   "reason": "Unknown"
@@ -3114,7 +3565,11 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "104.27.176.172", 
+     "104.27.177.172"
+    ], 
+    "status": 0
    }
   }, 
   "reason": "Copyright"
@@ -3141,7 +3596,11 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "104.31.86.125", 
+     "104.31.87.125"
+    ], 
+    "status": 0
    }
   }, 
   "reason": "Copyright"
@@ -3167,7 +3626,11 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "212.18.182.164", 
+     "212.18.182.197"
+    ], 
+    "status": 2
    }
   }, 
   "reason": "Copyright"
@@ -3192,7 +3655,11 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "212.18.182.164", 
+     "212.18.182.197"
+    ], 
+    "status": 2
    }
   }, 
   "reason": "Copyright"
@@ -3215,7 +3682,10 @@
     "dnsResponse": []
    }, 
    "vodafone": {
-    "dnsResponse": []
+    "dnsResponse": [
+     "78.153.194.100"
+    ], 
+    "status": 0
    }
   }, 
   "reason": "Copyright"
