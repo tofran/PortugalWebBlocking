@@ -175,15 +175,3 @@ class DomainScan(object):
 			DomainScan.jsonData[host]['isp']['cabovisao'] = { 'blocked':True, 'dnsResponse':[] }
 			'''
 
-if __name__ == '__main__':
-	DomainScan.loadJson('blockList.json')
-	#DomainScan.fix('vodafone')
-	#DomainScan.fix_addOtherISPs()
-	#print 'date:'
-	#DomainScan.importFromTXT('import.txt', '2015-3')
-	#DomainScan.scanDns()
-	#DomainScan.scanDnsISP('vodafone', '192.168.1.254')
-	#DomainScan.printData()
-	#DomainScan.testDns('192.168.1.254', 'vodafone.pt')
-	DomainScan.outputToFile('blockList.json')
-	print 'done!'
