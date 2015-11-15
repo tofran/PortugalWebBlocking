@@ -42,10 +42,10 @@ class DomainScan(object):
 		resolves all the domains, saves the value to the ip
 	"""
 	@staticmethod
-	def scanDns():
+	def scanDns(dnsAddres = '8.8.8.8'):
 		import dns.resolver
 		dnsResolver = dns.resolver.Resolver()
-		dnsResolver.nameservers=['8.8.8.8']
+		dnsResolver.nameservers=[dnsAddres]
 
 		for host in DomainScan.jsonData:
 			DomainScan.jsonData[host]['ip'] = []
@@ -63,13 +63,15 @@ class DomainScan(object):
 		@todo fix this ^^
 	'''
 	@staticmethod
-	def scanDnsISP(isp, dns):
+	def scanDnsISP(isp, dnsAddres):
 		import dns.resolver
 		dnsResolver = dns.resolver.Resolver()
-		dnsResolver.nameservers=['192.168.1.254']
+		dnsResolver.nameservers=[dnsAddres]
+		dnsResolver.timeout = 2
+		dnsResolver.lifetime = 2
 
 		for host in DomainScan.jsonData:
-			DomainScan.jsonData[host]['isp']['meo'] = {'status': 0,'dnsResponse':[]}
+			DomainScan.jsonData[host]['isp'][isp] = {'status': 0,'dnsResponse':[]}
 			try:
 				response = dnsResolver.query(host, 'A') #only the first A record
 				for eachRecord in response:
@@ -77,18 +79,22 @@ class DomainScan(object):
 
 				#check if any of the original ip are in the response
 				for eachIpRecord in DomainScan.jsonData[host]['ip']:
+					found = False
 					for eachResponseRecord in response:
 						if str(eachIpRecord) == str(eachResponseRecord):
+							found = True
 							DomainScan.jsonData[host]['isp'][isp]['status'] = 0
 							#the ip appeared in the isp response, so it (may) not be blocked
+					if not Found:
+						DomainScan.jsonData[host]['isp'][isp]['status'] = 2
 
 			except: #socket.gaierror, err
 				print 'Could not resolve: ' + host
 				if DomainScan.jsonData[host]['ip'] == None:
-					DomainScan.jsonData[host]['isp'][isp]['blocked'] = -1
+					DomainScan.jsonData[host]['isp'][isp]['status'] = -1
 					# neither the (open) dns neither the isp replied, site may be have shut down
 				else:
-					DomainScan.jsonData[host]['isp'][isp]['blocked'] = 1
+					DomainScan.jsonData[host]['isp'][isp]['status'] = 1
 
 	"""
 		Load the data from a file
@@ -117,18 +123,43 @@ class DomainScan(object):
 		This is a stupid method to fix/destroy the data to make really specific things...
 		I cant describe waht it does because I update it every time
 	'''
+
 	@staticmethod
-	def fix():
+	def testDns(dnsAddres = '8.8.8.8', host = 'google.com'):
+		import dns.resolver
+		dnsResolver = dns.resolver.Resolver()
+		dnsResolver.nameservers= [dnsAddres]
+		try:
+			print host + ' resolved into ' + str(dnsResolver.query(host, 'A')[0]) + ' by ' + dnsAddres
+		except:
+			print 'error querying ' + str(host) + ' @' + dnsAddres
+
+	@staticmethod
+	def fix(ispName = 'vodafone'):
 		for host in DomainScan.jsonData:
-			if len(DomainScan.jsonData[host]['isp']['meo']['dnsResponse']) == 0:
+			#check if any of the original ip are in the response
+			for eachIpRecord in DomainScan.jsonData[host]['ip']:
+				found = False
+				for eachResponseRecord in DomainScan.jsonData[host]['isp'][ispName]['dnsResponse']:
+					if str(eachIpRecord) == str(eachResponseRecord):
+						found = True
+						DomainScan.jsonData[host]['isp'][ispName]['status'] = 0
+						#the ip appeared in the isp response, so it (may) not be blocked
+				if not found:
+					DomainScan.jsonData[host]['isp'][ispName]['status'] = 2
+
+			if len(DomainScan.jsonData[host]['isp'][ispName]['dnsResponse']) == 0:
 				if len(DomainScan.jsonData[host]['ip']) == 0:
-					DomainScan.jsonData[host]['isp']['meo']['status'] = -1
+					DomainScan.jsonData[host]['isp'][ispName]['status'] = -1
 				else:
-					DomainScan.jsonData[host]['isp']['meo']['status'] = 1
-			elif DomainScan.jsonData[host]['isp']['meo']['blocked'] == True:
-				DomainScan.jsonData[host]['isp']['meo']['status'] = 2
-			elif DomainScan.jsonData[host]['isp']['meo']['blocked'] == False:
-				DomainScan.jsonData[host]['isp']['meo']['status'] = 0
+					DomainScan.jsonData[host]['isp'][ispName]['status'] = 1
+
+			''''
+			elif DomainScan.jsonData[host]['isp'][ispName]['blocked'] == True:
+				DomainScan.jsonData[host]['isp'][ispName]['status'] = 2
+			elif DomainScan.jsonData[host]['isp'][ispName]['blocked'] == False:
+				DomainScan.jsonData[host]['isp'][ispName]['status'] = 0
+			'''
 			'''
 			#add the reason
 			DomainScan.jsonData[host]['reason'] = ''
@@ -143,3 +174,16 @@ class DomainScan(object):
 			DomainScan.jsonData[host]['isp']['vodafone'] = { 'blocked':True, 'dnsResponse':[] }
 			DomainScan.jsonData[host]['isp']['cabovisao'] = { 'blocked':True, 'dnsResponse':[] }
 			'''
+
+if __name__ == '__main__':
+	DomainScan.loadJson('blockList.json')
+	#DomainScan.fix('vodafone')
+	#DomainScan.fix_addOtherISPs()
+	#print 'date:'
+	#DomainScan.importFromTXT('import.txt', '2015-3')
+	#DomainScan.scanDns()
+	#DomainScan.scanDnsISP('vodafone', '192.168.1.254')
+	#DomainScan.printData()
+	#DomainScan.testDns('192.168.1.254', 'vodafone.pt')
+	DomainScan.outputToFile('blockList.json')
+	print 'done!'
