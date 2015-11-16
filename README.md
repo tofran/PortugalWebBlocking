@@ -29,10 +29,19 @@ This repo contais (some of) the domains currently beeing blocked by ISP's in por
 
 **/web** - The folder with resources to the web viwer
 
+Acknowledgements
+----
+- [dnspython]
+- [jquery]
+- [tablesorter]
+- [JSON]
 
 License
 ----
-
 MIT
 
 [List of websites blocked in Portugal]: <http://tofran.github.io/PortugalWebBlocking/>
+[dnspython]: <https://github.com/rthalley/dnspython>
+[jquery]: <https://jquery.com/>
+[tablesorter]: <https://github.com/christianbach/tablesorter>
+[JSON]:<http://json.org/>
