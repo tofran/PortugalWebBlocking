@@ -350,7 +350,7 @@
     "status": 0
    }
   }, 
-  "reason": "Copyright"
+  "reason": "Gambling"
  }, 
  "bitsnoop.com": {
   "blockDate": "2015-11", 
@@ -916,7 +916,7 @@
     "dnsResponse": [
      "195.23.113.202"
     ], 
-    "status": 1
+    "status": 2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -1701,7 +1701,7 @@
     "dnsResponse": [
      "195.23.113.202"
     ], 
-    "status": 1
+    "status": 2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -1746,7 +1746,7 @@
      "216.239.38.21", 
      "216.239.32.21"
     ], 
-    "status": 1
+    "status": 0
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -2073,7 +2073,7 @@
     "dnsResponse": [
      "195.23.113.202"
     ], 
-    "status": 1
+    "status": 2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -2765,7 +2765,7 @@
     "status": 2
    }
   }, 
-  "reason": "Copyright"
+  "reason": "Gambling"
  }, 
  "ptxtuga.com": {
   "blockDate": "2015-10", 
@@ -3483,7 +3483,7 @@
     "dnsResponse": [
      "195.23.113.202"
     ], 
-    "status": 1
+    "status": 2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -4026,7 +4026,7 @@
     "dnsResponse": [
      "195.23.113.202"
     ], 
-    "status": 1
+    "status": 2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -4292,7 +4292,7 @@
     "dnsResponse": [
      "88.80.6.5"
     ], 
-    "status": 1
+    "status": 0
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -4421,7 +4421,7 @@
     "dnsResponse": [
      "195.23.113.202"
     ], 
-    "status": -1
+    "status": 2
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -5362,7 +5362,7 @@
      "104.36.192.135", 
      "104.36.192.220"
     ], 
-    "status": 1
+    "status": 0
    }, 
    "vodafone": {
     "dnsResponse": [
@@ -5376,7 +5376,7 @@
     "status": 0
    }
   }, 
-  "reason": "Copyright"
+  "reason": "Unknown"
  }, 
  "warez-box.net": {
   "blockDate": "2015-10", 
