@@ -92,15 +92,17 @@ class DomainScan(object):
 							DomainScan.jsonData[host]['isp'][isp]['status'] = 0
 							#the ip appeared in the isp response, so it (may) not be blocked
 				if not found:
-					DomainScan.jsonData[host]['isp'][isp]['status'] = 2
+					DomainScan.jsonData[host]['isp'][isp]['status'] = 3
+					#it replied, but with a different ip - DNS Redirect
 
 			except: #(socket.gaierror, dns.exception.Timeout, dns.resolver.NXDOMAIN, dns.resolver.NoAnswer), err:
 				print 'Could not resolve: ' + host
 				if DomainScan.jsonData[host]['ip'] == None or len(DomainScan.jsonData[host]['ip']) == 0:
 					DomainScan.jsonData[host]['isp'][isp]['status'] = -1
-					# neither the (open) dns neither the isp replied, site may be have shut down
+					# neither the (open) dns neither the isp replied, site may be have shut down - Can't be Resolved
 				else:
 					DomainScan.jsonData[host]['isp'][isp]['status'] = 1
+					#Neither the reference DNS neither the ISP's DNS could resolve
 
 	"""
 		Load the data from a file
@@ -143,43 +145,53 @@ class DomainScan(object):
 	@staticmethod
 	def fixStatus(ispName = 'meo'):
 		for host in DomainScan.jsonData:
-			#check if any of the original ip are in the response
-			found = False
-			for eachIpRecord in DomainScan.jsonData[host]['ip']:
-				for eachResponseRecord in DomainScan.jsonData[host]['isp'][ispName]['dnsResponse']:
-					if str(eachIpRecord) == str(eachResponseRecord):
-						found = True
-						DomainScan.jsonData[host]['isp'][ispName]['status'] = 0
-						#the ip appeared in the isp response, so it (may) not be blocked
-			if not found:
-				DomainScan.jsonData[host]['isp'][ispName]['status'] = 2
+			if not DomainScan.jsonData[host][ispName]['status'] == -2:
+				#check if any of the original ip are in the response
+				found = False
+				for eachIpRecord in DomainScan.jsonData[host]['ip']:
+					for eachResponseRecord in DomainScan.jsonData[host]['isp'][ispName]['dnsResponse']:
+						if str(eachIpRecord) == str(eachResponseRecord):
+							found = True
+							DomainScan.jsonData[host]['isp'][ispName]['status'] = 0
+							#the ip appeared in the isp response, so it (may) not be blocked
+				if not found:
+					DomainScan.jsonData[host]['isp'][ispName]['status'] = 2
 
-			if len(DomainScan.jsonData[host]['isp'][ispName]['dnsResponse']) == 0:
-				if len(DomainScan.jsonData[host]['ip']) == 0:
-					DomainScan.jsonData[host]['isp'][ispName]['status'] = -1
-				else:
-					DomainScan.jsonData[host]['isp'][ispName]['status'] = 1
+				if len(DomainScan.jsonData[host]['isp'][ispName]['dnsResponse']) == 0:
+					if len(DomainScan.jsonData[host]['ip']) == 0:
+						DomainScan.jsonData[host]['isp'][ispName]['status'] = -1
+					else:
+						DomainScan.jsonData[host]['isp'][ispName]['status'] = 1
 
 	@staticmethod
 	def fix():
+		#copy reasons from another json
+		with open('reasons.json') as inFile:
+			jsonReasons = json.load(inFile)
+		for host in jsonReasons:
+			if 'reason' in jsonReasons[host]:
+				DomainScan.jsonData[host]['reason'] = jsonReasons[host]['reason']
+
+		'''
 		for host in DomainScan.jsonData:
 			#add -2 status to domains without status
 			for eachIsp in DomainScan.jsonData[host]['isp']:
 				if 'status' not in DomainScan.jsonData[host]['isp'][eachIsp]:
 					DomainScan.jsonData[host]['isp'][eachIsp]['status'] = -2
+		'''
 
-			#add the reason
-			DomainScan.jsonData[host]['reason'] = 'Copyright'
+		'''
+		#add the reason
+		DomainScan.jsonData[host]['reason'] = 'Copyright'
+		'''
+		'''
+		#fix status blocking for some domains
+		if len(DomainScan.jsonData[host]['isp']['meo']['dnsResponse']) > 0 and DomainScan.jsonData[host]['isp']['meo']['dnsResponse'][0] == '213.13.145.120':
+			#print str(DomainScan.jsonData[host]['isp']['meo']['dnsResponse'][0])
+			DomainScan.jsonData[host]['isp']['meo']['blocked'] = True
 
-			'''
-			#fix status blocking for some domains
-			if len(DomainScan.jsonData[host]['isp']['meo']['dnsResponse']) > 0 and DomainScan.jsonData[host]['isp']['meo']['dnsResponse'][0] == '213.13.145.120':
-				#print str(DomainScan.jsonData[host]['isp']['meo']['dnsResponse'][0])
-				DomainScan.jsonData[host]['isp']['meo']['blocked'] = True
-
-			#Add other ISP's (empty)
-			DomainScan.jsonData[host]['isp']['nos'] = { 'blocked':True, 'dnsResponse':[] }
-			DomainScan.jsonData[host]['isp']['vodafone'] = { 'blocked':True, 'dnsResponse':[] }
-			DomainScan.jsonData[host]['isp']['cabovisao'] = { 'blocked':True, 'dnsResponse':[] }
-			'''
-
+		#Add other ISP's (empty)
+		DomainScan.jsonData[host]['isp']['nos'] = { 'blocked':True, 'dnsResponse':[] }
+		DomainScan.jsonData[host]['isp']['vodafone'] = { 'blocked':True, 'dnsResponse':[] }
+		DomainScan.jsonData[host]['isp']['cabovisao'] = { 'blocked':True, 'dnsResponse':[] }
+		'''
