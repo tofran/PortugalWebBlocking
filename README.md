@@ -35,6 +35,7 @@ Acknowledgements
 - [jquery]
 - [tablesorter]
 - [JSON]
+- [github corners]
 
 License
 ----
@@ -44,4 +45,5 @@ MIT
 [dnspython]: <https://github.com/rthalley/dnspython>
 [jquery]: <https://jquery.com/>
 [tablesorter]: <https://github.com/christianbach/tablesorter>
-[JSON]:<http://json.org/>
+[JSON]: <http://json.org/>
+[github-corners]: <https://github.com/tholman/github-corners>
