@@ -35,7 +35,7 @@ Acknowledgements
 - [jquery]
 - [tablesorter]
 - [JSON]
-- [github corners]
+- [GitHub Corners]
 
 License
 ----
@@ -46,4 +46,4 @@ MIT
 [jquery]: <https://jquery.com/>
 [tablesorter]: <https://github.com/christianbach/tablesorter>
 [JSON]: <http://json.org/>
-[github-corners]: <https://github.com/tholman/github-corners>
+[GitHub Corners]: <https://github.com/tholman/github-corners>
