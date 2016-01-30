@@ -31,7 +31,8 @@ def importFromTXT(filePath, date, reason = 'copyright'):
 	global jsonData
 	counter = 0
 	with open(filePath) as f:
-		for line in hostFile:
+		for host in f:
+			host = host.strip()
 			if host not in jsonData:
 				counter += 1
 				jsonData[host] = { 'blockDate' : date, 'ip' : [], 'isp' : { 'meo' : { 'dnsResponse' : [], 'status' : -2 }, 'nos' : { 'dnsResponse' : [], 'status' : -2 }, 'vodafone' : { 'dnsResponse' : [], 'status' : -2 } }, 'reason' : reason }
@@ -140,7 +141,7 @@ def scanDnsISP(isp, dnsAddres):
 						jsonData[host]['isp'][isp]['status'] = 0
 						#the ip appeared in the isp response, so it (may) not be blocked
 			if not found:
-				jsonData[host]['isp'][isp]['status'] = 3
+				jsonData[host]['isp'][isp]['status'] = 2
 				#it replied, but with a different ip - DNS Redirect
 
 		except: #(socket.gaierror, dns.exception.Timeout, dns.resolver.NXDOMAIN, dns.resolver.NoAnswer), err:
@@ -241,19 +242,3 @@ def fix_addMissingStatus(reason = 'Copyright'):
 		if 'reason' not in jsonData[host]:
 			jsonData[host]['reason'] = reason
 ''''''''''''
-
-if __name__ == '__main__':
-	loadJson('blockList.json')
-	importFromJsonArray('newsites.json', '2016-01')
-	#importFromTXT('newhosts.txt', '2016-01')
-
-	#scanDns(True)
-	#testDns('meo.pt', '192.168.1.254')
-	#scanDnsISP('vodafone', '192.168.1.254')
-
-	#printData()
-	#printScores()
-
-	outputToJsonFile('new.json')
-	outputToTXTFile('new.txt')
-	print 'done!'
