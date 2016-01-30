@@ -3,6 +3,11 @@
 __author__ = 'ToFran'
 __site__ = 'http://tofran.com/'
 
+__license__ = "MIT"
+__version__ = "1.2.1"
+__maintainer__ = "Francisco Marques"
+__email__ = "me@tofran.com"
+
 ##########
 
 import socket
@@ -11,187 +16,244 @@ import json
 
 ##########
 
-class DomainScan(object):
+"""
+	jsonData: the hosts data as a JSON object
+"""
+jsonData = {}
 
-	"""
-		Atributes:
-			jsonData: the hosts data as a JSON object
-	"""
-	jsonData = {}
 
-	"""
-		imports domains from a file
-		@param date the date that the domain was blocked
-	"""
-	@staticmethod
-	def importFromTXT(filePath, date):
-		counter = 0
-		hostFile = open(filePath)
-		while True:
-			host = hostFile.readline().rstrip()
-
-			if not host:
-				break
-
-			if host not in DomainScan.jsonData:
+"""
+	imports domains from a TXT file
+	@param filePath the textfile
+	@param date the date that the domain was blocked
+"""
+def importFromTXT(filePath, date, reason = 'copyright'):
+	global jsonData
+	counter = 0
+	with open(filePath) as f:
+		for line in hostFile:
+			if host not in jsonData:
 				counter += 1
-				DomainScan.jsonData[host] = { 'blockDate' : date, 'highlight' : False, 'ip' : [], 'isp' : { 'cabovisao' : { 'dnsResponse' : [], 'status' : -2 }, 'meo' : { 'dnsResponse' : [], 'status' : -2 }, 'nos' : { 'dnsResponse' : [], 'status' : -2 }, 'vodafone' : { 'dnsResponse' : [], 'status' : -2 } }, 'reason': 'Copyright'}
+				jsonData[host] = { 'blockDate' : date, 'ip' : [], 'isp' : { 'meo' : { 'dnsResponse' : [], 'status' : -2 }, 'nos' : { 'dnsResponse' : [], 'status' : -2 }, 'vodafone' : { 'dnsResponse' : [], 'status' : -2 } }, 'reason' : reason }
 			else:
 				print host + ' already in the list!'
-		print 'Imported ' + str(counter) + ' domains'
+	f.close()
+	print 'Imported ' + str(counter) + ' domains'
 
-	"""
-		resolves all the domains, saves the value to the ip
-	"""
-	@staticmethod
-	def scanDns(onlyNonScanned = False, dnsAddres = '8.8.8.8'):
-		import dns.resolver
-		dnsResolver = dns.resolver.Resolver()
-		dnsResolver.nameservers=[dnsAddres]
-		dnsResolver.timeout = 1
-		dnsResolver.lifetime = 1
+"""
+	imports domains from a file in JSON array
+	@param filePath the json file
+	@param date the date that the domain was blocked
+"""
+def importFromJsonArray(filePath, date, reason = 'copyright'):
+	global jsonData
+	counter = 0
+	with open(filePath) as f:
+		domainArray = json.load(f)
+	f.close()
 
-		for host in DomainScan.jsonData:
-			if(( not onlyNonScanned ) or ( onlyNonScanned and (( 'ip' not in DomainScan.jsonData[host] ) or ( len(DomainScan.jsonData[host]['ip']) == 0 )))):
-				DomainScan.jsonData[host]['ip'] = []
-				try:
-					response = dnsResolver.query(host, 'A')
-					for eachRecord in response:
-						DomainScan.jsonData[host]['ip'].append(str(eachRecord))
-				except:
-					print 'Could not resolve: ' + host
+	for host in domainArray:
+		if host not in jsonData:
+			counter += 1
+			jsonData[host] = { 'blockDate' : date, 'ip' : [], 'isp' : { 'meo' : { 'dnsResponse' : [], 'status' : -2 }, 'nos' : { 'dnsResponse' : [], 'status' : -2 }, 'vodafone' : { 'dnsResponse' : [], 'status' : -2 } }, 'reason' : reason }
+		else:
+			print host + ' already in the list!'
+	print 'Imported ' + str(counter) + ' domains'
 
-	'''
-		scans all the domains with a specific dns from a given ISP and its IP(dns)
-		this method duplicates some code from the mathod above #laziness
-		the dns parameter is not working (crashes if dnsResolver.nameservers(dns))
-		@todo fix this ^^
-	'''
-	@staticmethod
-	def scanDnsISP(isp, dnsAddres):
-		import dns.resolver
-		dnsResolver = dns.resolver.Resolver()
-		dnsResolver.nameservers=[dnsAddres]
-		dnsResolver.timeout = 1
-		dnsResolver.lifetime = 1
+"""
+	Load the data from a json file
+"""
+def loadJson(filePath):
+	global jsonData
+	with open(filePath) as f:
+		jsonData = json.load(f)
+	f.close()
 
-		for host in DomainScan.jsonData:
-			if isp not in DomainScan.jsonData[host]['isp']:
-				DomainScan.jsonData[host]['isp'][isp]= {'dnsResponse': []}
+"""
+	Saves the data to a json file
+"""
+def outputToJsonFile(filePath):
+	global jsonData
+	with open(filePath, 'w') as f:
+	    json.dump(jsonData, f, ensure_ascii=True, sort_keys=True, indent=4)
+	f.close()
+
+"""
+	outputs the list of domains to a text file
+"""
+def outputToTXTFile(filePath):
+	global jsonData
+	with open(filePath, 'w') as f:
+		for host in jsonData:
+			f.write(host + '\n')
+		f.close()
+
+"""
+	resolves all the domains, saves the value to the ip item (as an array)
+"""
+def scanDns(onlyNonScanned = False, dnsAddres = '8.8.8.8'):
+	global jsonData
+	import dns.resolver
+	dnsResolver = dns.resolver.Resolver()
+	dnsResolver.nameservers=[dnsAddres]
+	dnsResolver.timeout = 1
+	dnsResolver.lifetime = 1
+
+	for host in jsonData:
+		if(( not onlyNonScanned ) or ( onlyNonScanned and (( 'ip' not in jsonData[host] ) or ( len(jsonData[host]['ip']) == 0 )))):
+			jsonData[host]['ip'] = []
 			try:
 				response = dnsResolver.query(host, 'A')
 				for eachRecord in response:
-					DomainScan.jsonData[host]['isp'][isp]['dnsResponse'].append(str(eachRecord))
-
-				#check if any of the original ip are in the response
-				found = False
-				for eachIpRecord in DomainScan.jsonData[host]['ip']:
-					for eachResponseRecord in response:
-						if str(eachIpRecord) == str(eachResponseRecord):
-							found = True
-							DomainScan.jsonData[host]['isp'][isp]['status'] = 0
-							#the ip appeared in the isp response, so it (may) not be blocked
-				if not found:
-					DomainScan.jsonData[host]['isp'][isp]['status'] = 3
-					#it replied, but with a different ip - DNS Redirect
-
-			except: #(socket.gaierror, dns.exception.Timeout, dns.resolver.NXDOMAIN, dns.resolver.NoAnswer), err:
+					jsonData[host]['ip'].append(str(eachRecord))
+			except:
 				print 'Could not resolve: ' + host
-				if DomainScan.jsonData[host]['ip'] == None or len(DomainScan.jsonData[host]['ip']) == 0:
-					DomainScan.jsonData[host]['isp'][isp]['status'] = -1
-					# neither the (open) dns neither the isp replied, site may be have shut down - Can't be Resolved
-				else:
-					DomainScan.jsonData[host]['isp'][isp]['status'] = 1
-					#Neither the reference DNS neither the ISP's DNS could resolve
 
-	"""
-		Load the data from a file
-	"""
-	@staticmethod
-	def loadJson(filePath):
-		with open(filePath) as inFile:
-			DomainScan.jsonData = json.load(inFile)
 
-	"""
-		Saves the data to a file
-	"""
-	@staticmethod
-	def outputToFile(filePath):
-		with open(filePath, 'w') as outfile:
-		    json.dump(DomainScan.jsonData, outfile, ensure_ascii=True, sort_keys=True, indent=1)
+'''
+	scans all the domains with a specific dns (from an ISP)
+	@param isp the name of the ISP
+	@param dnsAddres the DNS address of the given ISP
+'''
+def scanDnsISP(isp, dnsAddres):
+	global jsonData
+	import dns.resolver
+	dnsResolver = dns.resolver.Resolver()
+	dnsResolver.nameservers=[dnsAddres]
+	dnsResolver.timeout = 1
+	dnsResolver.lifetime = 1
 
-	"""
-		Prints the data to the screen yey
-	"""
-	@staticmethod
-	def printData():
-		print json.dumps(DomainScan.jsonData, ensure_ascii=True, sort_keys=True, indent=1)
-
-	'''
-		This is a stupid method to fix/destroy the data to make really specific things...
-		I cant describe waht it does because I update it every time
-	'''
-
-	@staticmethod
-	def testDns(host = 'google.com', dnsAddres = '8.8.8.8'):
-		import dns.resolver
-		dnsResolver = dns.resolver.Resolver()
-		dnsResolver.nameservers= [dnsAddres]
+	for host in jsonData:
+		if isp not in jsonData[host]['isp']:
+			jsonData[host]['isp'][isp]= {'dnsResponse': []}
 		try:
-			print host + ' resolved into ' + str(dnsResolver.query(host, 'A')[0]) + ' by ' + dnsAddres
-		except:
-			print 'error querying ' + str(host) + ' @' + dnsAddres
+			response = dnsResolver.query(host, 'A')
+			for eachRecord in response:
+				jsonData[host]['isp'][isp]['dnsResponse'].append(str(eachRecord))
 
-	@staticmethod
-	def fixStatus(ispName = 'meo'):
-		for host in DomainScan.jsonData:
-			if not DomainScan.jsonData[host][ispName]['status'] == -2:
-				#check if any of the original ip are in the response
-				found = False
-				for eachIpRecord in DomainScan.jsonData[host]['ip']:
-					for eachResponseRecord in DomainScan.jsonData[host]['isp'][ispName]['dnsResponse']:
-						if str(eachIpRecord) == str(eachResponseRecord):
-							found = True
-							DomainScan.jsonData[host]['isp'][ispName]['status'] = 0
-							#the ip appeared in the isp response, so it (may) not be blocked
-				if not found:
-					DomainScan.jsonData[host]['isp'][ispName]['status'] = 2
+			#check if any of the original ip are in the response
+			found = False
+			for eachIpRecord in jsonData[host]['ip']:
+				for eachResponseRecord in response:
+					if str(eachIpRecord) == str(eachResponseRecord):
+						found = True
+						jsonData[host]['isp'][isp]['status'] = 0
+						#the ip appeared in the isp response, so it (may) not be blocked
+			if not found:
+				jsonData[host]['isp'][isp]['status'] = 3
+				#it replied, but with a different ip - DNS Redirect
 
-				if len(DomainScan.jsonData[host]['isp'][ispName]['dnsResponse']) == 0:
-					if len(DomainScan.jsonData[host]['ip']) == 0:
-						DomainScan.jsonData[host]['isp'][ispName]['status'] = -1
-					else:
-						DomainScan.jsonData[host]['isp'][ispName]['status'] = 1
+		except: #(socket.gaierror, dns.exception.Timeout, dns.resolver.NXDOMAIN, dns.resolver.NoAnswer), err:
+			print 'Could not resolve: ' + host
+			if jsonData[host]['ip'] == None or len(jsonData[host]['ip']) == 0:
+				jsonData[host]['isp'][isp]['status'] = -1
+				# neither the (open) dns neither the isp replied, site may be have shut down - Can't be Resolved
+			else:
+				jsonData[host]['isp'][isp]['status'] = 1
+				#Neither the reference DNS neither the ISP's DNS could resolve
 
-	@staticmethod
-	def fix():
-		#copy reasons from another json
-		with open('reasons.json') as inFile:
-			jsonReasons = json.load(inFile)
-		for host in jsonReasons:
-			if 'reason' in jsonReasons[host]:
-				DomainScan.jsonData[host]['reason'] = jsonReasons[host]['reason']
+"""
+	Prints the data to the screen, yey
+"""
+def printData():
+	global jsonData
+	print json.dumps(jsonData, ensure_ascii=True, sort_keys=True, indent=1)
 
-		'''
-		for host in DomainScan.jsonData:
-			#add -2 status to domains without status
-			for eachIsp in DomainScan.jsonData[host]['isp']:
-				if 'status' not in DomainScan.jsonData[host]['isp'][eachIsp]:
-					DomainScan.jsonData[host]['isp'][eachIsp]['status'] = -2
-		'''
 
-		'''
-		#add the reason
-		DomainScan.jsonData[host]['reason'] = 'Copyright'
-		'''
-		'''
-		#fix status blocking for some domains
-		if len(DomainScan.jsonData[host]['isp']['meo']['dnsResponse']) > 0 and DomainScan.jsonData[host]['isp']['meo']['dnsResponse'][0] == '213.13.145.120':
-			#print str(DomainScan.jsonData[host]['isp']['meo']['dnsResponse'][0])
-			DomainScan.jsonData[host]['isp']['meo']['blocked'] = True
+'''
+	Tests a dns (prints to the console)
+	@param dnsAddres the dns address
+	@param host the host to resolve
+'''
+def testDns( dnsAddres = '8.8.8.8', host = 'google.com'):
+	global jsonData
+	dnsResolver = dns.resolver.Resolver()
+	dnsResolver.nameservers= [dnsAddres]
+	try:
+		print host + ' resolved into ' + str(dnsResolver.query(host, 'A')[0]) + ' by ' + dnsAddres
+	except:
+		print 'error querying ' + str(host) + ' @' + dnsAddres
 
-		#Add other ISP's (empty)
-		DomainScan.jsonData[host]['isp']['nos'] = { 'blocked':True, 'dnsResponse':[] }
-		DomainScan.jsonData[host]['isp']['vodafone'] = { 'blocked':True, 'dnsResponse':[] }
-		DomainScan.jsonData[host]['isp']['cabovisao'] = { 'blocked':True, 'dnsResponse':[] }
-		'''
+
+'''
+	Generates and prints ISP scores based on the status of each domain!
+	(Less is better)
+'''
+def printScores():
+	global jsonData
+	print 'Scores:'
+	scores = dict()
+	for host in jsonData:
+		for eachIsp in jsonData[host]['isp']:
+			if jsonData[host]['isp'][eachIsp]['status'] > 0:
+				if eachIsp in scores:
+					scores[eachIsp] += jsonData[host]['isp'][eachIsp]['status']
+				else:
+					scores[eachIsp] = jsonData[host]['isp'][eachIsp]['status']
+
+	for isp, score in scores.iteritems():
+		print isp + ': ' + str(score)
+
+
+'''''''''
+	These are some stupid methods to fix/destroy the data - to make really specific things...
+'''
+#fix the status
+def fixStatus(ispName = 'meo'):
+	global jsonData
+	for host in jsonData:
+		if not jsonData[host][ispName]['status'] == -2:
+			#check if any of the original ip are in the response
+			found = False
+			for eachIpRecord in jsonData[host]['ip']:
+				for eachResponseRecord in jsonData[host]['isp'][ispName]['dnsResponse']:
+					if str(eachIpRecord) == str(eachResponseRecord):
+						found = True
+						jsonData[host]['isp'][ispName]['status'] = 0
+						#the ip appeared in the isp response, so it (may) not be blocked
+			if not found:
+				jsonData[host]['isp'][ispName]['status'] = 2
+
+			if len(jsonData[host]['isp'][ispName]['dnsResponse']) == 0:
+				if len(jsonData[host]['ip']) == 0:
+					jsonData[host]['isp'][ispName]['status'] = -1
+				else:
+					jsonData[host]['isp'][ispName]['status'] = 1
+#copy reasons from another json
+def fix_copyReasonsFromAnotherFile(filePath = 'reasons.json'):
+	global jsonData
+	with open(filePath) as inFile:
+		jsonReasons = json.load(inFile)
+	for host in jsonReasons:
+		if 'reason' in jsonReasons[host]:
+			jsonData[host]['reason'] = jsonReasons[host]['reason']
+#add -2 status to domains without status
+def fix_addMissingStatus(filePath = 'reasons.json'):
+	global jsonData
+	for host in jsonData:
+		for eachIsp in jsonData[host]['isp']:
+			if 'status' not in jsonData[host]['isp'][eachIsp]:
+				jsonData[host]['isp'][eachIsp]['status'] = -2
+#add missing reason
+def fix_addMissingStatus(reason = 'Copyright'):
+	global jsonData
+	for host in jsonData:
+		if 'reason' not in jsonData[host]:
+			jsonData[host]['reason'] = reason
+''''''''''''
+
+if __name__ == '__main__':
+	loadJson('blockList.json')
+	importFromJsonArray('newsites.json', '2016-01')
+	#importFromTXT('newhosts.txt', '2016-01')
+
+	#scanDns(True)
+	#testDns('meo.pt', '192.168.1.254')
+	#scanDnsISP('vodafone', '192.168.1.254')
+
+	#printData()
+	#printScores()
+
+	outputToJsonFile('new.json')
+	outputToTXTFile('new.txt')
+	print 'done!'
