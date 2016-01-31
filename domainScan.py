@@ -4,7 +4,7 @@ __author__ = 'ToFran'
 __site__ = 'http://tofran.com/'
 
 __license__ = "MIT"
-__version__ = "1.2.1"
+__version__ = "1.2.3"
 __maintainer__ = "Francisco Marques"
 __email__ = "me@tofran.com"
 
@@ -29,17 +29,18 @@ jsonData = {}
 """
 def importFromTXT(filePath, date, reason = 'copyright'):
 	global jsonData
-	counter = 0
+	result = {'added': [], 'alreadyInList': []}
 	with open(filePath) as f:
 		for host in f:
 			host = host.strip()
 			if host not in jsonData:
-				counter += 1
+				result['added'].append(host)
 				jsonData[host] = { 'blockDate' : date, 'ip' : [], 'isp' : { 'meo' : { 'dnsResponse' : [], 'status' : -2 }, 'nos' : { 'dnsResponse' : [], 'status' : -2 }, 'vodafone' : { 'dnsResponse' : [], 'status' : -2 } }, 'reason' : reason }
 			else:
-				print host + ' already in the list!'
+				result['alreadyInList'].append(host)
 	f.close()
-	print 'Imported ' + str(counter) + ' domains'
+	#print 'Imported ' + str(counter) + ' domains'
+	print json.dumps(result, ensure_ascii=True, sort_keys=True, indent=3)
 
 """
 	imports domains from a file in JSON array
@@ -48,18 +49,18 @@ def importFromTXT(filePath, date, reason = 'copyright'):
 """
 def importFromJsonArray(filePath, date, reason = 'copyright'):
 	global jsonData
-	counter = 0
+	result = {'added': [], 'alreadyInList': []}
 	with open(filePath) as f:
 		domainArray = json.load(f)
 	f.close()
 
 	for host in domainArray:
 		if host not in jsonData:
-			counter += 1
+			result['added'].append(host)
 			jsonData[host] = { 'blockDate' : date, 'ip' : [], 'isp' : { 'meo' : { 'dnsResponse' : [], 'status' : -2 }, 'nos' : { 'dnsResponse' : [], 'status' : -2 }, 'vodafone' : { 'dnsResponse' : [], 'status' : -2 } }, 'reason' : reason }
 		else:
-			print host + ' already in the list!'
-	print 'Imported ' + str(counter) + ' domains'
+			result['alreadyInList'].append(host)
+	print json.dumps(result, ensure_ascii=True, sort_keys=True, indent=3)
 
 """
 	Load the data from a json file
@@ -85,7 +86,7 @@ def outputToJsonFile(filePath):
 def outputToTXTFile(filePath):
 	global jsonData
 	with open(filePath, 'w') as f:
-		for host in jsonData:
+		for host in sorted(jsonData):
 			f.write(host + '\n')
 		f.close()
 
@@ -166,7 +167,7 @@ def printData():
 	@param dnsAddres the dns address
 	@param host the host to resolve
 '''
-def testDns( dnsAddres = '8.8.8.8', host = 'google.com'):
+def testDns(dnsAddres = '8.8.8.8', host = 'google.com'):
 	global jsonData
 	dnsResolver = dns.resolver.Resolver()
 	dnsResolver.nameservers= [dnsAddres]
@@ -180,17 +181,20 @@ def testDns( dnsAddres = '8.8.8.8', host = 'google.com'):
 	Generates and prints ISP scores based on the status of each domain!
 	(Less is better)
 '''
-def printScores():
+def printScores(redirectsCountMore = False):
 	global jsonData
 	print 'Scores:'
 	scores = dict()
+	value = 1
 	for host in jsonData:
 		for eachIsp in jsonData[host]['isp']:
 			if jsonData[host]['isp'][eachIsp]['status'] > 0:
+				if redirectsCountMore:
+					value = jsonData[host]['isp'][eachIsp]['status']
 				if eachIsp in scores:
-					scores[eachIsp] += jsonData[host]['isp'][eachIsp]['status']
+					scores[eachIsp] += value
 				else:
-					scores[eachIsp] = jsonData[host]['isp'][eachIsp]['status']
+					scores[eachIsp] = value
 
 	for isp, score in scores.iteritems():
 		print isp + ': ' + str(score)
