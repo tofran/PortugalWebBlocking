@@ -14,8 +14,11 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "104.24.116.60", 
+                    "104.24.117.60"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -40,8 +43,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "192.232.251.247"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -67,8 +72,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -103,6 +110,7 @@
             "nos": {
                 "dnsResponse": [
                     "195.23.113.202", 
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -134,8 +142,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "136.243.121.74"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -159,8 +169,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "80.69.77.156"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -180,8 +192,10 @@
                 "status": -1
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -208,8 +222,11 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "190.121.210.133", 
+                    "190.105.194.58"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -234,8 +251,10 @@
                 "status": 2
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -260,8 +279,10 @@
                 "status": 2
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -287,8 +308,11 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "193.169.206.146", 
+                    "193.169.206.173"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -313,8 +337,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "89.40.16.50"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -338,8 +364,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -363,8 +391,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "198.135.249.123"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -385,7 +415,7 @@
             }, 
             "nos": {
                 "dnsResponse": [], 
-                "status": -2
+                "status": -1
             }, 
             "vodafone": {
                 "dnsResponse": [], 
@@ -407,8 +437,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -432,8 +464,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -460,6 +494,7 @@
             "nos": {
                 "dnsResponse": [
                     "195.23.113.202", 
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -469,7 +504,7 @@
                 "status": -1
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "amofilmes.net": {
         "blockDate": "2015-11", 
@@ -491,6 +526,7 @@
             }, 
             "nos": {
                 "dnsResponse": [
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -505,7 +541,7 @@
                 "status": 2
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "aovivoagora.com": {
         "blockDate": "2014-11", 
@@ -525,6 +561,7 @@
             "nos": {
                 "dnsResponse": [
                     "195.23.113.202", 
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -541,7 +578,7 @@
                 "status": 2
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "apostasonline.com": {
         "blockDate": "2016-01", 
@@ -558,8 +595,11 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "104.16.83.64", 
+                    "104.16.84.64"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -595,7 +635,9 @@
             "nos": {
                 "dnsResponse": [
                     "104.24.127.209", 
-                    "104.24.126.209"
+                    "104.24.126.209", 
+                    "104.24.126.209", 
+                    "104.24.127.209"
                 ], 
                 "status": 0
             }, 
@@ -609,7 +651,7 @@
                 "status": 0
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "atdhe.eu": {
         "blockDate": "2014-11", 
@@ -629,6 +671,7 @@
             "nos": {
                 "dnsResponse": [
                     "195.23.113.202", 
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -645,7 +688,7 @@
                 "status": 2
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "atdhe.mx": {
         "blockDate": "2016-01", 
@@ -660,8 +703,10 @@
                 "status": 2
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -693,6 +738,7 @@
             }, 
             "nos": {
                 "dnsResponse": [
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -707,7 +753,7 @@
                 "status": 2
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "avxsearch.se": {
         "blockDate": "2016-01", 
@@ -722,8 +768,10 @@
                 "status": 2
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -748,8 +796,10 @@
                 "status": 2
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -785,6 +835,8 @@
             "nos": {
                 "dnsResponse": [
                     "104.28.10.12", 
+                    "104.28.11.12", 
+                    "104.28.10.12", 
                     "104.28.11.12"
                 ], 
                 "status": 0
@@ -799,7 +851,7 @@
                 "status": 0
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "baixartv.com": {
         "blockDate": "2015-10", 
@@ -823,9 +875,10 @@
             "nos": {
                 "dnsResponse": [
                     "82.221.105.12", 
-                    "82.221.105.12"
+                    "82.221.105.12", 
+                    "50.63.202.52"
                 ], 
-                "status": 0
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -836,7 +889,7 @@
                 "status": 2
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "baixedetudo.net": {
         "blockDate": "2016-01", 
@@ -851,8 +904,10 @@
                 "status": 2
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -877,8 +932,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "83.222.232.158"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -911,6 +968,7 @@
             "nos": {
                 "dnsResponse": [
                     "195.23.113.202", 
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -927,7 +985,7 @@
                 "status": 2
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "bedavacanlitv.com": {
         "blockDate": "2016-01", 
@@ -942,8 +1000,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -967,8 +1027,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "52.29.35.141"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -992,8 +1054,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "162.242.235.46"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -1022,6 +1086,7 @@
             "nos": {
                 "dnsResponse": [
                     "94.125.61.194", 
+                    "94.125.61.194", 
                     "94.125.61.194"
                 ], 
                 "status": 0
@@ -1048,8 +1113,10 @@
                 "status": 2
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -1073,8 +1140,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "174.142.113.206"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -1098,8 +1167,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "190.242.30.113"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -1123,8 +1194,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "190.242.30.12"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -1150,8 +1223,11 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "149.126.72.3", 
+                    "199.83.130.3"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -1176,8 +1252,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "94.125.59.85"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -1201,8 +1279,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "94.125.59.72"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -1228,8 +1308,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -1254,8 +1336,10 @@
                 "status": 2
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -1279,8 +1363,10 @@
                 "status": 2
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -1312,6 +1398,7 @@
             }, 
             "nos": {
                 "dnsResponse": [
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -1326,7 +1413,7 @@
                 "status": 2
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "boylesports.com": {
         "blockDate": "2016-01", 
@@ -1341,8 +1428,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "88.208.203.50"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -1368,8 +1457,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -1395,8 +1486,10 @@
                 "status": 2
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -1430,6 +1523,7 @@
             "nos": {
                 "dnsResponse": [
                     "195.23.113.202", 
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -1446,7 +1540,7 @@
                 "status": 2
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "btvsports.com": {
         "blockDate": "2014-11", 
@@ -1466,6 +1560,7 @@
             "nos": {
                 "dnsResponse": [
                     "195.23.113.202", 
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -1479,7 +1574,7 @@
                 "status": 2
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "btvsports.info": {
         "blockDate": "2016-01", 
@@ -1494,8 +1589,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "52.0.7.30"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -1519,8 +1616,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -1549,6 +1648,7 @@
             "nos": {
                 "dnsResponse": [
                     "195.23.113.202", 
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -1562,7 +1662,7 @@
                 "status": 0
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "carbongames.com": {
         "blockDate": "2016-01", 
@@ -1577,8 +1677,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "45.33.38.132"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -1607,6 +1709,7 @@
             "nos": {
                 "dnsResponse": [
                     "195.23.113.202", 
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -1620,7 +1723,7 @@
                 "status": 0
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "cashpoint.com": {
         "blockDate": "2016-01", 
@@ -1635,8 +1738,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.78.99.34"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -1660,8 +1765,10 @@
                 "status": 2
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -1685,8 +1792,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "80.85.64.141"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -1710,8 +1819,10 @@
                 "status": 2
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -1736,8 +1847,10 @@
                 "status": 2
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -1761,8 +1874,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "209.15.247.57"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -1786,8 +1901,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "37.187.3.151"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -1811,8 +1928,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "185.31.222.194"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -1836,8 +1955,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "76.162.74.126"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -1861,8 +1982,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "94.125.59.119"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -1886,8 +2009,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "94.23.79.19"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -1913,8 +2038,11 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "107.154.112.5", 
+                    "107.154.113.5"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -1941,8 +2069,11 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "104.28.2.121", 
+                    "104.28.3.121"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -1967,8 +2098,10 @@
                 "status": 2
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -1994,8 +2127,10 @@
                 "status": 2
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -2022,8 +2157,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -2050,8 +2187,11 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "104.20.37.25", 
+                    "104.20.38.25"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -2100,9 +2240,10 @@
                     "94.242.57.175", 
                     "94.242.57.65", 
                     "94.242.59.129", 
-                    "185.22.172.110"
+                    "185.22.172.110", 
+                    "158.69.225.28"
                 ], 
-                "status": 0
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -2116,7 +2257,7 @@
                 "status": 2
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "clubedodownload.info": {
         "blockDate": "2015-10", 
@@ -2142,7 +2283,7 @@
                     "195.23.113.202", 
                     "195.23.113.202"
                 ], 
-                "status": 2
+                "status": 1
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -2152,7 +2293,7 @@
                 "status": 1
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "cocas.tv": {
         "blockDate": "2014-04", 
@@ -2172,6 +2313,7 @@
             "nos": {
                 "dnsResponse": [
                     "195.23.113.202", 
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -2185,7 +2327,7 @@
                 "status": 0
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "cocas1.com": {
         "blockDate": "2014-11", 
@@ -2205,6 +2347,7 @@
             "nos": {
                 "dnsResponse": [
                     "195.23.113.202", 
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -2218,7 +2361,7 @@
                 "status": 2
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "comando-filmes.com": {
         "blockDate": "2016-01", 
@@ -2233,8 +2376,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "66.6.44.4"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -2267,6 +2412,7 @@
             "nos": {
                 "dnsResponse": [
                     "195.23.113.202", 
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -2283,7 +2429,7 @@
                 "status": 2
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "conexaomp3.com": {
         "blockDate": "2016-01", 
@@ -2298,8 +2444,10 @@
                 "status": 2
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -2324,8 +2472,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -2349,8 +2499,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "185.6.176.13"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -2375,8 +2527,10 @@
                 "status": 2
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -2403,8 +2557,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -2431,8 +2587,11 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "198.41.205.98", 
+                    "198.41.204.98"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -2464,6 +2623,7 @@
             }, 
             "nos": {
                 "dnsResponse": [
+                    "103.224.182.232", 
                     "103.224.182.232"
                 ], 
                 "status": 0
@@ -2476,7 +2636,7 @@
                 "status": 0
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "d2htvlive.in": {
         "blockDate": "2016-01", 
@@ -2491,8 +2651,10 @@
                 "status": 2
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -2519,8 +2681,11 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "199.83.129.109", 
+                    "192.230.66.119"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -2555,6 +2720,7 @@
             "nos": {
                 "dnsResponse": [
                     "195.23.113.202", 
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -2571,7 +2737,7 @@
                 "status": 2
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "ddlvalley.rocks": {
         "blockDate": "2015-11", 
@@ -2593,6 +2759,7 @@
             }, 
             "nos": {
                 "dnsResponse": [
+                    "212.109.216.121", 
                     "212.109.216.121"
                 ], 
                 "status": 0
@@ -2605,7 +2772,7 @@
                 "status": 0
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "demonoid.pw": {
         "blockDate": "2016-01", 
@@ -2621,8 +2788,10 @@
                 "status": 2
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -2648,8 +2817,10 @@
                 "status": 2
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -2676,8 +2847,11 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "104.27.190.254", 
+                    "104.27.191.254"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -2702,8 +2876,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "94.125.59.59"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -2736,6 +2912,7 @@
             "nos": {
                 "dnsResponse": [
                     "195.23.113.202", 
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -2752,7 +2929,7 @@
                 "status": 2
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "dimsports.eu": {
         "blockDate": "2016-01", 
@@ -2767,8 +2944,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -2792,8 +2971,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "62.109.29.117"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -2817,8 +2998,10 @@
                 "status": 2
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -2843,8 +3026,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "78.129.232.174"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -2870,8 +3055,11 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "104.24.127.201", 
+                    "104.24.126.201"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -2896,8 +3084,10 @@
                 "status": 2
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -2924,8 +3114,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -2958,6 +3150,7 @@
             }, 
             "nos": {
                 "dnsResponse": [
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -2972,7 +3165,7 @@
                 "status": 2
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "duckpoker.com": {
         "blockDate": "2016-01", 
@@ -2987,8 +3180,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "164.40.144.9"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -3027,7 +3222,9 @@
                     "104.27.189.33", 
                     "104.27.188.33", 
                     "104.27.189.33", 
-                    "104.27.188.33"
+                    "104.27.188.33", 
+                    "104.27.188.33", 
+                    "104.27.189.33"
                 ], 
                 "status": 0
             }, 
@@ -3043,7 +3240,7 @@
                 "status": 0
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "elitetorrent.net": {
         "blockDate": "2016-01", 
@@ -3058,8 +3255,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "217.12.210.175"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -3083,8 +3282,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "50.63.202.6"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -3106,8 +3307,10 @@
                 "status": 1
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "94.125.61.194"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -3131,8 +3334,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -3161,6 +3366,7 @@
             }, 
             "nos": {
                 "dnsResponse": [
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -3177,7 +3383,7 @@
                 "status": 0
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "estrenosdtl.com": {
         "blockDate": "2016-01", 
@@ -3192,8 +3398,10 @@
                 "status": 2
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -3218,8 +3426,10 @@
                 "status": 2
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -3244,8 +3454,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "185.96.176.233"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -3279,6 +3491,7 @@
             "nos": {
                 "dnsResponse": [
                     "195.23.113.202", 
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -3295,7 +3508,7 @@
                 "status": 2
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "eztv.ag": {
         "blockDate": "2016-01", 
@@ -3311,8 +3524,10 @@
                 "status": 2
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -3342,6 +3557,7 @@
             "nos": {
                 "dnsResponse": [
                     "195.23.113.202", 
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -3355,7 +3571,7 @@
                 "status": 0
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "fancylive.com": {
         "blockDate": "2016-01", 
@@ -3370,8 +3586,10 @@
                 "status": 2
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -3396,8 +3614,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -3426,6 +3646,7 @@
             "nos": {
                 "dnsResponse": [
                     "195.23.113.202", 
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -3439,7 +3660,7 @@
                 "status": 0
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "feed4u.net": {
         "blockDate": "2016-01", 
@@ -3455,8 +3676,10 @@
                 "status": 2
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -3481,8 +3704,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "5.45.64.236"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -3508,8 +3733,11 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "104.20.52.193", 
+                    "104.20.53.193"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -3545,6 +3773,8 @@
             "nos": {
                 "dnsResponse": [
                     "104.25.243.6", 
+                    "104.25.242.6", 
+                    "104.25.243.6", 
                     "104.25.242.6"
                 ], 
                 "status": 0
@@ -3559,7 +3789,7 @@
                 "status": 0
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "filmesmegahd.net": {
         "blockDate": "2016-01", 
@@ -3574,8 +3804,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "158.69.225.10"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -3614,7 +3846,9 @@
                     "104.25.201.14", 
                     "104.25.200.14", 
                     "104.25.201.14", 
-                    "104.25.200.14"
+                    "104.25.200.14", 
+                    "104.25.200.14", 
+                    "104.25.201.14"
                 ], 
                 "status": 0
             }, 
@@ -3630,7 +3864,7 @@
                 "status": 0
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "filmesonlinegratis.com": {
         "blockDate": "2016-01", 
@@ -3645,8 +3879,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "94.23.79.18"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -3685,6 +3921,8 @@
                     "104.20.23.105", 
                     "104.20.22.105", 
                     "104.20.23.105", 
+                    "104.20.22.105", 
+                    "104.20.23.105", 
                     "104.20.22.105"
                 ], 
                 "status": 0
@@ -3701,7 +3939,7 @@
                 "status": 0
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "filmesonlineportugueses.wordpress.com": {
         "blockDate": "2015-10", 
@@ -3726,6 +3964,7 @@
             "nos": {
                 "dnsResponse": [
                     "195.23.113.202", 
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -3742,7 +3981,7 @@
                 "status": 2
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "firstrow1us.eu": {
         "blockDate": "2016-01", 
@@ -3757,8 +3996,10 @@
                 "status": 2
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -3783,8 +4024,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "93.170.92.44"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -3808,8 +4051,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "93.170.92.44"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -3838,6 +4083,7 @@
             "nos": {
                 "dnsResponse": [
                     "195.23.113.202", 
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -3854,7 +4100,7 @@
                 "status": 2
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "firstrowpt.eu": {
         "blockDate": "2016-01", 
@@ -3869,8 +4115,10 @@
                 "status": 2
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -3895,8 +4143,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "188.95.48.110"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -3920,8 +4170,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -3958,6 +4210,7 @@
             "nos": {
                 "dnsResponse": [
                     "195.23.113.202", 
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -3974,7 +4227,7 @@
                 "status": 2
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "freetvall.com": {
         "blockDate": "2016-01", 
@@ -3991,8 +4244,11 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "104.28.18.31", 
+                    "104.28.19.31"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -4019,8 +4275,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -4042,7 +4300,7 @@
             }, 
             "nos": {
                 "dnsResponse": [], 
-                "status": -2
+                "status": -1
             }, 
             "vodafone": {
                 "dnsResponse": [], 
@@ -4069,6 +4327,7 @@
             "nos": {
                 "dnsResponse": [
                     "195.23.113.202", 
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -4082,7 +4341,7 @@
                 "status": 0
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "futebolonlinenopc.com": {
         "blockDate": "2016-01", 
@@ -4097,8 +4356,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -4127,6 +4388,7 @@
             "nos": {
                 "dnsResponse": [
                     "195.23.113.202", 
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -4138,7 +4400,7 @@
                 "status": 0
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "galeriadamusica.net": {
         "blockDate": "2016-01", 
@@ -4153,8 +4415,10 @@
                 "status": 2
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -4179,8 +4443,10 @@
                 "status": 2
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -4205,8 +4471,10 @@
                 "status": 2
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -4231,8 +4499,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "185.31.222.192"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -4256,8 +4526,10 @@
                 "status": 2
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -4282,8 +4554,10 @@
                 "status": 2
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -4317,6 +4591,7 @@
             "nos": {
                 "dnsResponse": [
                     "195.23.113.202", 
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -4333,7 +4608,7 @@
                 "status": 2
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "gigatuga.io": {
         "blockDate": "2015-11", 
@@ -4356,6 +4631,7 @@
             }, 
             "nos": {
                 "dnsResponse": [
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -4370,7 +4646,7 @@
                 "status": 2
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "goalplaybet.com.ng": {
         "blockDate": "2016-01", 
@@ -4387,8 +4663,11 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "104.25.45.25", 
+                    "104.25.44.25"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -4413,8 +4692,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -4440,8 +4721,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -4466,8 +4749,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "109.202.109.18"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -4493,8 +4778,11 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "149.126.72.158", 
+                    "149.126.74.158"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -4519,8 +4807,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "109.69.217.20"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -4544,8 +4834,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "186.190.245.124"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -4569,8 +4861,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "209.59.173.97"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -4594,8 +4888,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "95.154.216.111"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -4619,8 +4915,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -4644,8 +4942,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -4669,8 +4969,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "93.170.92.44"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -4691,7 +4993,7 @@
             }, 
             "nos": {
                 "dnsResponse": [], 
-                "status": -2
+                "status": -1
             }, 
             "vodafone": {
                 "dnsResponse": [], 
@@ -4723,6 +5025,7 @@
             "nos": {
                 "dnsResponse": [
                     "195.23.113.202", 
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -4739,7 +5042,7 @@
                 "status": 2
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "ilovefilmesonline.com": {
         "blockDate": "2015-11", 
@@ -4761,6 +5064,7 @@
             }, 
             "nos": {
                 "dnsResponse": [
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -4775,7 +5079,7 @@
                 "status": 2
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "index-of-stream.com": {
         "blockDate": "2016-01", 
@@ -4792,8 +5096,11 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "104.25.79.19", 
+                    "104.25.78.19"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -4823,6 +5130,7 @@
             "nos": {
                 "dnsResponse": [
                     "195.23.113.202", 
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -4839,7 +5147,7 @@
                 "status": 2
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "ingyenfilmletoltes.info": {
         "blockDate": "2016-01", 
@@ -4855,8 +5163,10 @@
                 "status": 2
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -4883,8 +5193,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -4911,8 +5223,11 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "104.20.73.182", 
+                    "104.20.72.182"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -4937,8 +5252,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "194.127.139.134"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -4971,6 +5288,7 @@
             "nos": {
                 "dnsResponse": [
                     "199.59.243.120", 
+                    "199.59.243.120", 
                     "199.59.243.120"
                 ], 
                 "status": 0
@@ -4984,7 +5302,7 @@
                 "status": 0
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "isohunt.to": {
         "blockDate": "2015-10", 
@@ -5009,6 +5327,7 @@
             "nos": {
                 "dnsResponse": [
                     "195.23.113.202", 
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -5025,7 +5344,7 @@
                 "status": 2
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "israbox.me": {
         "blockDate": "2016-01", 
@@ -5040,8 +5359,10 @@
                 "status": 2
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -5066,8 +5387,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "185.31.222.195"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -5092,8 +5415,10 @@
                 "status": 2
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -5118,8 +5443,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "109.205.94.15"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -5143,8 +5470,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "192.96.216.223"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -5169,8 +5498,10 @@
                 "status": 2
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -5180,7 +5511,7 @@
                 "status": 2
             }
         }, 
-        "reason": "copyright"
+        "reason": "unknown"
     }, 
     "junksport.com": {
         "blockDate": "2016-01", 
@@ -5192,7 +5523,7 @@
             }, 
             "nos": {
                 "dnsResponse": [], 
-                "status": -2
+                "status": -1
             }, 
             "vodafone": {
                 "dnsResponse": [], 
@@ -5230,6 +5561,7 @@
             "nos": {
                 "dnsResponse": [
                     "195.23.113.202", 
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -5246,7 +5578,7 @@
                 "status": 2
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "kingtvlive.com": {
         "blockDate": "2016-01", 
@@ -5261,8 +5593,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -5286,8 +5620,10 @@
                 "status": 2
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -5314,8 +5650,10 @@
                 "status": 2
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -5349,6 +5687,7 @@
             "nos": {
                 "dnsResponse": [
                     "195.23.113.202", 
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -5365,7 +5704,7 @@
                 "status": 2
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "lanunbay.org": {
         "blockDate": "2015-03", 
@@ -5390,6 +5729,7 @@
             "nos": {
                 "dnsResponse": [
                     "195.23.113.202", 
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -5406,7 +5746,7 @@
                 "status": 2
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "limetorrents.cc": {
         "blockDate": "2016-01", 
@@ -5423,8 +5763,11 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "104.24.115.78", 
+                    "104.24.114.78"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -5454,6 +5797,7 @@
             "nos": {
                 "dnsResponse": [
                     "195.23.113.202", 
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -5470,7 +5814,7 @@
                 "status": 2
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "livesportshd.eu": {
         "blockDate": "2014-11", 
@@ -5489,6 +5833,7 @@
             }, 
             "nos": {
                 "dnsResponse": [
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -5502,7 +5847,7 @@
                 "status": 0
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "livestream365.com": {
         "blockDate": "2016-01", 
@@ -5519,8 +5864,11 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "104.31.95.115", 
+                    "104.31.94.115"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -5547,8 +5895,10 @@
                 "status": 2
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [], 
@@ -5572,8 +5922,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -5606,8 +5958,14 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "104.16.32.178", 
+                    "104.16.126.177", 
+                    "104.16.33.178", 
+                    "104.16.127.177", 
+                    "104.16.125.177"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -5637,8 +5995,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -5686,7 +6046,11 @@
                     "216.239.34.21", 
                     "216.239.36.21", 
                     "216.239.38.21", 
-                    "216.239.32.21"
+                    "216.239.32.21", 
+                    "216.239.32.21", 
+                    "216.239.34.21", 
+                    "216.239.36.21", 
+                    "216.239.38.21"
                 ], 
                 "status": 0
             }, 
@@ -5708,7 +6072,7 @@
                 "status": 0
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "lusoshare.com": {
         "blockDate": "2015-10", 
@@ -5733,6 +6097,7 @@
             "nos": {
                 "dnsResponse": [
                     "195.23.113.202", 
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -5749,7 +6114,7 @@
                 "status": 2
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "m.18bet.com": {
         "blockDate": "2016-01", 
@@ -5764,8 +6129,10 @@
                 "status": 2
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -5790,8 +6157,10 @@
                 "status": 2
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -5816,8 +6185,10 @@
                 "status": 2
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -5842,8 +6213,10 @@
                 "status": 2
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -5869,8 +6242,10 @@
                 "status": 2
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -5895,8 +6270,10 @@
                 "status": 2
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -5934,7 +6311,7 @@
                 "status": -1
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "megaboxfilmesonline.com": {
         "blockDate": "2016-01", 
@@ -5949,8 +6326,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -5983,6 +6362,7 @@
             "nos": {
                 "dnsResponse": [
                     "195.23.113.202", 
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -5999,7 +6379,7 @@
                 "status": 2
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "megafilmeshd.tv": {
         "blockDate": "2015-11", 
@@ -6021,6 +6401,7 @@
             }, 
             "nos": {
                 "dnsResponse": [
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -6035,7 +6416,7 @@
                 "status": 2
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "megafilmesonline.net": {
         "blockDate": "2015-11", 
@@ -6058,6 +6439,7 @@
             }, 
             "nos": {
                 "dnsResponse": [
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -6072,7 +6454,7 @@
                 "status": 2
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "megafilmesonlinehd.com": {
         "blockDate": "2015-11", 
@@ -6095,9 +6477,11 @@
             }, 
             "nos": {
                 "dnsResponse": [
-                    "199.48.164.168"
+                    "199.48.164.168", 
+                    "104.28.20.113", 
+                    "104.28.21.113"
                 ], 
-                "status": 0
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -6109,7 +6493,7 @@
                 "status": 2
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "megapirata.net": {
         "blockDate": "2015-11", 
@@ -6132,6 +6516,7 @@
             }, 
             "nos": {
                 "dnsResponse": [
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -6146,7 +6531,7 @@
                 "status": 2
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "megashare.sc": {
         "blockDate": "2016-01", 
@@ -6163,8 +6548,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -6190,8 +6577,10 @@
                 "status": 2
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -6217,8 +6606,10 @@
                 "status": 2
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -6245,8 +6636,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -6271,8 +6664,10 @@
                 "status": 2
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -6297,8 +6692,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -6327,6 +6724,7 @@
             "nos": {
                 "dnsResponse": [
                     "195.23.113.202", 
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -6340,7 +6738,7 @@
                 "status": 0
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "mobile.cherrycasino.com": {
         "blockDate": "2016-01", 
@@ -6356,8 +6754,10 @@
                 "status": 2
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -6382,8 +6782,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "101.0.93.161"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -6407,8 +6809,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -6447,7 +6851,9 @@
                     "104.28.26.77", 
                     "104.28.27.77", 
                     "104.28.27.77", 
-                    "104.28.26.77"
+                    "104.28.26.77", 
+                    "104.28.26.77", 
+                    "104.28.27.77"
                 ], 
                 "status": 0
             }, 
@@ -6463,7 +6869,7 @@
                 "status": 0
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "moov7.net": {
         "blockDate": "2015-10", 
@@ -6486,6 +6892,7 @@
             }, 
             "nos": {
                 "dnsResponse": [
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -6502,7 +6909,7 @@
                 "status": 2
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "moseon.com": {
         "blockDate": "2016-01", 
@@ -6518,8 +6925,10 @@
                 "status": 2
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -6546,8 +6955,11 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "104.24.5.12", 
+                    "104.24.4.12"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -6573,8 +6985,10 @@
                 "status": 2
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -6600,8 +7014,10 @@
                 "status": 2
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -6627,8 +7043,10 @@
                 "status": 2
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -6654,8 +7072,10 @@
                 "status": 2
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -6690,7 +7110,7 @@
                 "dnsResponse": [
                     "195.23.113.202"
                 ], 
-                "status": 2
+                "status": 1
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -6700,7 +7120,7 @@
                 "status": 1
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "mp3tunes.org": {
         "blockDate": "2016-01", 
@@ -6715,8 +7135,10 @@
                 "status": 2
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -6741,8 +7163,10 @@
                 "status": 2
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -6769,8 +7193,11 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "104.27.186.156", 
+                    "104.27.187.156"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -6795,8 +7222,10 @@
                 "status": 2
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -6821,8 +7250,10 @@
                 "status": 2
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -6848,7 +7279,7 @@
             }, 
             "nos": {
                 "dnsResponse": [], 
-                "status": -2
+                "status": 1
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -6870,7 +7301,7 @@
             }, 
             "nos": {
                 "dnsResponse": [], 
-                "status": -2
+                "status": -1
             }, 
             "vodafone": {
                 "dnsResponse": [], 
@@ -6890,8 +7321,10 @@
                 "status": 2
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -6917,8 +7350,10 @@
                 "status": 2
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -6943,8 +7378,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -6969,8 +7406,10 @@
                 "status": 2
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -6997,8 +7436,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -7023,8 +7464,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "94.125.59.62"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -7048,8 +7491,10 @@
                 "status": 2
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -7074,8 +7519,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "109.205.94.28"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -7099,8 +7546,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "69.172.201.193"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -7135,6 +7584,8 @@
             "nos": {
                 "dnsResponse": [
                     "104.27.163.105", 
+                    "104.27.162.105", 
+                    "104.27.163.105", 
                     "104.27.162.105"
                 ], 
                 "status": 0
@@ -7149,7 +7600,7 @@
                 "status": 0
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "onlinemovies.pro": {
         "blockDate": "2016-01", 
@@ -7162,8 +7613,10 @@
                 "status": 2
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -7188,8 +7641,10 @@
                 "status": 2
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -7215,8 +7670,10 @@
                 "status": 2
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -7254,7 +7711,7 @@
                 "status": -1
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "osreformados.com": {
         "blockDate": "2015-10", 
@@ -7279,6 +7736,7 @@
             "nos": {
                 "dnsResponse": [
                     "195.23.113.202", 
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -7295,7 +7753,7 @@
                 "status": 2
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "pinnaclesports.com": {
         "blockDate": "2016-01", 
@@ -7310,8 +7768,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "192.230.77.28"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -7340,6 +7800,7 @@
             "nos": {
                 "dnsResponse": [
                     "195.23.113.202", 
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -7353,7 +7814,7 @@
                 "status": 0
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "pirataqb.com": {
         "blockDate": "2016-01", 
@@ -7370,8 +7831,11 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "104.28.21.60", 
+                    "104.28.20.60"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -7397,8 +7861,10 @@
                 "status": 2
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -7433,6 +7899,7 @@
             "nos": {
                 "dnsResponse": [
                     "195.23.113.202", 
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -7449,7 +7916,7 @@
                 "status": 2
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "piratatugamania.com": {
         "blockDate": "2016-01", 
@@ -7464,8 +7931,10 @@
                 "status": 2
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -7499,6 +7968,7 @@
             "nos": {
                 "dnsResponse": [
                     "195.23.113.202", 
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -7515,7 +7985,7 @@
                 "status": 2
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "piratebay.org": {
         "blockDate": "2015-03", 
@@ -7540,6 +8010,7 @@
             "nos": {
                 "dnsResponse": [
                     "195.23.113.202", 
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -7556,7 +8027,7 @@
                 "status": 2
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "piratebay.se": {
         "blockDate": "2016-01", 
@@ -7571,8 +8042,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "178.175.135.122"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -7606,6 +8079,7 @@
             "nos": {
                 "dnsResponse": [
                     "195.23.113.202", 
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -7622,7 +8096,7 @@
                 "status": 2
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "pirateproxy.net": {
         "blockDate": "2015-03", 
@@ -7647,6 +8121,7 @@
             "nos": {
                 "dnsResponse": [
                     "195.23.113.202", 
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -7663,7 +8138,7 @@
                 "status": 2
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "pirateproxy.se": {
         "blockDate": "2015-03", 
@@ -7688,6 +8163,7 @@
             "nos": {
                 "dnsResponse": [
                     "195.23.113.202", 
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -7704,7 +8180,7 @@
                 "status": 2
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "pirateshore.org": {
         "blockDate": "2015-03", 
@@ -7728,6 +8204,7 @@
             "nos": {
                 "dnsResponse": [
                     "195.23.113.202", 
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -7744,7 +8221,7 @@
                 "status": 2
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "pkr.com": {
         "blockDate": "2016-01", 
@@ -7759,8 +8236,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "88.81.149.209"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -7786,8 +8265,11 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "104.18.34.189", 
+                    "104.18.35.189"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -7813,8 +8295,10 @@
                 "status": 2
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -7848,6 +8332,7 @@
             "nos": {
                 "dnsResponse": [
                     "195.23.113.202", 
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -7864,7 +8349,7 @@
                 "status": 2
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "portotv.net": {
         "blockDate": "2016-01", 
@@ -7875,8 +8360,10 @@
                 "status": -1
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [], 
@@ -7900,8 +8387,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -7932,6 +8421,7 @@
             "nos": {
                 "dnsResponse": [
                     "195.23.113.202", 
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -7948,7 +8438,7 @@
                 "status": 0
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "portuguese.eucasino.com": {
         "blockDate": "2016-01", 
@@ -7964,8 +8454,11 @@
                 "status": 2
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "199.83.130.104", 
+                    "149.126.77.104"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -7990,8 +8483,10 @@
                 "status": 2
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -8016,8 +8511,10 @@
                 "status": 2
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -8044,8 +8541,11 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "37.59.128.194", 
+                    "5.135.118.195"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -8085,9 +8585,11 @@
                     "104.20.15.201", 
                     "104.20.14.201", 
                     "104.20.14.201", 
-                    "104.20.15.201"
+                    "104.20.15.201", 
+                    "104.27.168.105", 
+                    "104.27.169.105"
                 ], 
-                "status": 0
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -8101,7 +8603,7 @@
                 "status": 2
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "projectfreetv.so": {
         "blockDate": "2015-11", 
@@ -8124,6 +8626,7 @@
             }, 
             "nos": {
                 "dnsResponse": [
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -8138,7 +8641,7 @@
                 "status": 2
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "proxie.co.uk": {
         "blockDate": "2015-03", 
@@ -8162,6 +8665,7 @@
             "nos": {
                 "dnsResponse": [
                     "195.23.113.202", 
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -8178,7 +8682,7 @@
                 "status": 2
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "proxy.rickmartensen.nl": {
         "blockDate": "2015-03", 
@@ -8200,6 +8704,7 @@
             "nos": {
                 "dnsResponse": [
                     "195.23.113.202", 
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -8216,7 +8721,7 @@
                 "status": 2
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "proxybay.net": {
         "blockDate": "2015-03", 
@@ -8240,6 +8745,7 @@
             "nos": {
                 "dnsResponse": [
                     "195.23.113.202", 
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -8256,7 +8762,7 @@
                 "status": 2
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "pt.10bet.com": {
         "blockDate": "2016-01", 
@@ -8271,8 +8777,10 @@
                 "status": 2
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -8301,6 +8809,7 @@
             }, 
             "nos": {
                 "dnsResponse": [
+                    "94.125.61.194", 
                     "94.125.61.194", 
                     "94.125.61.194"
                 ], 
@@ -8331,8 +8840,10 @@
                 "status": 2
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -8357,8 +8868,10 @@
                 "status": 2
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -8383,8 +8896,10 @@
                 "status": 2
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -8409,8 +8924,10 @@
                 "status": 2
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -8435,8 +8952,10 @@
                 "status": 2
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -8460,8 +8979,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "93.174.88.189"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -8492,6 +9013,7 @@
             "nos": {
                 "dnsResponse": [
                     "195.23.113.202", 
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -8508,7 +9030,7 @@
                 "status": 2
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "putlocker.is": {
         "blockDate": "2016-01", 
@@ -8524,8 +9046,10 @@
                 "status": 2
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -8551,8 +9075,10 @@
                 "status": 2
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -8579,8 +9105,11 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "104.24.98.225", 
+                    "104.24.99.225"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -8605,8 +9134,10 @@
                 "status": 2
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -8633,8 +9164,11 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "104.28.24.66", 
+                    "104.28.25.66"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -8661,8 +9195,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -8694,8 +9230,10 @@
                 "status": 2
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": 1
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -8707,7 +9245,7 @@
                 "status": 2
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "rarbg.to": {
         "blockDate": "2015-10", 
@@ -8731,6 +9269,7 @@
             "nos": {
                 "dnsResponse": [
                     "195.23.113.202", 
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -8747,7 +9286,7 @@
                 "status": 2
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "ratotv.net": {
         "blockDate": "2015-10", 
@@ -8772,6 +9311,7 @@
             "nos": {
                 "dnsResponse": [
                     "195.23.113.202", 
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -8788,7 +9328,7 @@
                 "status": 2
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "ratotv.xyz": {
         "blockDate": "2016-01", 
@@ -8805,8 +9345,11 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "104.31.83.224", 
+                    "104.31.82.224"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -8833,8 +9376,11 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "185.11.124.6", 
+                    "192.230.64.6"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -8859,8 +9405,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "217.168.165.140"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -8884,8 +9432,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "95.131.233.75"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -8909,8 +9459,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "188.95.227.20"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -8939,6 +9491,7 @@
             "nos": {
                 "dnsResponse": [
                     "195.23.113.202", 
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -8952,7 +9505,7 @@
                 "status": 0
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "regarder.me": {
         "blockDate": "2016-01", 
@@ -8967,8 +9520,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "98.124.243.40"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -9001,6 +9556,7 @@
             "nos": {
                 "dnsResponse": [
                     "195.23.113.202", 
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -9017,7 +9573,7 @@
                 "status": 2
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "revistas-jornais.blogspot.pt": {
         "blockDate": "2015-10", 
@@ -9041,6 +9597,7 @@
             "nos": {
                 "dnsResponse": [
                     "195.23.113.202", 
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -9057,7 +9614,7 @@
                 "status": 2
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "rlsbb.com": {
         "blockDate": "2016-01", 
@@ -9072,8 +9629,10 @@
                 "status": 2
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -9105,6 +9664,7 @@
             }, 
             "nos": {
                 "dnsResponse": [
+                    "89.33.8.34", 
                     "89.33.8.34"
                 ], 
                 "status": 0
@@ -9117,7 +9677,7 @@
                 "status": 0
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "rojadirecta.me": {
         "blockDate": "2016-01", 
@@ -9134,8 +9694,11 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "205.204.81.154", 
+                    "176.56.229.7"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -9160,8 +9723,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -9194,7 +9759,7 @@
                 "status": -1
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "rslinks.org": {
         "blockDate": "2016-01", 
@@ -9211,8 +9776,11 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "104.28.4.115", 
+                    "104.28.5.115"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -9237,8 +9805,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -9259,7 +9829,7 @@
             }, 
             "nos": {
                 "dnsResponse": [], 
-                "status": -2
+                "status": -1
             }, 
             "vodafone": {
                 "dnsResponse": [], 
@@ -9281,8 +9851,10 @@
                 "status": 2
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -9315,6 +9887,7 @@
             }, 
             "nos": {
                 "dnsResponse": [
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -9329,7 +9902,7 @@
                 "status": 2
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "sapo.tv": {
         "blockDate": "2014-11", 
@@ -9353,7 +9926,7 @@
                 "status": -1
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "sbobet.com": {
         "blockDate": "2016-01", 
@@ -9368,8 +9941,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "103.11.40.101"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -9400,6 +9975,7 @@
             }, 
             "nos": {
                 "dnsResponse": [
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -9414,7 +9990,7 @@
                 "status": 2
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "scnsrc.me": {
         "blockDate": "2015-10", 
@@ -9438,6 +10014,7 @@
             "nos": {
                 "dnsResponse": [
                     "96.45.178.138", 
+                    "96.45.178.138", 
                     "96.45.178.138"
                 ], 
                 "status": 0
@@ -9451,7 +10028,7 @@
                 "status": 0
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "seedpeer.eu": {
         "blockDate": "2015-11", 
@@ -9473,6 +10050,7 @@
             }, 
             "nos": {
                 "dnsResponse": [
+                    "67.212.76.52", 
                     "67.212.76.52"
                 ], 
                 "status": 0
@@ -9485,7 +10063,7 @@
                 "status": 0
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "series-cravings.me": {
         "blockDate": "2015-11", 
@@ -9507,6 +10085,7 @@
             }, 
             "nos": {
                 "dnsResponse": [
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -9521,7 +10100,7 @@
                 "status": 2
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "serieshared.blogspot.pt": {
         "blockDate": "2016-01", 
@@ -9536,8 +10115,10 @@
                 "status": 2
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "74.125.206.132"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -9568,7 +10149,8 @@
             }, 
             "nos": {
                 "dnsResponse": [
-                    "216.58.211.193"
+                    "216.58.211.193", 
+                    "74.125.206.132"
                 ], 
                 "status": 2
             }, 
@@ -9580,7 +10162,7 @@
                 "status": 2
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "seriestvix.tv": {
         "blockDate": "2015-10", 
@@ -9606,6 +10188,7 @@
             "nos": {
                 "dnsResponse": [
                     "195.23.113.202", 
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -9622,7 +10205,7 @@
                 "status": 2
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "seriesvideobb.com": {
         "blockDate": "2015-10", 
@@ -9646,9 +10229,10 @@
             "nos": {
                 "dnsResponse": [
                     "192.99.40.42", 
-                    "192.99.40.42"
+                    "192.99.40.42", 
+                    "167.114.204.232"
                 ], 
-                "status": 0
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -9659,7 +10243,7 @@
                 "status": 2
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "seriesvideobb.net": {
         "blockDate": "2016-01", 
@@ -9674,8 +10258,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "167.114.204.233"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -9708,6 +10294,7 @@
             "nos": {
                 "dnsResponse": [
                     "193.37.152.25", 
+                    "193.37.152.25", 
                     "193.37.152.25"
                 ], 
                 "status": 0
@@ -9721,7 +10308,7 @@
                 "status": 0
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "skycasino.com": {
         "blockDate": "2016-01", 
@@ -9736,8 +10323,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "194.145.126.166"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -9761,8 +10350,10 @@
                 "status": 2
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -9787,8 +10378,10 @@
                 "status": 2
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -9815,8 +10408,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -9841,8 +10436,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -9872,6 +10469,7 @@
             "nos": {
                 "dnsResponse": [
                     "195.23.113.202", 
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -9888,7 +10486,7 @@
                 "status": 2
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "soccerworld.com": {
         "blockDate": "2016-01", 
@@ -9903,8 +10501,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -9933,6 +10533,7 @@
             "nos": {
                 "dnsResponse": [
                     "195.23.113.202", 
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -9946,7 +10547,7 @@
                 "status": 0
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "solarmovie.ac": {
         "blockDate": "2016-01", 
@@ -9963,8 +10564,11 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "104.18.41.83", 
+                    "104.18.40.83"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -9991,8 +10595,11 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "188.92.78.142", 
+                    "195.3.144.239"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -10019,8 +10626,11 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "104.24.116.104", 
+                    "104.24.117.104"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -10045,8 +10655,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "104.144.112.11"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -10070,8 +10682,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -10095,8 +10709,10 @@
                 "status": 2
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -10125,6 +10741,7 @@
             "nos": {
                 "dnsResponse": [
                     "195.23.113.202", 
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -10138,7 +10755,7 @@
                 "status": 0
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "sportp2p.com": {
         "blockDate": "2016-01", 
@@ -10155,8 +10772,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -10181,8 +10800,10 @@
                 "status": 2
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -10206,8 +10827,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "199.48.206.162"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -10231,8 +10854,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -10260,6 +10885,7 @@
             }, 
             "nos": {
                 "dnsResponse": [
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -10273,7 +10899,7 @@
                 "status": 0
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "sporttvdirecto.info": {
         "blockDate": "2016-01", 
@@ -10288,8 +10914,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -10315,8 +10943,11 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "104.31.85.71", 
+                    "104.31.84.71"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -10343,8 +10974,11 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "104.18.63.167", 
+                    "104.18.62.167"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -10374,6 +11008,7 @@
             "nos": {
                 "dnsResponse": [
                     "195.23.113.202", 
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -10387,7 +11022,7 @@
                 "status": 2
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "sporttvfree.com": {
         "blockDate": "2014-11", 
@@ -10407,6 +11042,7 @@
             "nos": {
                 "dnsResponse": [
                     "195.23.113.202", 
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -10420,7 +11056,7 @@
                 "status": 2
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "sporttvhd.tv": {
         "blockDate": "2014-04", 
@@ -10440,6 +11076,7 @@
             "nos": {
                 "dnsResponse": [
                     "195.23.113.202", 
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -10456,7 +11093,7 @@
                 "status": 2
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "sporttvhdmi.com": {
         "blockDate": "2014-04", 
@@ -10476,6 +11113,7 @@
             "nos": {
                 "dnsResponse": [
                     "195.23.113.202", 
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -10489,7 +11127,7 @@
                 "status": 0
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "sporttvparatodos.com": {
         "blockDate": "2014-11", 
@@ -10507,6 +11145,7 @@
             "nos": {
                 "dnsResponse": [
                     "195.23.113.202", 
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -10516,7 +11155,7 @@
                 "status": -1
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "sportvdirecto.net": {
         "blockDate": "2016-01", 
@@ -10533,8 +11172,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -10561,8 +11202,11 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "104.27.128.142", 
+                    "104.27.129.142"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -10592,6 +11236,7 @@
             "nos": {
                 "dnsResponse": [
                     "195.23.113.202", 
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -10608,7 +11253,7 @@
                 "status": 2
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "sportvgratis.tv": {
         "blockDate": "2014-11", 
@@ -10626,6 +11271,7 @@
             "nos": {
                 "dnsResponse": [
                     "195.23.113.202", 
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -10635,7 +11281,7 @@
                 "status": -1
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "sportvgratis1.com": {
         "blockDate": "2014-04", 
@@ -10655,6 +11301,7 @@
             "nos": {
                 "dnsResponse": [
                     "195.23.113.202", 
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -10668,7 +11315,7 @@
                 "status": 2
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "stanjames.com": {
         "blockDate": "2016-01", 
@@ -10683,8 +11330,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "91.199.56.100"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -10708,8 +11357,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "79.174.133.206"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -10733,8 +11384,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -10760,8 +11413,11 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "104.20.14.149", 
+                    "104.20.15.149"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -10788,8 +11444,11 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "104.24.109.195", 
+                    "104.24.108.195"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -10816,8 +11475,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -10842,8 +11503,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "213.136.82.201"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -10869,8 +11532,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -10895,8 +11560,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "31.3.155.110"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -10920,8 +11587,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "178.132.78.53"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -10945,8 +11614,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "188.165.226.20"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -10981,7 +11652,9 @@
             "nos": {
                 "dnsResponse": [
                     "104.31.70.193", 
-                    "104.31.71.193"
+                    "104.31.71.193", 
+                    "104.31.71.193", 
+                    "104.31.70.193"
                 ], 
                 "status": 0
             }, 
@@ -10995,7 +11668,7 @@
                 "status": 0
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "supercineonline.tv": {
         "blockDate": "2016-01", 
@@ -11012,8 +11685,11 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "104.24.98.109", 
+                    "104.24.99.109"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -11043,6 +11719,7 @@
             "nos": {
                 "dnsResponse": [
                     "195.23.113.202", 
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -11056,7 +11733,7 @@
                 "status": 0
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "telona.org": {
         "blockDate": "2015-11", 
@@ -11078,6 +11755,7 @@
             }, 
             "nos": {
                 "dnsResponse": [
+                    "82.221.105.12", 
                     "82.221.105.12"
                 ], 
                 "status": 0
@@ -11090,7 +11768,7 @@
                 "status": 0
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "tfilm.me": {
         "blockDate": "2016-01", 
@@ -11105,8 +11783,10 @@
                 "status": 2
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -11132,8 +11812,10 @@
                 "status": 2
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -11167,6 +11849,7 @@
             "nos": {
                 "dnsResponse": [
                     "195.23.113.202", 
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -11183,7 +11866,7 @@
                 "status": 2
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "thepiratebay.la": {
         "blockDate": "2015-10", 
@@ -11208,6 +11891,7 @@
             "nos": {
                 "dnsResponse": [
                     "195.23.113.202", 
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -11224,7 +11908,7 @@
                 "status": 2
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "thepiratebay.net": {
         "blockDate": "2015-03", 
@@ -11248,6 +11932,7 @@
             "nos": {
                 "dnsResponse": [
                     "195.23.113.202", 
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -11264,7 +11949,7 @@
                 "status": 2
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "thepiratebay.org": {
         "blockDate": "2015-03", 
@@ -11288,6 +11973,7 @@
             "nos": {
                 "dnsResponse": [
                     "195.23.113.202", 
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -11304,7 +11990,7 @@
                 "status": 2
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "thepiratebay.se": {
         "blockDate": "2015-03", 
@@ -11329,6 +12015,7 @@
             "nos": {
                 "dnsResponse": [
                     "195.23.113.202", 
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -11345,7 +12032,7 @@
                 "status": 2
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "thesporttv.eu": {
         "blockDate": "2014-04", 
@@ -11364,6 +12051,7 @@
             }, 
             "nos": {
                 "dnsResponse": [
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -11380,7 +12068,7 @@
                 "status": 2
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "thewatchseries.to": {
         "blockDate": "2015-10", 
@@ -11404,6 +12092,7 @@
             }, 
             "nos": {
                 "dnsResponse": [
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -11420,7 +12109,7 @@
                 "status": 2
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "tivi77.com": {
         "blockDate": "2016-01", 
@@ -11431,8 +12120,10 @@
                 "status": -1
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [], 
@@ -11455,8 +12146,10 @@
                 "status": 2
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -11488,6 +12181,7 @@
             }, 
             "nos": {
                 "dnsResponse": [
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -11502,7 +12196,7 @@
                 "status": 2
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "toppt.net": {
         "blockDate": "2015-10", 
@@ -11527,6 +12221,7 @@
             "nos": {
                 "dnsResponse": [
                     "195.23.113.202", 
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -11543,7 +12238,7 @@
                 "status": 2
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "toppt.tv": {
         "blockDate": "2015-10", 
@@ -11567,6 +12262,7 @@
             "nos": {
                 "dnsResponse": [
                     "195.23.113.202", 
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -11583,7 +12279,7 @@
                 "status": 2
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "toptorent.org": {
         "blockDate": "2015-11", 
@@ -11605,6 +12301,7 @@
             }, 
             "nos": {
                 "dnsResponse": [
+                    "103.224.182.237", 
                     "103.224.182.237"
                 ], 
                 "status": 0
@@ -11617,7 +12314,7 @@
                 "status": 0
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "toptorrent.org": {
         "blockDate": "2016-01", 
@@ -11632,8 +12329,10 @@
                 "status": 2
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -11669,7 +12368,9 @@
             "nos": {
                 "dnsResponse": [
                     "141.101.118.68", 
-                    "141.101.118.69"
+                    "141.101.118.69", 
+                    "141.101.118.69", 
+                    "141.101.118.68"
                 ], 
                 "status": 0
             }, 
@@ -11683,7 +12384,7 @@
                 "status": 0
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "torrentbutler.eu": {
         "blockDate": "2016-01", 
@@ -11699,8 +12400,10 @@
                 "status": 2
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -11726,8 +12429,10 @@
                 "status": 2
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -11763,6 +12468,8 @@
             "nos": {
                 "dnsResponse": [
                     "141.101.118.50", 
+                    "141.101.118.51", 
+                    "141.101.118.50", 
                     "141.101.118.51"
                 ], 
                 "status": 0
@@ -11777,7 +12484,7 @@
                 "status": 0
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "torrentgamesps2.com.br": {
         "blockDate": "2016-01", 
@@ -11792,8 +12499,10 @@
                 "status": 2
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -11826,6 +12535,7 @@
             }, 
             "nos": {
                 "dnsResponse": [
+                    "88.80.6.5", 
                     "88.80.6.5"
                 ], 
                 "status": 0
@@ -11839,7 +12549,7 @@
                 "status": 0
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "torrentproject.se": {
         "blockDate": "2016-01", 
@@ -11854,8 +12564,10 @@
                 "status": 2
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -11889,6 +12601,7 @@
             "nos": {
                 "dnsResponse": [
                     "195.23.113.202", 
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -11905,7 +12618,7 @@
                 "status": 2
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "torrents.net": {
         "blockDate": "2015-11", 
@@ -11927,6 +12640,7 @@
             }, 
             "nos": {
                 "dnsResponse": [
+                    "88.80.12.58", 
                     "88.80.12.58"
                 ], 
                 "status": 0
@@ -11939,7 +12653,7 @@
                 "status": 0
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "torrentz.eu": {
         "blockDate": "2016-01", 
@@ -11955,8 +12669,10 @@
                 "status": 2
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -11992,7 +12708,7 @@
                     "195.23.113.202", 
                     "195.23.113.202"
                 ], 
-                "status": 2
+                "status": 1
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -12006,7 +12722,7 @@
                 "status": 2
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "tpb.dbpotato.net": {
         "blockDate": "2015-03", 
@@ -12029,6 +12745,7 @@
             }, 
             "nos": {
                 "dnsResponse": [
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -12045,7 +12762,7 @@
                 "status": 2
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "tpb.me": {
         "blockDate": "2015-03", 
@@ -12072,6 +12789,7 @@
             "nos": {
                 "dnsResponse": [
                     "195.23.113.202", 
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -12088,7 +12806,7 @@
                 "status": 2
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "tpb.ninja.so": {
         "blockDate": "2015-03", 
@@ -12110,6 +12828,7 @@
             "nos": {
                 "dnsResponse": [
                     "195.23.113.202", 
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -12126,7 +12845,7 @@
                 "status": 2
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "tpb.partipirate.org": {
         "blockDate": "2015-03", 
@@ -12150,6 +12869,7 @@
             "nos": {
                 "dnsResponse": [
                     "195.23.113.202", 
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -12166,7 +12886,7 @@
                 "status": 2
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "treetorrent.com": {
         "blockDate": "2016-01", 
@@ -12181,8 +12901,10 @@
                 "status": 2
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -12207,8 +12929,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "94.125.59.115"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -12243,7 +12967,9 @@
             "nos": {
                 "dnsResponse": [
                     "104.31.94.160", 
-                    "104.31.95.160"
+                    "104.31.95.160", 
+                    "104.31.95.160", 
+                    "104.31.94.160"
                 ], 
                 "status": 0
             }, 
@@ -12257,7 +12983,7 @@
                 "status": 0
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "tudodownloadpt-pt2.blogspot.pt": {
         "blockDate": "2015-11", 
@@ -12279,6 +13005,7 @@
             }, 
             "nos": {
                 "dnsResponse": [
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -12293,7 +13020,7 @@
                 "status": 2
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "tuga-desporto.com": {
         "blockDate": "2016-01", 
@@ -12308,8 +13035,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "185.61.137.58"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -12344,6 +13073,8 @@
             "nos": {
                 "dnsResponse": [
                     "104.31.75.230", 
+                    "104.31.74.230", 
+                    "104.31.75.230", 
                     "104.31.74.230"
                 ], 
                 "status": 0
@@ -12358,7 +13089,7 @@
                 "status": 0
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "tuga-filmes.info": {
         "blockDate": "2015-10", 
@@ -12387,9 +13118,10 @@
                     "104.31.69.176", 
                     "104.31.68.176", 
                     "104.31.69.176", 
-                    "104.31.68.176"
+                    "104.31.68.176", 
+                    "103.224.182.246"
                 ], 
-                "status": 0
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -12401,7 +13133,7 @@
                 "status": 2
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "tuga-filmes.us": {
         "blockDate": "2016-01", 
@@ -12418,8 +13150,11 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "104.28.27.117", 
+                    "104.28.26.117"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -12454,6 +13189,7 @@
             "nos": {
                 "dnsResponse": [
                     "195.23.113.202", 
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -12470,7 +13206,7 @@
                 "status": 2
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "tuga.su": {
         "blockDate": "2016-01", 
@@ -12483,8 +13219,10 @@
                 "status": 2
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -12518,6 +13256,7 @@
             "nos": {
                 "dnsResponse": [
                     "195.23.113.202", 
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -12534,7 +13273,7 @@
                 "status": 2
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "tugadesportotv.pt": {
         "blockDate": "2016-01", 
@@ -12547,8 +13286,10 @@
                 "status": 2
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -12583,6 +13324,7 @@
             "nos": {
                 "dnsResponse": [
                     "195.23.113.202", 
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -12599,7 +13341,7 @@
                 "status": 2
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "tugafoot.com": {
         "blockDate": "2014-04", 
@@ -12619,6 +13361,7 @@
             "nos": {
                 "dnsResponse": [
                     "195.23.113.202", 
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -12632,7 +13375,7 @@
                 "status": 0
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "tugafoot.us": {
         "blockDate": "2016-01", 
@@ -12643,8 +13386,10 @@
                 "status": -1
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [], 
@@ -12671,6 +13416,7 @@
             "nos": {
                 "dnsResponse": [
                     "195.23.113.202", 
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -12684,7 +13430,7 @@
                 "status": 0
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "tugafoothd.com": {
         "blockDate": "2014-11", 
@@ -12704,6 +13450,7 @@
             "nos": {
                 "dnsResponse": [
                     "195.23.113.202", 
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -12720,7 +13467,7 @@
                 "status": 2
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "tugafree.com": {
         "blockDate": "2016-01", 
@@ -12736,8 +13483,10 @@
                 "status": 2
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -12769,6 +13518,7 @@
             }, 
             "nos": {
                 "dnsResponse": [
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -12783,7 +13533,7 @@
                 "status": 2
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "tugaoxe.com": {
         "blockDate": "2015-10", 
@@ -12807,6 +13557,7 @@
             "nos": {
                 "dnsResponse": [
                     "195.23.113.202", 
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -12823,7 +13574,7 @@
                 "status": 2
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "tugashare.in": {
         "blockDate": "2016-01", 
@@ -12838,8 +13589,10 @@
                 "status": 2
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -12864,8 +13617,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "8.5.1.39"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -12891,8 +13646,11 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "104.28.1.60", 
+                    "104.28.0.60"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -12917,8 +13675,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "193.164.131.131"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -12948,6 +13708,7 @@
             "nos": {
                 "dnsResponse": [
                     "195.23.113.202", 
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -12964,7 +13725,7 @@
                 "status": 2
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "tugastvs.com": {
         "blockDate": "2014-11", 
@@ -12984,6 +13745,7 @@
             "nos": {
                 "dnsResponse": [
                     "195.23.113.202", 
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -12997,7 +13759,7 @@
                 "status": 0
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "tugatorrent.net": {
         "blockDate": "2016-01", 
@@ -13012,8 +13774,10 @@
                 "status": 2
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -13038,8 +13802,10 @@
                 "status": 2
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -13064,8 +13830,10 @@
                 "status": 2
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -13095,6 +13863,7 @@
             "nos": {
                 "dnsResponse": [
                     "195.23.113.202", 
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -13108,7 +13877,7 @@
                 "status": 0
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "tvdospobres.com": {
         "blockDate": "2014-11", 
@@ -13128,6 +13897,7 @@
             "nos": {
                 "dnsResponse": [
                     "195.23.113.202", 
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -13141,7 +13911,7 @@
                 "status": 0
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "tvfree.me": {
         "blockDate": "2016-01", 
@@ -13158,8 +13928,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -13190,6 +13962,7 @@
             "nos": {
                 "dnsResponse": [
                     "195.23.113.202", 
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -13206,7 +13979,7 @@
                 "status": 2
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "tvfree4.me": {
         "blockDate": "2014-04", 
@@ -13227,6 +14000,7 @@
             "nos": {
                 "dnsResponse": [
                     "195.23.113.202", 
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -13243,7 +14017,7 @@
                 "status": 2
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "tvgente.co": {
         "blockDate": "2016-01", 
@@ -13260,8 +14034,11 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "104.24.108.150", 
+                    "104.24.109.150"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -13291,6 +14068,7 @@
             "nos": {
                 "dnsResponse": [
                     "195.23.113.202", 
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -13304,7 +14082,7 @@
                 "status": 0
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "tvgente.eu": {
         "blockDate": "2014-11", 
@@ -13324,6 +14102,7 @@
             "nos": {
                 "dnsResponse": [
                     "195.23.113.202", 
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -13337,7 +14116,7 @@
                 "status": 2
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "tvgente.info": {
         "blockDate": "2016-01", 
@@ -13354,8 +14133,11 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "104.24.127.9", 
+                    "104.24.126.9"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -13380,8 +14162,10 @@
                 "status": 2
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -13410,6 +14194,7 @@
             "nos": {
                 "dnsResponse": [
                     "195.23.113.202", 
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -13423,7 +14208,7 @@
                 "status": 0
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "tviol.com": {
         "blockDate": "2016-01", 
@@ -13440,8 +14225,11 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "104.27.156.43", 
+                    "104.27.157.43"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -13466,8 +14254,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -13493,8 +14283,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -13521,8 +14313,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -13552,6 +14346,7 @@
             "nos": {
                 "dnsResponse": [
                     "195.23.113.202", 
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -13565,7 +14360,7 @@
                 "status": 0
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "tvtoast.com": {
         "blockDate": "2016-01", 
@@ -13581,8 +14376,10 @@
                 "status": 2
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -13612,6 +14409,7 @@
             "nos": {
                 "dnsResponse": [
                     "195.23.113.202", 
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -13628,7 +14426,7 @@
                 "status": 2
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "tvzune.com": {
         "blockDate": "2014-04", 
@@ -13648,6 +14446,7 @@
             "nos": {
                 "dnsResponse": [
                     "195.23.113.202", 
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -13661,7 +14460,7 @@
                 "status": 0
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "uber.com": {
         "blockDate": "2015-10", 
@@ -13710,7 +14509,14 @@
                     "104.36.192.133", 
                     "104.36.192.182", 
                     "104.36.192.135", 
-                    "104.36.192.220"
+                    "104.36.192.220", 
+                    "104.36.192.220", 
+                    "104.36.192.221", 
+                    "104.36.192.132", 
+                    "104.36.192.133", 
+                    "104.36.192.182", 
+                    "104.36.192.183", 
+                    "104.36.192.134"
                 ], 
                 "status": 0
             }, 
@@ -13756,8 +14562,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -13783,8 +14591,10 @@
                 "status": 2
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -13810,8 +14620,10 @@
                 "status": 2
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -13833,7 +14645,7 @@
             }, 
             "nos": {
                 "dnsResponse": [], 
-                "status": -2
+                "status": -1
             }, 
             "vodafone": {
                 "dnsResponse": [], 
@@ -13857,8 +14669,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -13898,6 +14712,8 @@
                     "104.27.176.172", 
                     "104.27.177.172", 
                     "104.27.177.172", 
+                    "104.27.176.172", 
+                    "104.27.177.172", 
                     "104.27.176.172"
                 ], 
                 "status": 0
@@ -13914,7 +14730,7 @@
                 "status": 0
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "warezmovie.net": {
         "blockDate": "2016-01", 
@@ -13930,8 +14746,10 @@
                 "status": 2
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -13964,6 +14782,7 @@
             }, 
             "nos": {
                 "dnsResponse": [
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -13978,7 +14797,7 @@
                 "status": 2
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "watchepisode.tv": {
         "blockDate": "2016-01", 
@@ -13994,8 +14813,10 @@
                 "status": 2
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -14020,8 +14841,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -14046,8 +14869,10 @@
                 "status": 2
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -14087,7 +14912,9 @@
                     "104.31.87.125", 
                     "104.31.86.125", 
                     "104.31.87.125", 
-                    "104.31.86.125"
+                    "104.31.86.125", 
+                    "104.31.86.125", 
+                    "104.31.87.125"
                 ], 
                 "status": 0
             }, 
@@ -14103,7 +14930,7 @@
                 "status": 0
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "watchseries.lt": {
         "blockDate": "2015-10", 
@@ -14128,6 +14955,7 @@
             "nos": {
                 "dnsResponse": [
                     "195.23.113.202", 
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -14144,7 +14972,7 @@
                 "status": 2
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "wikitv.eu": {
         "blockDate": "2016-01", 
@@ -14159,8 +14987,10 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -14184,8 +15014,10 @@
                 "status": 2
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -14216,8 +15048,10 @@
                 "status": 2
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -14238,8 +15072,10 @@
                 "status": -1
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [], 
@@ -14262,8 +15098,10 @@
                 "status": 2
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -14290,8 +15128,11 @@
                 "status": 0
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "104.28.12.32", 
+                    "104.28.13.32"
+                ], 
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -14324,6 +15165,7 @@
             }, 
             "nos": {
                 "dnsResponse": [
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -14338,7 +15180,7 @@
                 "status": 2
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "yts.to": {
         "blockDate": "2015-10", 
@@ -14360,6 +15202,7 @@
             "nos": {
                 "dnsResponse": [
                     "195.23.113.202", 
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -14376,7 +15219,7 @@
                 "status": 2
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }, 
     "zonatugatv.com": {
         "blockDate": "2016-01", 
@@ -14389,8 +15232,10 @@
                 "status": 2
             }, 
             "nos": {
-                "dnsResponse": [], 
-                "status": -2
+                "dnsResponse": [
+                    "195.23.113.202"
+                ], 
+                "status": 2
             }, 
             "vodafone": {
                 "dnsResponse": [
@@ -14420,6 +15265,7 @@
             "nos": {
                 "dnsResponse": [
                     "195.23.113.202", 
+                    "195.23.113.202", 
                     "195.23.113.202"
                 ], 
                 "status": 2
@@ -14433,6 +15279,6 @@
                 "status": 2
             }
         }, 
-        "reason": "Copyright"
+        "reason": "copyright"
     }
 }
