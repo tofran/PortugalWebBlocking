@@ -44,6 +44,7 @@ Status codes:
 - [jquery](https://jquery.com/)
 - [tablesorter](https://github.com/christianbach/tablesorter)
 - [GitHub Corners](https://github.com/tholman/github-corners)
+- [Stop hand](https://en.wikipedia.org/wiki/File:Stop_hand.svg)
 
 
 ## License
