@@ -27,6 +27,11 @@ ol{
   margin: 3px 0px 0px 20px;
   padding: 0px
 }
+.discaimer{
+  font-size: 13px;
+  max-width: 1000px;
+  margin: 0 auto 0 auto;
+}
 ::selection {
   background: #C9C9C9;
 } 
@@ -80,12 +85,3 @@ ol{
 #mainTable tbody tr td img + span{
   display: none;
 }
-/*
-#mainTable tbody tr td[data-status=true]::after {
-  content: url('../media/blocked.png');
-}
-#mainTable tbody tr td[more]:hover:after{
-  content: attr(more);
-  content: "test";
-}
-*/
