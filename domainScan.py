@@ -126,8 +126,7 @@ def scanDnsISP(isp, dnsAddres):
 	dnsResolver.lifetime = 1
 
 	for host in jsonData:
-		if isp not in jsonData[host]['isp']:
-			jsonData[host]['isp'][isp]= {'dnsResponse': []}
+		jsonData[host]['isp'][isp]['dnsResponse'] = []
 		try:
 			response = dnsResolver.query(host, 'A')
 			for eachRecord in response:
