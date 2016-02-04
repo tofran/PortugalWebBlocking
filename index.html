@@ -10,22 +10,51 @@
 	<body>
 		<main>
 			<h1>List of websites/domains blocked by ISP's in Portugal</h1>
-			<div id="caption">
-			Reference DNS: <b id="referenceDns">Google public DNS</b>.
-			<br />
-			Status Codes:
-			<ol start="-2">
-				<li><img src="web/media/-2.png" alt="-2" /> Not Scanned;</li>
-				<li><img src="web/media/-1.png" alt="-1" /> Can't be Resolved (Neither the reference DNS neither the ISP's DNS could resolve);</li>
-				<li><img src="web/media/0.png" alt="1" /> Not Blocked;</li>
-				<li><img src="web/media/1.png" alt="1" /> DNS Blocked (The DNS did not reply, but the domain was resolved by the reference DNS. See <a href="https://en.wikipedia.org/wiki/DNS_blocking">DNS blocking</a>);</li>
-				<li><img src="web/media/2.png" alt="0" /> DNS 'Redirect' (The DNS replied differently from what it actually is. See <a href="https://en.wikipedia.org/wiki/DNS_hijacking">DNS hijacking</a>).</li>
-			</ol>
-		</div>
-			<p>
-				<b id="domainCount">0</b> domains loaded from <a href="blockList.json">blockList.json</a>
-			</p>
-			<br />
+			<section>
+				<h2>Why</h2>
+				<p>The purpose of this website/repository is to list in public domain the websites blocked by ISP's in Portugal, mostly because there is no official source or information: - The regulating identities issue blocking requests to ISP's without public information, blocking can vary between ISP's and sometimes there are websites blocked by mistake.</p>
+			</section>
+			<section id="caption">
+				<h2>Caption</h2>
+				Reference DNS: <b id="referenceDns">Google public DNS</b>.
+				<br />
+				Status Codes:
+				<ol start="-2">
+					<li><img src="web/media/-2.png" alt="-2" /> Not Scanned;</li>
+					<li><img src="web/media/-1.png" alt="-1" /> Can't be Resolved (Neither the reference DNS neither the ISP's DNS could resolve);</li>
+					<li><img src="web/media/0.png" alt="1" /> Not Blocked;</li>
+					<li><img src="web/media/1.png" alt="1" /> DNS Blocked (The DNS did not reply, but the domain was resolved by the reference DNS. See <a href="https://en.wikipedia.org/wiki/DNS_blocking">DNS blocking</a>);</li>
+					<li><img src="web/media/2.png" alt="0" /> DNS 'Redirect' (The DNS replied differently from what it actually is. See <a href="https://en.wikipedia.org/wiki/DNS_hijacking">DNS hijacking</a>).</li>
+				</ol>
+			</section>
+			<section>
+				<h2>Stats</h2>
+				<p>
+					<b id="domainCount">0</b> domains loaded from <a href="blockList.json">blockList.json</a>
+				</p>
+				<table id="statsTable">
+					<thead>
+						<tr>
+							<th></th>
+							<th><img src="web/media/-2.png" alt="Not Scanned" /></th>
+							<th><img src="web/media/-1.png" alt="Can't be Resolved" /></th>
+							<th><img src="web/media/0.png" alt="Not Blocked" /></th>
+							<th><img src="web/media/1.png" alt="DNS Blocked" /></th>
+							<th><img src="web/media/2.png" alt="DNS 'Redirect'" /></th>
+						</tr>
+					</thead>
+					<tbody>
+						<!--<tr>
+							<th>a</th>
+							<td>20</td>
+							<td>20</td>
+							<td>2</td>
+							<td>20</td>
+							<td>3</td>
+						</tr>-->
+					</tbody>
+				</table>
+			</section>
 			<!--<div id="warning"></div>-->
 			<table id="mainTable" cellspacing="0" cellpadding="0">
 				<thead>
@@ -45,7 +74,7 @@
 		</main>
 		<footer>
 			<p>Made by <a href="http://tofran.com">ToFran</a>, source availabe on <a href="https://github.com/ToFran/PortugalPiracyBlocking">github</a> (feel free to contribute). </p>
-			<p class="discaimer">Hope you understand that the purpose of this website is to literally list in public domain the websites blocked in Portugal, mostly because there is no official source or information (the regulating identities issue blocking requests to ISP's without public information) and blocking can vary between ISP's. I DO NOT encourage neither piracy nor visiting any of the websites listed above. I just like <a href="https://en.wikipedia.org/wiki/Freedom_of_speech" target="_blank">freedom of speech</a> and think that <a href="https://en.wikipedia.org/wiki/Internet_censorship" target="_blank">internet censorship</a> may be a step in the wrong direction .</p>
+			<p class="discaimer">I DO NOT encourage neither piracy nor visiting any of the websites listed above. I just like <a href="https://en.wikipedia.org/wiki/Freedom_of_speech" target="_blank">freedom of speech</a> and think that <a href="https://en.wikipedia.org/wiki/Internet_censorship" target="_blank">internet censorship</a> may be a step in the wrong direction .</p>
 		</footer>
 
 		<!-- Github Corners -->

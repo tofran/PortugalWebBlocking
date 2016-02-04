@@ -1,87 +1,97 @@
 body {
-  font-family: 'Arimo', sans-serif;
+	font-family: 'Arimo', sans-serif;
 }
-h1, h1 ~ p, footer {
-  text-align: center;
+h1, h2, footer, p, #statsTable {
+	text-align: center;
 }
-h1 {
-  font-size: 24px;
+h1{
+	font-size: 24px;
+}
+h2{
+	font-size: 16px;
 }
 #warning {
-  width: 320px;
-  text-align: center;
-  background-color: #ce3e3e;;
-  padding: 10px;
-  color: white;
-  margin: 10px auto 20px auto; 
+	width: 320px;
+	text-align: center;
+	background-color: #ce3e3e;
+	padding: 10px;
+	color: white;
+	margin: 10px auto 20px auto; 
 }
-#caption {
-  font-size: 14px;
-  margin: 0px auto 0px auto;
-  width: 550px;
-  line-height: 140%;
-  padding-left: 50px;
+section {
+	font-size: 15px;
+	margin: 0px auto 10px auto;
+	line-height: 140%;
+	max-width: 600px;
 }
 ol{
-  font-size: 13px;
-  margin: 3px 0px 0px 20px;
-  padding: 0px
+	font-size: 13px;
+	margin: 3px 0px 0px 20px;
+	padding: 0px
 }
 .discaimer{
-  font-size: 13px;
-  max-width: 1000px;
-  margin: 0 auto 0 auto;
+	font-size: 13px;
+	margin: 0 auto 0 auto;
 }
 ::selection {
-  background: #C9C9C9;
+	background: #C9C9C9;
 } 
-#mainTable {
-  margin: 0 auto 20px auto;
-  min-width: 100%;
+table{
+	margin: 0 auto 30px auto;
 }
-#mainTable thead {
-  cursor: pointer;
-  background-color: #CCCCCC;
+th {
+	background-color: #CCCCCC;
+}
+#mainTable {
+	min-width: 100%;
+}
+thead {
+	cursor: pointer;
 }
 #mainTable thead tr th {
-  font-weight: bold;
-  padding: 10px 0px 10px 14px;
-  border: solid 1px white;
+	font-weight: bold;
+	padding: 10px 0px 10px 14px;
+	border: solid 1px white;
 }
 #mainTable thead tr th span {
-  padding-right: 20px;
-  background-repeat: no-repeat;
-  background-position: 100% 100%;
+	padding-right: 20px;
+	background-repeat: no-repeat;
+	background-position: 100% 100%;
 }
-#mainTable thead tr th span:hover{
-  background-image: url('../media/arrowHover.png');
+#mainTable thead tr th span:hover {
+	background-image: url('../media/arrowHover.png');
 }
 #mainTable thead tr th.headerSortUp, #mainTable thead tr th.headerSortDown {
-  background: #c1cdd6;
+	background: #c1cdd6;
 }
 #mainTable thead tr th.headerSortUp span {
-  background-image: url('../media/arrowUp.png');
+	background-image: url('../media/arrowUp.png');
 }
 #mainTable thead tr th.headerSortDown span {
-  background-image: url('../media/arrowDown.png');
+	background-image: url('../media/arrowDown.png');
 }
 #mainTable tbody tr {
-  color: #333333;
-  font-size: 16px;
+	color: #333333;
+	font-size: 16px;
 }
 #mainTable tbody tr:hover {
-  background-color: #E4E4E4;
+	background-color: #E4E4E4;
 }
 #mainTable tbody tr td {
-  text-align: center;
-  padding: 10px;
+	text-align: center;
+	padding: 10px;
 }
 #mainTable tbody tr td.lalign {
-  text-align: left;
-}
-.hidden{
-  display: none;
+	text-align: left;
 }
 #mainTable tbody tr td img + span{
-  display: none;
+	display: none;
+}
+#statsTable td, #statsTable th{
+	min-width: 60px;
+	height: 25px;
+	padding: 5px 16px 0px 16px;
+}
+.hidden{
+	display: none;
 }
