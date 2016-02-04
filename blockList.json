@@ -5138,7 +5138,7 @@
                 "dnsResponse": [
                     "72.29.73.91"
                 ], 
-                "status": 2
+                "status": 0
             }, 
             "vodafone": {
                 "dnsResponse": [], 
