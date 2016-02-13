@@ -7,18 +7,37 @@ This repo contains (some of) the domains currently being blocked by ISP's in Por
 **blockList.json** - A detailed JSON file with all the domains, that follows the following format:
 ```JSON
 {
-	"domain.name" : {
-		"blockDate" : "yyyy-MM",
-		"ip" : ["0.0.0.0"],
-		"isp" : {
+	"info" : {
+		"isps" : {
 			"ispName" : {
-				"status" : 0,
-				"dnsResponse" : [
-					"255.255.255.255"
-				]
+				"dnsAdress" : ["0.0.0.0"],
+				"lastScan" : ["yyyy-MM-ddThh:mm:ss"]
 			}
 		},
-		"reason": "Why was the website blocked? (Copyright | Gambling | 'Mistake' | Unknown)"
+		"reference" : {
+			"name" : "Google Public DNS",
+			"dnsAdress" : ["8.8.8.8", "8.8.4.4"],
+			"lastScan" : ["yyyy-MM-ddThh:mm:ss"]
+		}
+	},
+	"domains":{
+		"domain.name" : {
+			"hosts": {
+				"@": {
+					"blockDate" : "yyyy-MM",
+					"ip" : ["0.0.0.0"],
+					"reason": "Why was the website blocked? (Copyright | Gambling | 'Mistake' | Unknown)",
+					"isp" : {
+						"ispName" : {
+							"status" : 0,
+							"dnsResponse" : [
+								"255.255.255.255"
+							]
+						}
+					}
+				}
+			}
+		}
 	}
 }
 ```
@@ -29,7 +48,6 @@ Status codes:
 * `0` Not Blocked (Same response, self-explanatory);
 * `1` DNS Blocked (The DNS did not reply, but the domain was resolved by the reference DNS);
 * `0` DNS Redirect (The DNS replied with a different IP from what it actually is).
-
 
 
 **domainScan.py** - the script used to scan and generate the data for all the domains
@@ -44,11 +62,11 @@ Status codes:
 - [jquery](https://jquery.com/)
 - [tablesorter](https://github.com/christianbach/tablesorter)
 - [GitHub Corners](https://github.com/tholman/github-corners)
-- [Stop hand](https://en.wikipedia.org/wiki/File:Stop_hand.svg)
+- [Stop hand icon](https://en.wikipedia.org/wiki/File:Stop_hand.svg)
 
 
 ## License
 
-MIT
+[MIT](LICENSE)
 
 [1]: <http://tofran.github.io/PortugalWebBlocking/>
