@@ -1,26 +1,20 @@
 [{
 		"name" : "google",
-		"address" : "8.8.8.8",
-		"enable" : true
+		"address" : ["8.8.8.8", "8.8.4.4"],
 	}, {
 		"name" : "opendns",
-		"address" : "208.67.222.222",
-		"enable" : false
+		"address" : ["208.67.222.222"],
 	}, {
 		"name" : "meo",
-		"address" : "194.65.3.21",
-		"enable" : true
+		"address" : ["194.65.3.21"],
 	}, {
 		"name" : "vodafone",
-		"address" : "212.18.160.133",
-		"enable" : true
+		"address" : ["212.18.160.133"],
 	}, {
 		"name" : "cabovisao",
-		"address" : "213.228.128.5",
-		"enable" : true
+		"address" : ["213.228.128.5"],
 	}, {
 		"name" : "nos",
-		"address" : "212.113.191.130",
-		"enable" : true
+		"address" : ["212.113.191.130"],
 	}
 ]
