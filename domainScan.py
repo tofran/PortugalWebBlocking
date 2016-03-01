@@ -10,16 +10,12 @@ __email__ = "me@tofran.com"
 
 ##########
 
-import socket
-import dns.resolver
-import json
-import datetime
+import socket, json, datetime, dns.resolver, urllib, logging
 
 ##########
 
 #jsonData: the hosts data as a JSON object
 jsonData = dict()
-
 
 """
 	imports domains from a TXT file
@@ -29,7 +25,7 @@ jsonData = dict()
 def importFromTXT(filePath, date, reason = 'copyright'):
 	global jsonData
 	result = {'added': [], 'alreadyInList': []}
-	with open(filePath) as f:
+	with open(filePath, 'r') as f:
 		for domain in f:
 			domain = host.strip()
 			if add(domain, date, reason):
@@ -45,12 +41,22 @@ def importFromTXT(filePath, date, reason = 'copyright'):
 	@param date the date that the domain was blocked
 	@param reason the reason
 """
-def importFromJsonArray(filePath, date, reason = 'copyright'):
+def importFromJsonArray(filePath = None, date = None, reason = 'copyright', url = None):
 	global jsonData
+	domainArray = dict()
+	if filePath is not None and url is None:
+		with open(filePath, 'r') as f:
+			domainArray = json.load(f)
+		f.close()
+	elif filePath is None and url is not None:
+		domainArray = json.loads(urllib.urlopen(url).read())
+	else:
+		return
+
 	result = {'added': [], 'alreadyInList': []}
-	with open(filePath) as f:
-		domainArray = json.load(f)
-	f.close()
+	if date is None:
+		date = datetime.datetime.now().strftime('%Y-%m')
+
 	for domain in domainArray:
 		if add(domain, date, reason):
 			result['added'].append(domain)
@@ -89,7 +95,7 @@ def add(domain, date, reason):
 """
 def loadJson(filePath):
 	global jsonData
-	with open(filePath) as f:
+	with open(filePath, 'r') as f:
 		jsonData = json.load(f)
 	f.close()
 
@@ -108,11 +114,13 @@ def outputToJsonFile(filePath):
 def outputToTXTFile(filePath):
 	global jsonData
 	with open(filePath, 'w') as f:
-		for domain in sorted(jsonData['domains']):
-			for sub in domain['hosts']:
+		for domain in jsonData['domains']:
+			for sub in jsonData['domains'][domain]['hosts']:
 				if sub == '@':
 					sub = ''
-				f.write(sub + '.' + host + '\n')
+				else:
+					sub += '.'
+				f.write(sub + domain + '\n')
 		f.close()
 
 """
