@@ -208,10 +208,11 @@ def printAllData():
 	@param dnsAddres the dns address
 	@param host the host to resolve
 '''
-def testDns(dnsAddres = '8.8.8.8', host = 'google.com'):
-	global jsonData
+def testDns(dnsAddres = '8.8.8.8', host = 'google.com', timeout = 2, lifetime = 2):
 	dnsResolver = dns.resolver.Resolver()
 	dnsResolver.nameservers = [dnsAddres]
+	dnsResolver.timeout = timeout
+	dnsResolver.lifetime = lifetime
 	try:
 		print host + ' resolved into ' + str(dnsResolver.query(host, 'A')[0]) + ' by ' + dnsAddres
 	except Exception as e:
