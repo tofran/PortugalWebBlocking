@@ -79,7 +79,7 @@ def add(domain, date, reason):
 	if domain.count('.') >= 2 and (part[-2] == 'co' or part[-2] == 'com'):
 		fqdn = part[-3] + '.' + fqdn
 	if fqdn not in jsonData['domains']:
-		jsonData['domains'][fqdn] = {'hosts': {'@': default}}
+		jsonData['domains'][fqdn] = {'hosts': {'@': default, 'www': default}}
 		result = True
 	if len(domain) > len(fqdn):
 		subdomain = ''
@@ -223,10 +223,21 @@ def testDns(dnsAddres = '8.8.8.8', host = 'google.com', timeout = 2, lifetime = 
 	@todo
 """
 def removeNotBlocked():
-	print '@todo'
+	global jsonData
+	for domain in jsonData['domains']:
+		for host in jsonData['domains'][domain]['hosts']:
+			remove = True
+			for isp in jsonData['domains'][domain]['hosts'][host]['isp']:
+				if jsonData['domains'][domain]['hosts'][host]['isp'][isp]['status'] != 0:
+					remove = False
+			if remove:
+				del jsonData['domains'][domain]['hosts'][host]
 
-#adds www and @ if missing
+'''
+	adds www and @ if missing
+'''
 def addMissingSubdomains():
+	global jsonData
 	requiredHosts = ['@', 'www']
 	for domain in jsonData['domains']:
 		prevData = {}
@@ -237,6 +248,7 @@ def addMissingSubdomains():
 		for host in requiredHosts:
 			if host not in jsonData['domains'][domain]['hosts'] or not bool(jsonData['domains'][domain]['hosts'][host]):
 				jsonData['domains'][domain]['hosts'][host] = {'blockDate': prevData['blockDate'], 'ip': [], 'isp': { }, 'reason': prevData['reason']}
+
 
 
 
