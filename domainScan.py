@@ -224,14 +224,21 @@ def testDns(dnsAddres = '8.8.8.8', host = 'google.com', timeout = 2, lifetime = 
 """
 def removeNotBlocked():
 	global jsonData
+	removed = {'list': [], 'tree': []}
 	for domain in jsonData['domains']:
-		for host in jsonData['domains'][domain]['hosts']:
+		for subdomain in jsonData['domains'][domain]['hosts']:
+			host = subdomain + '.' + domain if subdomain != '@' else domain
 			remove = True
-			for isp in jsonData['domains'][domain]['hosts'][host]['isp']:
-				if jsonData['domains'][domain]['hosts'][host]['isp'][isp]['status'] != 0:
+			for isp in jsonData['domains'][domain]['hosts'][subdomain]['isp']:
+				if jsonData['domains'][domain]['hosts'][subdomain]['isp'][isp]['status'] != 0:
 					remove = False
 			if remove:
-				del jsonData['domains'][domain]['hosts'][host]
+				removed['list'].append(host)
+				removed['tree'].append([domain, subdomain])
+	for each in removed['tree']:
+		del jsonData['domains'][each[0]]['hosts'][each[1]]
+	print json.dumps(removed['list'], ensure_ascii=True, sort_keys=True, indent=3)
+	print 'count = ' + str(len(removed['list']))
 
 '''
 	adds www and @ if missing
