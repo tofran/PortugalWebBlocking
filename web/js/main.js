@@ -58,8 +58,8 @@ $.getJSON('blockList.json', function(jsonData) {
 		};
 		var date = new Date(jsonData.info.isps[eachIsp].lastScan);
 		newTr.innerHTML += "<td>" + date.toString().slice(0, 24) + "</td>";
+		statsTable.appendChild(newTr);
 	};
-
 	$('#statsTable').tablesorter();
 	$('#mainTable').tablesorter();
 });
