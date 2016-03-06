@@ -20,9 +20,11 @@ h2{
 }
 section {
 	font-size: 15px;
-	margin: 0px auto 10px auto;
 	line-height: 140%;
-	max-width: 600px;
+}
+section.center{
+	margin: 0px auto 10px auto;
+	max-width: 680px;
 }
 ol{
 	font-size: 13px;
