@@ -88,9 +88,9 @@ thead {
 	display: none;
 }
 #statsTable td, #statsTable th{
-	min-width: 60px;
 	height: 25px;
-	padding: 5px 16px 0px 16px;
+	padding: 5px 24px 0px 24px;
+	white-space: nowrap;
 }
 .hidden{
 	display: none;
