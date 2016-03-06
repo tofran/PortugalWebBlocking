@@ -29,9 +29,9 @@ $.getJSON('blockList.json', function(jsonData) {
 			var ispPos = 0;
 			for(var eachIsp in jsonData.info.isps){
 				if(!(eachIsp in current.isp)){
-					current.isp[eachIsp] = {"dnsResponse": [], "status": -1 };
+					current.isp[eachIsp] = {"dnsResponse": [], "status": -2 };
 				};
-				newTr.innerHTML += "<td><img alt='status' " + //@todo do this with css
+				newTr.innerHTML += "<td><img alt='status' " +
 									"src='web/media/" + current.isp[eachIsp].status  + ".png'>" + 
 									"<span>" + current.isp[eachIsp].status + 
 									"</spam></td>";
@@ -57,10 +57,7 @@ $.getJSON('blockList.json', function(jsonData) {
 			newTr.innerHTML += "<td>" + stats[eachIsp][i] + "</td>";
 		};
 		var date = new Date(jsonData.info.isps[eachIsp].lastScan);
-		console.log(date.getMonth());
-		newTr.innerHTML += "<td>" + date.toString().slice(0, 24) + "</td>"; //date.getFullYear() + '/' + date.getMonth() + 1 + '/' + date.getDate();
-		statsTable.appendChild(newTr);
-		
+		newTr.innerHTML += "<td>" + date.toString().slice(0, 24) + "</td>";
 	};
 
 	$('#statsTable').tablesorter();
