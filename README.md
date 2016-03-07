@@ -69,4 +69,4 @@ Status codes:
 
 [MIT](LICENSE)
 
-[1]: <http://tofran.github.io/PortugalWebBlocking/>
+[1]: <https://tofran.github.io/PortugalWebBlocking/>
