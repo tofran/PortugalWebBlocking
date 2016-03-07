@@ -230,7 +230,8 @@ def removeNotBlocked():
 			host = subdomain + '.' + domain if subdomain != '@' else domain
 			remove = True
 			for isp in jsonData['domains'][domain]['hosts'][subdomain]['isp']:
-				if jsonData['domains'][domain]['hosts'][subdomain]['isp'][isp]['status'] != 0:
+				status = jsonData['domains'][domain]['hosts'][subdomain]['isp'][isp]['status']
+				if status != 0 and status != -1:
 					remove = False
 			if remove:
 				removed['list'].append(host)
@@ -257,11 +258,9 @@ def addMissingSubdomains():
 				jsonData['domains'][domain]['hosts'][host] = {'blockDate': prevData['blockDate'], 'ip': [], 'isp': { }, 'reason': prevData['reason']}
 
 
-
-
 '''''''''
 	These are some stupid methods to fix/destroy the data - to make really specific things...
-	THESE FUNCTIONS ARE OUTDATED, AND DO NOT WORK WITH THE NEW DATA STRUCTURE!
+	(some of) THESE FUNCTIONS ARE OUTDATED, AND DO NOT WORK WITH THE NEW DATA STRUCTURE!
 #fix the status
 def fixStatus(ispName = 'meo'):
 	global jsonData
@@ -358,4 +357,11 @@ def mergeSubdomains():
 			subdomain += part[i] + '.'
 		jsonData['domains'][part[-2] + '.' + part[-1]]['hosts'][subdomain[:-1]] = jsonData['domains'][host]
 		del jsonData['domains'][host]
+
+def remCabovisao():
+	for domain in jsonData['domains']:
+		for subdomain in jsonData['domains'][domain]['hosts']:
+			if 'cabovisao' in jsonData['domains'][domain]['hosts'][subdomain]['isp']:
+				print subdomain + '.' + domain
+				del jsonData['domains'][domain]['hosts'][subdomain]['isp']['cabovisao']
 '''''''''''''''
