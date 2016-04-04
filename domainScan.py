@@ -53,15 +53,13 @@ def importFromJsonArray(filePath = None, date = None, reason = 'copyright', url 
 	else:
 		return
 
-	result = {'added': [], 'alreadyInList': []}
+	result = {'added': []}
 	if date is None:
 		date = datetime.datetime.now().strftime('%Y-%m')
 
 	for domain in domainArray:
 		if add(domain, date, reason):
 			result['added'].append(domain)
-		else:
-			result['alreadyInList'].append(domain)
 	print json.dumps(result, ensure_ascii=True, sort_keys=True, indent=3)
 
 """
