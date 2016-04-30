@@ -365,6 +365,12 @@
                                 "212.188.185.233"
                             ], 
                             "status": 0
+                        }, 
+                        "nos": {
+                            "dnsResponse": [
+                                "212.188.185.233"
+                            ], 
+                            "status": 0
                         }
                     }, 
                     "reason": "copyright"
@@ -381,6 +387,13 @@
                                 "213.13.145.120"
                             ], 
                             "status": 2
+                        }, 
+                        "nos": {
+                            "dnsResponse": [
+                                "91.202.203.186", 
+                                "91.202.203.131"
+                            ], 
+                            "status": 0
                         }
                     }, 
                     "reason": "copyright"
@@ -646,6 +659,12 @@
                                 "213.13.145.120"
                             ], 
                             "status": 2
+                        }, 
+                        "nos": {
+                            "dnsResponse": [
+                                "195.23.113.202"
+                            ], 
+                            "status": 2
                         }
                     }, 
                     "reason": "copyright"
@@ -663,6 +682,12 @@
                                 "104.18.38.129"
                             ], 
                             "status": 0
+                        }, 
+                        "nos": {
+                            "dnsResponse": [
+                                "195.23.113.202"
+                            ], 
+                            "status": 2
                         }
                     }, 
                     "reason": "copyright"
@@ -683,6 +708,12 @@
                                 "213.13.145.120"
                             ], 
                             "status": 2
+                        }, 
+                        "nos": {
+                            "dnsResponse": [
+                                "195.23.113.202"
+                            ], 
+                            "status": 2
                         }
                     }, 
                     "reason": "copyright"
@@ -695,6 +726,13 @@
                     ], 
                     "isp": {
                         "meo": {
+                            "dnsResponse": [
+                                "104.25.81.4", 
+                                "104.25.80.4"
+                            ], 
+                            "status": 0
+                        }, 
+                        "nos": {
                             "dnsResponse": [
                                 "104.25.81.4", 
                                 "104.25.80.4"
@@ -1101,6 +1139,12 @@
                                 "213.13.145.120"
                             ], 
                             "status": 2
+                        }, 
+                        "nos": {
+                            "dnsResponse": [
+                                "195.23.113.202"
+                            ], 
+                            "status": 2
                         }
                     }, 
                     "reason": "copyright"
@@ -1110,6 +1154,10 @@
                     "ip": [], 
                     "isp": {
                         "meo": {
+                            "dnsResponse": [], 
+                            "status": -1
+                        }, 
+                        "nos": {
                             "dnsResponse": [], 
                             "status": -1
                         }
@@ -1131,6 +1179,12 @@
                                 "5.189.130.142"
                             ], 
                             "status": 0
+                        }, 
+                        "nos": {
+                            "dnsResponse": [
+                                "5.189.130.142"
+                            ], 
+                            "status": 0
                         }
                     }, 
                     "reason": "copyright"
@@ -1144,6 +1198,12 @@
                         "meo": {
                             "dnsResponse": [
                                 "213.13.145.120"
+                            ], 
+                            "status": 2
+                        }, 
+                        "nos": {
+                            "dnsResponse": [
+                                "195.23.113.202"
                             ], 
                             "status": 2
                         }
@@ -1441,8 +1501,8 @@
                         }, 
                         "nos": {
                             "dnsResponse": [
-                                "104.28.11.12", 
-                                "104.28.10.12"
+                                "104.28.10.12", 
+                                "104.28.11.12"
                             ], 
                             "status": 0
                         }, 
@@ -1534,10 +1594,8 @@
                             "status": 2
                         }, 
                         "nos": {
-                            "dnsResponse": [
-                                "195.23.113.202"
-                            ], 
-                            "status": 2
+                            "dnsResponse": [], 
+                            "status": 1
                         }, 
                         "vodafone": {
                             "dnsResponse": [
@@ -1814,6 +1872,16 @@
                                 "104.16.113.150"
                             ], 
                             "status": 0
+                        }, 
+                        "nos": {
+                            "dnsResponse": [
+                                "104.16.114.150", 
+                                "104.16.115.150", 
+                                "104.16.113.150", 
+                                "104.16.112.150", 
+                                "104.16.116.150"
+                            ], 
+                            "status": 0
                         }
                     }, 
                     "reason": "copyright"
@@ -1833,6 +1901,16 @@
                                 "213.13.145.120"
                             ], 
                             "status": 2
+                        }, 
+                        "nos": {
+                            "dnsResponse": [
+                                "104.16.113.150", 
+                                "104.16.112.150", 
+                                "104.16.116.150", 
+                                "104.16.114.150", 
+                                "104.16.115.150"
+                            ], 
+                            "status": 0
                         }
                     }, 
                     "reason": "copyright"
@@ -2119,10 +2197,8 @@
                             "status": 2
                         }, 
                         "nos": {
-                            "dnsResponse": [
-                                "195.23.113.202"
-                            ], 
-                            "status": 2
+                            "dnsResponse": [], 
+                            "status": 1
                         }, 
                         "vodafone": {
                             "dnsResponse": [
@@ -2397,7 +2473,7 @@
                         }, 
                         "nos": {
                             "dnsResponse": [
-                                "216.58.210.137"
+                                "216.58.214.169"
                             ], 
                             "status": 2
                         }, 
@@ -2453,7 +2529,7 @@
                         }, 
                         "nos": {
                             "dnsResponse": [
-                                "216.58.211.225"
+                                "216.58.210.161"
                             ], 
                             "status": 2
                         }, 
@@ -2480,7 +2556,7 @@
                         }, 
                         "nos": {
                             "dnsResponse": [
-                                "216.58.210.169"
+                                "216.58.211.233"
                             ], 
                             "status": 2
                         }, 
@@ -2511,7 +2587,7 @@
                         }, 
                         "nos": {
                             "dnsResponse": [
-                                "216.58.211.233"
+                                "216.58.210.137"
                             ], 
                             "status": 2
                         }, 
@@ -2567,7 +2643,7 @@
                         }, 
                         "nos": {
                             "dnsResponse": [
-                                "216.58.211.225"
+                                "216.58.214.161"
                             ], 
                             "status": 2
                         }, 
@@ -2622,7 +2698,7 @@
                         }, 
                         "nos": {
                             "dnsResponse": [
-                                "216.58.211.225"
+                                "216.58.210.161"
                             ], 
                             "status": 2
                         }, 
@@ -2644,6 +2720,12 @@
                         "meo": {
                             "dnsResponse": [
                                 "213.13.145.120"
+                            ], 
+                            "status": 2
+                        }, 
+                        "nos": {
+                            "dnsResponse": [
+                                "195.23.113.202"
                             ], 
                             "status": 2
                         }
@@ -2693,7 +2775,7 @@
                         }, 
                         "nos": {
                             "dnsResponse": [
-                                "216.58.210.169"
+                                "216.58.214.169"
                             ], 
                             "status": 2
                         }, 
@@ -3716,6 +3798,12 @@
                                 "158.69.225.10"
                             ], 
                             "status": 0
+                        }, 
+                        "nos": {
+                            "dnsResponse": [
+                                "158.69.225.10"
+                            ], 
+                            "status": 0
                         }
                     }, 
                     "reason": "copyright"
@@ -3729,6 +3817,12 @@
                         "meo": {
                             "dnsResponse": [
                                 "213.13.145.120"
+                            ], 
+                            "status": 2
+                        }, 
+                        "nos": {
+                            "dnsResponse": [
+                                "195.23.113.202"
                             ], 
                             "status": 2
                         }
@@ -3797,6 +3891,12 @@
                                 "213.13.145.120"
                             ], 
                             "status": 2
+                        }, 
+                        "nos": {
+                            "dnsResponse": [
+                                "195.23.113.202"
+                            ], 
+                            "status": 2
                         }
                     }, 
                     "reason": "copyright"
@@ -3808,6 +3908,12 @@
                     ], 
                     "isp": {
                         "meo": {
+                            "dnsResponse": [
+                                "82.221.105.12"
+                            ], 
+                            "status": 0
+                        }, 
+                        "nos": {
                             "dnsResponse": [
                                 "82.221.105.12"
                             ], 
@@ -4004,6 +4110,12 @@
                                 "5.45.77.153"
                             ], 
                             "status": 0
+                        }, 
+                        "nos": {
+                            "dnsResponse": [
+                                "195.23.113.202"
+                            ], 
+                            "status": 2
                         }
                     }, 
                     "reason": "copyright"
@@ -4019,6 +4131,12 @@
                                 "5.45.77.153"
                             ], 
                             "status": 0
+                        }, 
+                        "nos": {
+                            "dnsResponse": [
+                                "195.23.113.202"
+                            ], 
+                            "status": 2
                         }
                     }, 
                     "reason": "copyright"
@@ -4375,10 +4493,8 @@
                             "status": -1
                         }, 
                         "nos": {
-                            "dnsResponse": [
-                                "195.23.113.202"
-                            ], 
-                            "status": 2
+                            "dnsResponse": [], 
+                            "status": -1
                         }, 
                         "vodafone": {
                             "dnsResponse": [
@@ -4401,10 +4517,8 @@
                             "status": 2
                         }, 
                         "nos": {
-                            "dnsResponse": [
-                                "195.23.113.202"
-                            ], 
-                            "status": 2
+                            "dnsResponse": [], 
+                            "status": -1
                         }, 
                         "vodafone": {
                             "dnsResponse": [
@@ -4425,10 +4539,8 @@
                             "status": -1
                         }, 
                         "nos": {
-                            "dnsResponse": [
-                                "195.23.113.202"
-                            ], 
-                            "status": 2
+                            "dnsResponse": [], 
+                            "status": -1
                         }, 
                         "vodafone": {
                             "dnsResponse": [
@@ -4790,6 +4902,12 @@
                                 "158.69.155.66"
                             ], 
                             "status": 0
+                        }, 
+                        "nos": {
+                            "dnsResponse": [
+                                "158.69.155.66"
+                            ], 
+                            "status": 0
                         }
                     }, 
                     "reason": "copyright"
@@ -4803,6 +4921,12 @@
                         "meo": {
                             "dnsResponse": [
                                 "213.13.145.120"
+                            ], 
+                            "status": 2
+                        }, 
+                        "nos": {
+                            "dnsResponse": [
+                                "195.23.113.202"
                             ], 
                             "status": 2
                         }
@@ -4858,9 +4982,10 @@
                         }, 
                         "nos": {
                             "dnsResponse": [
-                                "195.23.113.202"
+                                "104.31.19.30", 
+                                "104.31.18.30"
                             ], 
-                            "status": 2
+                            "status": 0
                         }, 
                         "vodafone": {
                             "dnsResponse": [
@@ -4985,6 +5110,12 @@
                                 "94.125.59.59"
                             ], 
                             "status": 0
+                        }, 
+                        "nos": {
+                            "dnsResponse": [
+                                "195.23.113.202"
+                            ], 
+                            "status": 2
                         }
                     }, 
                     "reason": "copyright"
@@ -5151,6 +5282,12 @@
                                 "213.13.145.120"
                             ], 
                             "status": 2
+                        }, 
+                        "nos": {
+                            "dnsResponse": [
+                                "195.23.113.202"
+                            ], 
+                            "status": 2
                         }
                     }, 
                     "reason": "copyright"
@@ -5166,6 +5303,12 @@
                                 "209.59.134.58"
                             ], 
                             "status": 0
+                        }, 
+                        "nos": {
+                            "dnsResponse": [
+                                "195.23.113.202"
+                            ], 
+                            "status": 2
                         }
                     }, 
                     "reason": "copyright"
@@ -5217,6 +5360,12 @@
                                 "64.211.66.231"
                             ], 
                             "status": 0
+                        }, 
+                        "nos": {
+                            "dnsResponse": [
+                                "64.211.66.231"
+                            ], 
+                            "status": 0
                         }
                     }, 
                     "reason": "copyright"
@@ -5232,6 +5381,12 @@
                                 "213.13.145.120"
                             ], 
                             "status": 2
+                        }, 
+                        "nos": {
+                            "dnsResponse": [
+                                "195.23.113.202"
+                            ], 
+                            "status": 2
                         }
                     }, 
                     "reason": "copyright"
@@ -5243,6 +5398,12 @@
                     ], 
                     "isp": {
                         "meo": {
+                            "dnsResponse": [
+                                "64.211.66.231"
+                            ], 
+                            "status": 0
+                        }, 
+                        "nos": {
                             "dnsResponse": [
                                 "64.211.66.231"
                             ], 
@@ -5358,6 +5519,12 @@
                                 "163.172.31.10"
                             ], 
                             "status": 0
+                        }, 
+                        "nos": {
+                            "dnsResponse": [
+                                "163.172.31.10"
+                            ], 
+                            "status": 0
                         }
                     }, 
                     "reason": "copyright"
@@ -5371,6 +5538,12 @@
                         "meo": {
                             "dnsResponse": [
                                 "213.13.145.120"
+                            ], 
+                            "status": 2
+                        }, 
+                        "nos": {
+                            "dnsResponse": [
+                                "195.23.113.202"
                             ], 
                             "status": 2
                         }
@@ -5484,6 +5657,12 @@
                                 "104.27.180.23"
                             ], 
                             "status": 0
+                        }, 
+                        "nos": {
+                            "dnsResponse": [
+                                "195.23.113.202"
+                            ], 
+                            "status": 2
                         }
                     }, 
                     "reason": "copyright"
@@ -5759,10 +5938,8 @@
                             "status": 0
                         }, 
                         "nos": {
-                            "dnsResponse": [
-                                "195.23.113.202"
-                            ], 
-                            "status": 2
+                            "dnsResponse": [], 
+                            "status": 1
                         }, 
                         "vodafone": {
                             "dnsResponse": [
@@ -5939,8 +6116,8 @@
                         }, 
                         "nos": {
                             "dnsResponse": [
-                                "149.126.77.104", 
-                                "199.83.130.104"
+                                "199.83.130.104", 
+                                "149.126.77.104"
                             ], 
                             "status": 0
                         }, 
@@ -6034,6 +6211,12 @@
                                 "213.13.145.120"
                             ], 
                             "status": 2
+                        }, 
+                        "nos": {
+                            "dnsResponse": [
+                                "195.23.113.202"
+                            ], 
+                            "status": 2
                         }
                     }, 
                     "reason": "copyright"
@@ -6049,6 +6232,13 @@
                             "dnsResponse": [
                                 "104.25.6.8", 
                                 "104.25.7.8"
+                            ], 
+                            "status": 0
+                        }, 
+                        "nos": {
+                            "dnsResponse": [
+                                "104.25.7.8", 
+                                "104.25.6.8"
                             ], 
                             "status": 0
                         }
@@ -6682,6 +6872,12 @@
                                 "192.99.119.238"
                             ], 
                             "status": 0
+                        }, 
+                        "nos": {
+                            "dnsResponse": [
+                                "192.99.119.238"
+                            ], 
+                            "status": 0
                         }
                     }, 
                     "reason": "copyright"
@@ -6695,6 +6891,12 @@
                         "meo": {
                             "dnsResponse": [
                                 "213.13.145.120"
+                            ], 
+                            "status": 2
+                        }, 
+                        "nos": {
+                            "dnsResponse": [
+                                "195.23.113.202"
                             ], 
                             "status": 2
                         }
@@ -6749,6 +6951,12 @@
                                 "158.69.124.49"
                             ], 
                             "status": 0
+                        }, 
+                        "nos": {
+                            "dnsResponse": [
+                                "158.69.124.49"
+                            ], 
+                            "status": 0
                         }
                     }, 
                     "reason": "copyright"
@@ -6762,6 +6970,12 @@
                         "meo": {
                             "dnsResponse": [
                                 "213.13.145.120"
+                            ], 
+                            "status": 2
+                        }, 
+                        "nos": {
+                            "dnsResponse": [
+                                "195.23.113.202"
                             ], 
                             "status": 2
                         }
@@ -6783,6 +6997,12 @@
                                 "149.56.16.6"
                             ], 
                             "status": 0
+                        }, 
+                        "nos": {
+                            "dnsResponse": [
+                                "149.56.16.6"
+                            ], 
+                            "status": 0
                         }
                     }, 
                     "reason": "copyright"
@@ -6796,6 +7016,12 @@
                         "meo": {
                             "dnsResponse": [
                                 "213.13.145.120"
+                            ], 
+                            "status": 2
+                        }, 
+                        "nos": {
+                            "dnsResponse": [
+                                "195.23.113.202"
                             ], 
                             "status": 2
                         }
@@ -6849,6 +7075,12 @@
                                 "149.56.85.117"
                             ], 
                             "status": 0
+                        }, 
+                        "nos": {
+                            "dnsResponse": [
+                                "149.56.85.117"
+                            ], 
+                            "status": 0
                         }
                     }, 
                     "reason": "copyright"
@@ -6862,6 +7094,12 @@
                         "meo": {
                             "dnsResponse": [
                                 "213.13.145.120"
+                            ], 
+                            "status": 2
+                        }, 
+                        "nos": {
+                            "dnsResponse": [
+                                "195.23.113.202"
                             ], 
                             "status": 2
                         }
@@ -6887,7 +7125,7 @@
                         }, 
                         "nos": {
                             "dnsResponse": [
-                                "192.99.126.79"
+                                "192.99.32.201"
                             ], 
                             "status": 0
                         }, 
@@ -6943,6 +7181,12 @@
                                 "213.13.145.120"
                             ], 
                             "status": 2
+                        }, 
+                        "nos": {
+                            "dnsResponse": [
+                                "195.23.113.202"
+                            ], 
+                            "status": 2
                         }
                     }, 
                     "reason": "copyright"
@@ -6958,6 +7202,12 @@
                                 "158.69.155.77"
                             ], 
                             "status": 0
+                        }, 
+                        "nos": {
+                            "dnsResponse": [
+                                "195.23.113.202"
+                            ], 
+                            "status": 2
                         }
                     }, 
                     "reason": "copyright"
@@ -7042,6 +7292,12 @@
                                 "158.69.155.70"
                             ], 
                             "status": 0
+                        }, 
+                        "nos": {
+                            "dnsResponse": [
+                                "158.69.155.70"
+                            ], 
+                            "status": 0
                         }
                     }, 
                     "reason": "copyright"
@@ -7055,6 +7311,12 @@
                         "meo": {
                             "dnsResponse": [
                                 "213.13.145.120"
+                            ], 
+                            "status": 2
+                        }, 
+                        "nos": {
+                            "dnsResponse": [
+                                "195.23.113.202"
                             ], 
                             "status": 2
                         }
@@ -7074,6 +7336,12 @@
                         "meo": {
                             "dnsResponse": [], 
                             "status": 1
+                        }, 
+                        "nos": {
+                            "dnsResponse": [
+                                "93.158.212.6"
+                            ], 
+                            "status": 0
                         }
                     }, 
                     "reason": "copyright"
@@ -7087,6 +7355,12 @@
                         "meo": {
                             "dnsResponse": [
                                 "213.13.145.120"
+                            ], 
+                            "status": 2
+                        }, 
+                        "nos": {
+                            "dnsResponse": [
+                                "195.23.113.202"
                             ], 
                             "status": 2
                         }
@@ -7110,6 +7384,13 @@
                                 "104.28.14.56"
                             ], 
                             "status": 0
+                        }, 
+                        "nos": {
+                            "dnsResponse": [
+                                "104.28.15.56", 
+                                "104.28.14.56"
+                            ], 
+                            "status": 0
                         }
                     }, 
                     "reason": "copyright"
@@ -7124,6 +7405,12 @@
                         "meo": {
                             "dnsResponse": [
                                 "213.13.145.120"
+                            ], 
+                            "status": 2
+                        }, 
+                        "nos": {
+                            "dnsResponse": [
+                                "195.23.113.202"
                             ], 
                             "status": 2
                         }
@@ -7179,6 +7466,13 @@
                                 "104.24.124.174"
                             ], 
                             "status": 0
+                        }, 
+                        "nos": {
+                            "dnsResponse": [
+                                "104.24.125.174", 
+                                "104.24.124.174"
+                            ], 
+                            "status": 0
                         }
                     }, 
                     "reason": "copyright"
@@ -7193,6 +7487,12 @@
                         "meo": {
                             "dnsResponse": [
                                 "213.13.145.120"
+                            ], 
+                            "status": 2
+                        }, 
+                        "nos": {
+                            "dnsResponse": [
+                                "195.23.113.202"
                             ], 
                             "status": 2
                         }
@@ -7216,10 +7516,8 @@
                             "status": 2
                         }, 
                         "nos": {
-                            "dnsResponse": [
-                                "195.23.113.202"
-                            ], 
-                            "status": 2
+                            "dnsResponse": [], 
+                            "status": 1
                         }, 
                         "vodafone": {
                             "dnsResponse": [
@@ -7306,6 +7604,12 @@
                                 "93.170.92.44"
                             ], 
                             "status": 0
+                        }, 
+                        "nos": {
+                            "dnsResponse": [
+                                "93.170.92.44"
+                            ], 
+                            "status": 0
                         }
                     }, 
                     "reason": "copyright"
@@ -7319,6 +7623,12 @@
                         "meo": {
                             "dnsResponse": [
                                 "213.13.145.120"
+                            ], 
+                            "status": 2
+                        }, 
+                        "nos": {
+                            "dnsResponse": [
+                                "195.23.113.202"
                             ], 
                             "status": 2
                         }
@@ -7340,6 +7650,12 @@
                                 "93.170.92.44"
                             ], 
                             "status": 0
+                        }, 
+                        "nos": {
+                            "dnsResponse": [
+                                "93.170.92.44"
+                            ], 
+                            "status": 0
                         }
                     }, 
                     "reason": "copyright"
@@ -7353,6 +7669,12 @@
                         "meo": {
                             "dnsResponse": [
                                 "213.13.145.120"
+                            ], 
+                            "status": 2
+                        }, 
+                        "nos": {
+                            "dnsResponse": [
+                                "195.23.113.202"
                             ], 
                             "status": 2
                         }
@@ -7868,10 +8190,8 @@
                             "status": -1
                         }, 
                         "nos": {
-                            "dnsResponse": [
-                                "195.23.113.202"
-                            ], 
-                            "status": 2
+                            "dnsResponse": [], 
+                            "status": -1
                         }, 
                         "vodafone": {
                             "dnsResponse": [
@@ -7891,10 +8211,8 @@
                             "status": -1
                         }, 
                         "nos": {
-                            "dnsResponse": [
-                                "195.23.113.202"
-                            ], 
-                            "status": 2
+                            "dnsResponse": [], 
+                            "status": -1
                         }, 
                         "vodafone": {
                             "dnsResponse": [
@@ -7983,6 +8301,12 @@
                                 "89.163.227.9"
                             ], 
                             "status": 0
+                        }, 
+                        "nos": {
+                            "dnsResponse": [
+                                "89.163.227.9"
+                            ], 
+                            "status": 0
                         }
                     }, 
                     "reason": "copyright"
@@ -7996,6 +8320,12 @@
                         "meo": {
                             "dnsResponse": [
                                 "213.13.145.120"
+                            ], 
+                            "status": 2
+                        }, 
+                        "nos": {
+                            "dnsResponse": [
+                                "195.23.113.202"
                             ], 
                             "status": 2
                         }
@@ -8266,10 +8596,8 @@
                             "status": 2
                         }, 
                         "nos": {
-                            "dnsResponse": [
-                                "195.23.113.202"
-                            ], 
-                            "status": 2
+                            "dnsResponse": [], 
+                            "status": -1
                         }, 
                         "vodafone": {
                             "dnsResponse": [
@@ -8290,10 +8618,8 @@
                             "status": -1
                         }, 
                         "nos": {
-                            "dnsResponse": [
-                                "195.23.113.202"
-                            ], 
-                            "status": 2
+                            "dnsResponse": [], 
+                            "status": -1
                         }, 
                         "vodafone": {
                             "dnsResponse": [
@@ -8571,6 +8897,12 @@
                                 "109.202.101.9"
                             ], 
                             "status": 0
+                        }, 
+                        "nos": {
+                            "dnsResponse": [
+                                "109.202.101.9"
+                            ], 
+                            "status": 0
                         }
                     }, 
                     "reason": "copyright"
@@ -8584,6 +8916,12 @@
                         "meo": {
                             "dnsResponse": [
                                 "213.13.145.120"
+                            ], 
+                            "status": 2
+                        }, 
+                        "nos": {
+                            "dnsResponse": [
+                                "195.23.113.202"
                             ], 
                             "status": 2
                         }
@@ -8849,6 +9187,12 @@
                                 "109.202.109.18"
                             ], 
                             "status": 0
+                        }, 
+                        "nos": {
+                            "dnsResponse": [
+                                "195.23.113.202"
+                            ], 
+                            "status": 2
                         }
                     }, 
                     "reason": "copyright"
@@ -9619,8 +9963,10 @@
                             "status": 2
                         }, 
                         "nos": {
-                            "dnsResponse": [], 
-                            "status": -1
+                            "dnsResponse": [
+                                "195.23.113.202"
+                            ], 
+                            "status": 2
                         }, 
                         "vodafone": {
                             "dnsResponse": [], 
@@ -9713,6 +10059,12 @@
                                 "162.253.131.219"
                             ], 
                             "status": 0
+                        }, 
+                        "nos": {
+                            "dnsResponse": [
+                                "195.23.113.202"
+                            ], 
+                            "status": 2
                         }
                     }, 
                     "reason": "copyright"
@@ -9920,10 +10272,9 @@
                         }, 
                         "nos": {
                             "dnsResponse": [
+                                "62.210.157.85", 
                                 "62.210.169.183", 
-                                "212.129.9.141", 
-                                "212.129.26.79", 
-                                "62.210.157.85"
+                                "212.129.9.141"
                             ], 
                             "status": 0
                         }, 
@@ -9954,6 +10305,12 @@
                                 "213.13.145.120"
                             ], 
                             "status": 2
+                        }, 
+                        "nos": {
+                            "dnsResponse": [
+                                "195.23.113.202"
+                            ], 
+                            "status": 2
                         }
                     }, 
                     "reason": "copyright"
@@ -9965,6 +10322,12 @@
                     ], 
                     "isp": {
                         "meo": {
+                            "dnsResponse": [
+                                "46.148.19.18"
+                            ], 
+                            "status": 0
+                        }, 
+                        "nos": {
                             "dnsResponse": [
                                 "46.148.19.18"
                             ], 
@@ -10491,11 +10854,11 @@
                         }, 
                         "nos": {
                             "dnsResponse": [
-                                "104.16.32.178", 
-                                "104.16.126.177", 
-                                "104.16.127.177", 
+                                "104.16.125.177", 
                                 "104.16.33.178", 
-                                "104.16.125.177"
+                                "104.16.127.177", 
+                                "104.16.126.177", 
+                                "104.16.32.178"
                             ], 
                             "status": 0
                         }, 
@@ -10839,10 +11202,8 @@
                             "status": 2
                         }, 
                         "nos": {
-                            "dnsResponse": [
-                                "195.23.113.202"
-                            ], 
-                            "status": 2
+                            "dnsResponse": [], 
+                            "status": -1
                         }, 
                         "vodafone": {
                             "dnsResponse": [
@@ -10870,6 +11231,12 @@
                                 "213.13.145.120"
                             ], 
                             "status": 2
+                        }, 
+                        "nos": {
+                            "dnsResponse": [
+                                "195.23.113.202"
+                            ], 
+                            "status": 2
                         }
                     }, 
                     "reason": "copyright"
@@ -10887,6 +11254,12 @@
                                 "104.18.62.212"
                             ], 
                             "status": 0
+                        }, 
+                        "nos": {
+                            "dnsResponse": [
+                                "195.23.113.202"
+                            ], 
+                            "status": 2
                         }
                     }, 
                     "reason": "copyright"
@@ -11005,6 +11378,13 @@
                                 "104.24.100.77"
                             ], 
                             "status": 0
+                        }, 
+                        "nos": {
+                            "dnsResponse": [
+                                "104.24.100.77", 
+                                "104.24.101.77"
+                            ], 
+                            "status": 0
                         }
                     }, 
                     "reason": "copyright"
@@ -11019,6 +11399,12 @@
                         "meo": {
                             "dnsResponse": [
                                 "213.13.145.120"
+                            ], 
+                            "status": 2
+                        }, 
+                        "nos": {
+                            "dnsResponse": [
+                                "195.23.113.202"
                             ], 
                             "status": 2
                         }
@@ -11166,10 +11552,8 @@
                             "status": 0
                         }, 
                         "nos": {
-                            "dnsResponse": [
-                                "195.23.113.202"
-                            ], 
-                            "status": 2
+                            "dnsResponse": [], 
+                            "status": 1
                         }, 
                         "vodafone": {
                             "dnsResponse": [], 
@@ -11306,6 +11690,12 @@
                                 "158.69.226.198"
                             ], 
                             "status": 0
+                        }, 
+                        "nos": {
+                            "dnsResponse": [
+                                "158.69.226.198"
+                            ], 
+                            "status": 0
                         }
                     }, 
                     "reason": "copyright"
@@ -11319,6 +11709,12 @@
                         "meo": {
                             "dnsResponse": [
                                 "213.13.145.120"
+                            ], 
+                            "status": 2
+                        }, 
+                        "nos": {
+                            "dnsResponse": [
+                                "195.23.113.202"
                             ], 
                             "status": 2
                         }
@@ -11647,6 +12043,13 @@
                                 "104.31.84.12"
                             ], 
                             "status": 0
+                        }, 
+                        "nos": {
+                            "dnsResponse": [
+                                "104.31.84.12", 
+                                "104.31.85.12"
+                            ], 
+                            "status": 0
                         }
                     }, 
                     "reason": "copyright"
@@ -11661,6 +12064,12 @@
                         "meo": {
                             "dnsResponse": [
                                 "213.13.145.120"
+                            ], 
+                            "status": 2
+                        }, 
+                        "nos": {
+                            "dnsResponse": [
+                                "195.23.113.202"
                             ], 
                             "status": 2
                         }
@@ -11687,8 +12096,8 @@
                         }, 
                         "nos": {
                             "dnsResponse": [
-                                "104.24.4.12", 
-                                "104.24.5.12"
+                                "104.31.94.174", 
+                                "104.31.95.174"
                             ], 
                             "status": 0
                         }, 
@@ -11995,8 +12404,10 @@
                             "status": 0
                         }, 
                         "nos": {
-                            "dnsResponse": [], 
-                            "status": -1
+                            "dnsResponse": [
+                                "195.23.113.202"
+                            ], 
+                            "status": 2
                         }, 
                         "vodafone": {
                             "dnsResponse": [], 
@@ -12020,10 +12431,8 @@
                             "status": 2
                         }, 
                         "nos": {
-                            "dnsResponse": [
-                                "195.23.113.202"
-                            ], 
-                            "status": 2
+                            "dnsResponse": [], 
+                            "status": -1
                         }, 
                         "vodafone": {
                             "dnsResponse": [
@@ -12044,10 +12453,8 @@
                             "status": -1
                         }, 
                         "nos": {
-                            "dnsResponse": [
-                                "37.59.36.191"
-                            ], 
-                            "status": 0
+                            "dnsResponse": [], 
+                            "status": -1
                         }, 
                         "vodafone": {
                             "dnsResponse": [
@@ -12436,6 +12843,12 @@
                                 "213.13.145.120"
                             ], 
                             "status": 2
+                        }, 
+                        "nos": {
+                            "dnsResponse": [
+                                "195.23.113.202"
+                            ], 
+                            "status": 2
                         }
                     }, 
                     "reason": "copyright"
@@ -12451,6 +12864,12 @@
                                 "50.7.64.234"
                             ], 
                             "status": 0
+                        }, 
+                        "nos": {
+                            "dnsResponse": [
+                                "195.23.113.202"
+                            ], 
+                            "status": 2
                         }
                     }, 
                     "reason": "copyright"
@@ -12757,9 +13176,10 @@
                         }, 
                         "nos": {
                             "dnsResponse": [
-                                "195.23.113.202"
+                                "104.28.23.56", 
+                                "104.28.22.56"
                             ], 
-                            "status": 2
+                            "status": 0
                         }, 
                         "vodafone": {
                             "dnsResponse": [
@@ -12851,6 +13271,13 @@
                                 "104.28.15.34"
                             ], 
                             "status": 0
+                        }, 
+                        "nos": {
+                            "dnsResponse": [
+                                "104.28.15.34", 
+                                "104.28.14.34"
+                            ], 
+                            "status": 0
                         }
                     }, 
                     "reason": "copyright"
@@ -12865,6 +13292,12 @@
                         "meo": {
                             "dnsResponse": [
                                 "213.13.145.120"
+                            ], 
+                            "status": 2
+                        }, 
+                        "nos": {
+                            "dnsResponse": [
+                                "195.23.113.202"
                             ], 
                             "status": 2
                         }
@@ -12887,6 +13320,12 @@
                                 "213.13.145.120"
                             ], 
                             "status": 2
+                        }, 
+                        "nos": {
+                            "dnsResponse": [
+                                "195.23.113.202"
+                            ], 
+                            "status": 2
                         }
                     }, 
                     "reason": "copyright"
@@ -12899,6 +13338,13 @@
                     ], 
                     "isp": {
                         "meo": {
+                            "dnsResponse": [
+                                "104.27.143.240", 
+                                "104.27.142.240"
+                            ], 
+                            "status": 0
+                        }, 
+                        "nos": {
                             "dnsResponse": [
                                 "104.27.143.240", 
                                 "104.27.142.240"
@@ -13141,6 +13587,12 @@
                                 "213.13.145.120"
                             ], 
                             "status": 2
+                        }, 
+                        "nos": {
+                            "dnsResponse": [
+                                "195.23.113.202"
+                            ], 
+                            "status": 2
                         }
                     }, 
                     "reason": "copyright"
@@ -13156,6 +13608,12 @@
                                 "178.17.170.155"
                             ], 
                             "status": 0
+                        }, 
+                        "nos": {
+                            "dnsResponse": [
+                                "195.23.113.202"
+                            ], 
+                            "status": 2
                         }
                     }, 
                     "reason": "copyright"
@@ -13206,7 +13664,7 @@
                         }, 
                         "nos": {
                             "dnsResponse": [
-                                "80.65.251.140"
+                                "81.88.168.10"
                             ], 
                             "status": 0
                         }, 
@@ -13299,6 +13757,12 @@
                                 "198.57.150.100"
                             ], 
                             "status": 0
+                        }, 
+                        "nos": {
+                            "dnsResponse": [
+                                "198.57.150.100"
+                            ], 
+                            "status": 0
                         }
                     }, 
                     "reason": "copyright"
@@ -13312,6 +13776,12 @@
                         "meo": {
                             "dnsResponse": [
                                 "213.13.145.120"
+                            ], 
+                            "status": 2
+                        }, 
+                        "nos": {
+                            "dnsResponse": [
+                                "195.23.113.202"
                             ], 
                             "status": 2
                         }
@@ -13897,6 +14367,12 @@
                                 "213.13.145.120"
                             ], 
                             "status": 2
+                        }, 
+                        "nos": {
+                            "dnsResponse": [
+                                "195.23.113.202"
+                            ], 
+                            "status": 2
                         }
                     }, 
                     "reason": "copyright"
@@ -13912,6 +14388,12 @@
                                 "91.218.247.90"
                             ], 
                             "status": 0
+                        }, 
+                        "nos": {
+                            "dnsResponse": [
+                                "195.23.113.202"
+                            ], 
+                            "status": 2
                         }
                     }, 
                     "reason": "copyright"
@@ -14315,6 +14797,13 @@
                                 "217.175.205.117"
                             ], 
                             "status": 0
+                        }, 
+                        "nos": {
+                            "dnsResponse": [
+                                "217.175.204.110", 
+                                "217.175.205.117"
+                            ], 
+                            "status": 0
                         }
                     }, 
                     "reason": "copyright"
@@ -14463,6 +14952,12 @@
                                 "37.48.121.73"
                             ], 
                             "status": 0
+                        }, 
+                        "nos": {
+                            "dnsResponse": [
+                                "37.48.121.73"
+                            ], 
+                            "status": 0
                         }
                     }, 
                     "reason": "copyright"
@@ -14476,6 +14971,12 @@
                         "meo": {
                             "dnsResponse": [
                                 "213.13.145.120"
+                            ], 
+                            "status": 2
+                        }, 
+                        "nos": {
+                            "dnsResponse": [
+                                "195.23.113.202"
                             ], 
                             "status": 2
                         }
@@ -15825,6 +16326,12 @@
                                 "104.25.64.15"
                             ], 
                             "status": 0
+                        }, 
+                        "nos": {
+                            "dnsResponse": [
+                                "195.23.113.202"
+                            ], 
+                            "status": 2
                         }
                     }, 
                     "reason": "copyright"
@@ -15931,6 +16438,12 @@
                                 "79.143.184.188"
                             ], 
                             "status": 0
+                        }, 
+                        "nos": {
+                            "dnsResponse": [
+                                "79.143.184.188"
+                            ], 
+                            "status": 0
                         }
                     }, 
                     "reason": "copyright"
@@ -15944,6 +16457,12 @@
                         "meo": {
                             "dnsResponse": [
                                 "213.13.145.120"
+                            ], 
+                            "status": 2
+                        }, 
+                        "nos": {
+                            "dnsResponse": [
+                                "195.23.113.202"
                             ], 
                             "status": 2
                         }
@@ -15996,6 +16515,12 @@
                                 "188.165.222.204"
                             ], 
                             "status": 0
+                        }, 
+                        "nos": {
+                            "dnsResponse": [
+                                "188.165.222.204"
+                            ], 
+                            "status": 0
                         }
                     }, 
                     "reason": "copyright"
@@ -16009,6 +16534,12 @@
                         "meo": {
                             "dnsResponse": [
                                 "213.13.145.120"
+                            ], 
+                            "status": 2
+                        }, 
+                        "nos": {
+                            "dnsResponse": [
+                                "195.23.113.202"
                             ], 
                             "status": 2
                         }
@@ -16157,6 +16688,12 @@
                                 "213.13.145.120"
                             ], 
                             "status": 2
+                        }, 
+                        "nos": {
+                            "dnsResponse": [
+                                "195.23.113.202"
+                            ], 
+                            "status": 2
                         }
                     }, 
                     "reason": "copyright"
@@ -16172,6 +16709,12 @@
                                 "142.4.195.21"
                             ], 
                             "status": 0
+                        }, 
+                        "nos": {
+                            "dnsResponse": [
+                                "195.23.113.202"
+                            ], 
+                            "status": 2
                         }
                     }, 
                     "reason": "copyright"
@@ -16285,6 +16828,12 @@
                                 "213.13.145.120"
                             ], 
                             "status": 2
+                        }, 
+                        "nos": {
+                            "dnsResponse": [
+                                "195.23.113.202"
+                            ], 
+                            "status": 2
                         }
                     }, 
                     "reason": "copyright"
@@ -16302,6 +16851,12 @@
                                 "104.24.16.65"
                             ], 
                             "status": 0
+                        }, 
+                        "nos": {
+                            "dnsResponse": [
+                                "195.23.113.202"
+                            ], 
+                            "status": 2
                         }
                     }, 
                     "reason": "copyright"
@@ -16323,6 +16878,13 @@
                                 "104.28.27.91"
                             ], 
                             "status": 0
+                        }, 
+                        "nos": {
+                            "dnsResponse": [
+                                "104.28.27.91", 
+                                "104.28.26.91"
+                            ], 
+                            "status": 0
                         }
                     }, 
                     "reason": "copyright"
@@ -16337,6 +16899,12 @@
                         "meo": {
                             "dnsResponse": [
                                 "213.13.145.120"
+                            ], 
+                            "status": 2
+                        }, 
+                        "nos": {
+                            "dnsResponse": [
+                                "195.23.113.202"
                             ], 
                             "status": 2
                         }
@@ -16358,6 +16926,12 @@
                                 "213.13.145.120"
                             ], 
                             "status": 2
+                        }, 
+                        "nos": {
+                            "dnsResponse": [
+                                "195.23.113.202"
+                            ], 
+                            "status": 2
                         }
                     }, 
                     "reason": "copyright"
@@ -16369,6 +16943,12 @@
                     ], 
                     "isp": {
                         "meo": {
+                            "dnsResponse": [
+                                "82.221.105.12"
+                            ], 
+                            "status": 0
+                        }, 
+                        "nos": {
                             "dnsResponse": [
                                 "82.221.105.12"
                             ], 
@@ -16393,6 +16973,12 @@
                                 "213.13.145.120"
                             ], 
                             "status": 2
+                        }, 
+                        "nos": {
+                            "dnsResponse": [
+                                "195.23.113.202"
+                            ], 
+                            "status": 2
                         }
                     }, 
                     "reason": "copyright"
@@ -16410,6 +16996,12 @@
                                 "104.25.127.17"
                             ], 
                             "status": 0
+                        }, 
+                        "nos": {
+                            "dnsResponse": [
+                                "195.23.113.202"
+                            ], 
+                            "status": 2
                         }
                     }, 
                     "reason": "copyright"
@@ -16430,10 +17022,8 @@
                             "status": 2
                         }, 
                         "nos": {
-                            "dnsResponse": [
-                                "195.23.113.202"
-                            ], 
-                            "status": 2
+                            "dnsResponse": [], 
+                            "status": -1
                         }, 
                         "vodafone": {
                             "dnsResponse": [
@@ -16454,10 +17044,8 @@
                             "status": -1
                         }, 
                         "nos": {
-                            "dnsResponse": [
-                                "195.23.113.202"
-                            ], 
-                            "status": 2
+                            "dnsResponse": [], 
+                            "status": -1
                         }, 
                         "vodafone": {
                             "dnsResponse": [
@@ -16638,6 +17226,12 @@
                                 "213.13.145.120"
                             ], 
                             "status": 2
+                        }, 
+                        "nos": {
+                            "dnsResponse": [
+                                "195.23.113.202"
+                            ], 
+                            "status": 2
                         }
                     }, 
                     "reason": "copyright"
@@ -16655,6 +17249,12 @@
                                 "162.144.144.195"
                             ], 
                             "status": 0
+                        }, 
+                        "nos": {
+                            "dnsResponse": [
+                                "195.23.113.202"
+                            ], 
+                            "status": 2
                         }
                     }, 
                     "reason": "copyright"
@@ -16706,6 +17306,12 @@
                                 "213.86.83.29"
                             ], 
                             "status": 0
+                        }, 
+                        "nos": {
+                            "dnsResponse": [
+                                "213.86.83.29"
+                            ], 
+                            "status": 0
                         }
                     }, 
                     "reason": "copyright"
@@ -16719,6 +17325,12 @@
                         "meo": {
                             "dnsResponse": [
                                 "213.13.145.120"
+                            ], 
+                            "status": 2
+                        }, 
+                        "nos": {
+                            "dnsResponse": [
+                                "195.23.113.202"
                             ], 
                             "status": 2
                         }
@@ -16900,10 +17512,8 @@
                             "status": 1
                         }, 
                         "nos": {
-                            "dnsResponse": [
-                                "195.23.113.202"
-                            ], 
-                            "status": 2
+                            "dnsResponse": [], 
+                            "status": 1
                         }, 
                         "vodafone": {
                             "dnsResponse": [
@@ -17652,8 +18262,10 @@
                             "status": 2
                         }, 
                         "nos": {
-                            "dnsResponse": [], 
-                            "status": 1
+                            "dnsResponse": [
+                                "195.23.113.202"
+                            ], 
+                            "status": 2
                         }, 
                         "vodafone": {
                             "dnsResponse": [
@@ -17685,8 +18297,8 @@
                         }, 
                         "nos": {
                             "dnsResponse": [
-                                "104.18.63.167", 
-                                "104.18.62.167"
+                                "104.18.62.167", 
+                                "104.18.63.167"
                             ], 
                             "status": 0
                         }, 
@@ -18082,8 +18694,8 @@
                         }, 
                         "nos": {
                             "dnsResponse": [
-                                "104.27.128.142", 
-                                "104.27.129.142"
+                                "104.27.129.142", 
+                                "104.27.128.142"
                             ], 
                             "status": 0
                         }, 
@@ -18462,8 +19074,7 @@
                         }, 
                         "nos": {
                             "dnsResponse": [
-                                "104.24.108.195", 
-                                "104.24.109.195"
+                                "50.63.202.59"
                             ], 
                             "status": 0
                         }, 
@@ -18614,6 +19225,12 @@
                                 "213.13.145.120"
                             ], 
                             "status": 2
+                        }, 
+                        "nos": {
+                            "dnsResponse": [
+                                "195.23.113.202"
+                            ], 
+                            "status": 2
                         }
                     }, 
                     "reason": "copyright"
@@ -18623,6 +19240,10 @@
                     "ip": [], 
                     "isp": {
                         "meo": {
+                            "dnsResponse": [], 
+                            "status": -1
+                        }, 
+                        "nos": {
                             "dnsResponse": [], 
                             "status": -1
                         }
@@ -18902,6 +19523,13 @@
                                 "104.18.35.228"
                             ], 
                             "status": 0
+                        }, 
+                        "nos": {
+                            "dnsResponse": [
+                                "104.18.34.228", 
+                                "104.18.35.228"
+                            ], 
+                            "status": 0
                         }
                     }, 
                     "reason": "copyright"
@@ -18915,6 +19543,12 @@
                         "meo": {
                             "dnsResponse": [
                                 "213.13.145.120"
+                            ], 
+                            "status": 2
+                        }, 
+                        "nos": {
+                            "dnsResponse": [
+                                "195.23.113.202"
                             ], 
                             "status": 2
                         }
@@ -19037,6 +19671,12 @@
                                 "192.185.46.37"
                             ], 
                             "status": 0
+                        }, 
+                        "nos": {
+                            "dnsResponse": [
+                                "192.185.46.37"
+                            ], 
+                            "status": 0
                         }
                     }, 
                     "reason": "copyright"
@@ -19050,6 +19690,12 @@
                         "meo": {
                             "dnsResponse": [
                                 "213.13.145.120"
+                            ], 
+                            "status": 2
+                        }, 
+                        "nos": {
+                            "dnsResponse": [
+                                "195.23.113.202"
                             ], 
                             "status": 2
                         }
@@ -19193,6 +19839,12 @@
                                 "213.13.145.120"
                             ], 
                             "status": 2
+                        }, 
+                        "nos": {
+                            "dnsResponse": [
+                                "195.23.113.202"
+                            ], 
+                            "status": 2
                         }
                     }, 
                     "reason": "copyright"
@@ -19208,6 +19860,13 @@
                             "dnsResponse": [
                                 "104.27.142.65", 
                                 "104.27.143.65"
+                            ], 
+                            "status": 0
+                        }, 
+                        "nos": {
+                            "dnsResponse": [
+                                "104.27.143.65", 
+                                "104.27.142.65"
                             ], 
                             "status": 0
                         }
@@ -19229,6 +19888,12 @@
                                 "109.202.109.18"
                             ], 
                             "status": 0
+                        }, 
+                        "nos": {
+                            "dnsResponse": [
+                                "109.202.109.18"
+                            ], 
+                            "status": 0
                         }
                     }, 
                     "reason": "copyright"
@@ -19242,6 +19907,12 @@
                         "meo": {
                             "dnsResponse": [
                                 "213.13.145.120"
+                            ], 
+                            "status": 2
+                        }, 
+                        "nos": {
+                            "dnsResponse": [
+                                "195.23.113.202"
                             ], 
                             "status": 2
                         }
@@ -19574,6 +20245,12 @@
                                 "141.101.118.194"
                             ], 
                             "status": 0
+                        }, 
+                        "nos": {
+                            "dnsResponse": [
+                                "195.23.113.202"
+                            ], 
+                            "status": 2
                         }
                     }, 
                     "reason": "copyright"
@@ -19585,6 +20262,12 @@
                         "meo": {
                             "dnsResponse": [], 
                             "status": -1
+                        }, 
+                        "nos": {
+                            "dnsResponse": [
+                                "195.23.113.202"
+                            ], 
+                            "status": 2
                         }
                     }, 
                     "reason": "copyright"
@@ -19634,10 +20317,8 @@
                             "status": 1
                         }, 
                         "nos": {
-                            "dnsResponse": [
-                                "195.23.113.202"
-                            ], 
-                            "status": 2
+                            "dnsResponse": [], 
+                            "status": 1
                         }, 
                         "vodafone": {
                             "dnsResponse": [
@@ -20003,10 +20684,8 @@
                             "status": 2
                         }, 
                         "nos": {
-                            "dnsResponse": [
-                                "195.23.113.202"
-                            ], 
-                            "status": 2
+                            "dnsResponse": [], 
+                            "status": 1
                         }, 
                         "vodafone": {
                             "dnsResponse": [
@@ -20031,10 +20710,8 @@
                             "status": 0
                         }, 
                         "nos": {
-                            "dnsResponse": [
-                                "195.23.113.202"
-                            ], 
-                            "status": 2
+                            "dnsResponse": [], 
+                            "status": 1
                         }, 
                         "vodafone": {
                             "dnsResponse": [
@@ -20123,6 +20800,13 @@
                             "dnsResponse": [
                                 "104.31.18.30", 
                                 "104.31.19.30"
+                            ], 
+                            "status": 0
+                        }, 
+                        "nos": {
+                            "dnsResponse": [
+                                "104.31.19.30", 
+                                "104.31.18.30"
                             ], 
                             "status": 0
                         }
@@ -20366,6 +21050,13 @@
                                 "104.31.67.103"
                             ], 
                             "status": 0
+                        }, 
+                        "nos": {
+                            "dnsResponse": [
+                                "104.31.67.103", 
+                                "104.31.66.103"
+                            ], 
+                            "status": 0
                         }
                     }, 
                     "reason": "copyright"
@@ -20380,6 +21071,12 @@
                         "meo": {
                             "dnsResponse": [
                                 "213.13.145.120"
+                            ], 
+                            "status": 2
+                        }, 
+                        "nos": {
+                            "dnsResponse": [
+                                "195.23.113.202"
                             ], 
                             "status": 2
                         }
@@ -20961,10 +21658,8 @@
                             "status": 2
                         }, 
                         "nos": {
-                            "dnsResponse": [
-                                "184.168.221.51"
-                            ], 
-                            "status": 0
+                            "dnsResponse": [], 
+                            "status": -1
                         }, 
                         "vodafone": {
                             "dnsResponse": [
@@ -21340,8 +22035,10 @@
                             "status": 2
                         }, 
                         "nos": {
-                            "dnsResponse": [], 
-                            "status": 1
+                            "dnsResponse": [
+                                "195.23.113.202"
+                            ], 
+                            "status": 2
                         }, 
                         "vodafone": {
                             "dnsResponse": [
@@ -22903,11 +23600,11 @@
                         }, 
                         "nos": {
                             "dnsResponse": [
-                                "94.23.154.120", 
-                                "87.98.188.44", 
                                 "87.98.250.104", 
                                 "87.98.254.183", 
-                                "94.23.154.108"
+                                "94.23.154.108", 
+                                "94.23.154.120", 
+                                "87.98.188.44"
                             ], 
                             "status": 0
                         }, 
@@ -22969,7 +23666,7 @@
                         }, 
                         "nos": {
                             "dnsResponse": [
-                                "185.9.101.90"
+                                "185.9.101.117"
                             ], 
                             "status": 0
                         }, 
@@ -23062,6 +23759,13 @@
                                 "104.28.27.5"
                             ], 
                             "status": 0
+                        }, 
+                        "nos": {
+                            "dnsResponse": [
+                                "104.28.27.5", 
+                                "104.28.26.5"
+                            ], 
+                            "status": 0
                         }
                     }, 
                     "reason": "copyright"
@@ -23076,6 +23780,12 @@
                         "meo": {
                             "dnsResponse": [
                                 "213.13.145.120"
+                            ], 
+                            "status": 2
+                        }, 
+                        "nos": {
+                            "dnsResponse": [
+                                "195.23.113.202"
                             ], 
                             "status": 2
                         }
@@ -23225,8 +23935,10 @@
                             "status": 2
                         }, 
                         "nos": {
-                            "dnsResponse": [], 
-                            "status": -1
+                            "dnsResponse": [
+                                "195.23.113.202"
+                            ], 
+                            "status": 2
                         }, 
                         "vodafone": {
                             "dnsResponse": [], 
@@ -23316,6 +24028,13 @@
                                 "104.28.6.92"
                             ], 
                             "status": 0
+                        }, 
+                        "nos": {
+                            "dnsResponse": [
+                                "104.28.6.92", 
+                                "104.28.7.92"
+                            ], 
+                            "status": 0
                         }
                     }, 
                     "reason": "copyright"
@@ -23330,6 +24049,12 @@
                         "meo": {
                             "dnsResponse": [
                                 "213.13.145.120"
+                            ], 
+                            "status": 2
+                        }, 
+                        "nos": {
+                            "dnsResponse": [
+                                "195.23.113.202"
                             ], 
                             "status": 2
                         }
@@ -23356,8 +24081,11 @@
                             "status": 0
                         }, 
                         "nos": {
-                            "dnsResponse": [], 
-                            "status": 1
+                            "dnsResponse": [
+                                "104.27.176.172", 
+                                "104.27.177.172"
+                            ], 
+                            "status": 0
                         }, 
                         "vodafone": {
                             "dnsResponse": [
@@ -24009,6 +24737,12 @@
                                 "213.13.145.120"
                             ], 
                             "status": 2
+                        }, 
+                        "nos": {
+                            "dnsResponse": [
+                                "195.23.113.202"
+                            ], 
+                            "status": 2
                         }
                     }, 
                     "reason": "copyright"
@@ -24020,6 +24754,12 @@
                     ], 
                     "isp": {
                         "meo": {
+                            "dnsResponse": [
+                                "82.221.105.12"
+                            ], 
+                            "status": 0
+                        }, 
+                        "nos": {
                             "dnsResponse": [
                                 "82.221.105.12"
                             ], 
@@ -24046,7 +24786,7 @@
                         }, 
                         "nos": {
                             "dnsResponse": [
-                                "31.7.58.59"
+                                "31.7.60.70"
                             ], 
                             "status": 0
                         }, 
@@ -24197,6 +24937,12 @@
                                 "185.53.177.8"
                             ], 
                             "status": 0
+                        }, 
+                        "nos": {
+                            "dnsResponse": [
+                                "195.23.113.202"
+                            ], 
+                            "status": 2
                         }
                     }, 
                     "reason": "copyright"
@@ -24212,6 +24958,12 @@
                                 "185.53.177.8"
                             ], 
                             "status": 0
+                        }, 
+                        "nos": {
+                            "dnsResponse": [
+                                "195.23.113.202"
+                            ], 
+                            "status": 2
                         }
                     }, 
                     "reason": "copyright"
@@ -24289,8 +25041,10 @@
                             "status": 1
                         }, 
                         "nos": {
-                            "dnsResponse": [], 
-                            "status": 1
+                            "dnsResponse": [
+                                "195.23.113.202"
+                            ], 
+                            "status": 2
                         }, 
                         "vodafone": {
                             "dnsResponse": [
@@ -24314,8 +25068,10 @@
                             "status": 2
                         }, 
                         "nos": {
-                            "dnsResponse": [], 
-                            "status": 1
+                            "dnsResponse": [
+                                "195.23.113.202"
+                            ], 
+                            "status": 2
                         }, 
                         "vodafone": {
                             "dnsResponse": [
@@ -24398,8 +25154,8 @@
                         }, 
                         "nos": {
                             "dnsResponse": [
-                                "104.28.12.82", 
-                                "104.28.13.82"
+                                "104.28.13.82", 
+                                "104.28.12.82"
                             ], 
                             "status": 0
                         }, 
@@ -24488,7 +25244,7 @@
                 "dnsAdress": [
                     "212.113.191.130"
                 ], 
-                "lastScan": "2016-03-07T11:14:06.168000"
+                "lastScan": "2016-04-30T15:31:12.135000"
             }, 
             "vodafone": {
                 "dnsAdress": [
