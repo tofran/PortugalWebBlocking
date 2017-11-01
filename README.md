@@ -58,8 +58,6 @@ Status codes:
 
 ## Acknowledgements
 
-- [dnspython](https://github.com/rthalley/dnspython)
-- [jquery](https://jquery.com/)
 - [tablesorter](https://github.com/christianbach/tablesorter)
 - [GitHub Corners](https://github.com/tholman/github-corners)
 - [Stop hand icon](https://en.wikipedia.org/wiki/File:Stop_hand.svg)

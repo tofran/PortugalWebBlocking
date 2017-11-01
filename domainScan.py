@@ -1,12 +1,12 @@
 #!/usr/bin/python
 
-__author__ = 'ToFran'
-__site__ = 'http://tofran.com/'
+__author__ = 'tofran'
+__site__ = 'https://tofran.com/'
 
-__license__ = "MIT"
+__license__ = "GPLv3"
 __version__ = "2.0"
-__maintainer__ = "ToFran"
-__email__ = "me@tofran.com"
+__maintainer__ = "tofran"
+__email__ = "me@tofran.com
 
 ##########
 
