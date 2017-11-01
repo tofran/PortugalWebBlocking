@@ -1,5 +1,7 @@
 # [List of websites blocked in Portugal][1]
 
+**2017-11-01 WARNING: THIS IS OUTDATED, I'm going to start maintaining this soon (check the other branches)**
+
 This repo contains (some of) the domains currently being blocked by ISP's in Portugal.
 
 **blockList.txt** - A simple list of the blocked domains domains
