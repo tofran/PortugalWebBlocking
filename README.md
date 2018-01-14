@@ -1,40 +1,26 @@
-# [List of websites blocked in Portugal][1]
+# [List of websites blocked in Portugal][list]
 
-This repo contains (some of) the domains currently being blocked by ISP's in Portugal.
+**This branch will be the next version, currently it is in development and IT DOES NOT WORK**
 
-**blockList.txt** - A simple list of the blocked domains domains
+This repo contains the domains currently being blocked by ISP's in Portugal.
 
-**blockList.json** - A detailed JSON file with all the domains, that follows the following format:
+**blockList.txt** - A simple list of the currently blocked domains
+
+**blockList.json** - A detailed JSON file with all the domains and subdomains, that follows the following format:
 ```JSON
 {
-	"info" : {
-		"isps" : {
-			"ispName" : {
-				"dnsAdress" : ["0.0.0.0"],
-				"lastScan" : ["yyyy-MM-ddThh:mm:ss"]
-			}
-		},
-		"reference" : {
-			"name" : "Google Public DNS",
-			"dnsAdress" : ["8.8.8.8", "8.8.4.4"],
-			"lastScan" : ["yyyy-MM-ddThh:mm:ss"]
-		}
-	},
-	"domains":{
-		"domain.name" : {
-			"hosts": {
-				"@": {
-					"blockDate" : "yyyy-MM",
-					"ip" : ["0.0.0.0"],
-					"reason": "Why was the website blocked? (Copyright | Gambling | 'Mistake' | Unknown)",
-					"isp" : {
-						"ispName" : {
-							"status" : 0,
-							"dnsResponse" : [
-								"255.255.255.255"
-							]
-						}
-					}
+	"<domain name>" : {
+		"status" : 0,
+		"hosts": {
+			"<subdomain or @>": {
+				"blockDate" : "yyyy-MM-dd",
+				"ips" : ["0.0.0.0"],
+				"reason": "<Why was the website blocked? (Copyright, Gambling, 'Mistake', Unknown)>",
+				"<ISP>" : {
+					"status" : 0,
+					"response" : [
+						"255.255.255.255"
+					]
 				}
 			}
 		}
@@ -65,6 +51,8 @@ Status codes:
 
 ## License
 
-[MIT](LICENSE)
+The list itself is public domain, it would be great if you made reference to this repo :)
+The code and this project are licensed under GPL v3
 
-[1]: <https://tofran.github.io/PortugalWebBlocking/>
+[list]: <https://tofran.github.io/PortugalWebBlocking/>
+
